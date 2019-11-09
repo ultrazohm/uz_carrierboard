@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UltraZOhm_CarrierBoard.PcbDoc   13/10/2019  15:15:27
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UltraZOhm_CarrierBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             1549      PTH        165.45inch (4202.36mm)
+T2      12mil (0.3mm)                                             Round             895       PTH        133.00inch (3378.27mm)
+T3      20mil (0.5mm)                                             Round             2         PTH        0.31inch (7.90mm)
+T4      33mil (0.84mm)                                            Round             16        PTH        19.68inch (499.82mm)
+T5      35mil (0.89mm)                                            Round             10        PTH        1.22inch (31.08mm)
+T6      35mil (0.9mm)                                             Round             12        PTH        1.10inch (27.94mm)
+T7      39mil (1mm)                                               Round             24        PTH        19.51inch (495.63mm)
+T8      40mil (1.016mm)                                           Round             44        PTH        15.07inch (382.89mm)
+T9      40mil (1.02mm)                                            Round             4         PTH        0.62inch (15.81mm)
+T10     64mil (1.63mm)                                            Round             2         PTH        0.62inch (15.75mm)
+T11     126mil (3.2mm)                                            Round             8         PTH        50.85inch (1291.54mm)
+T12     50mil (1.27mm)                                            Round             16        NPTH       19.49inch (495.15mm)
+T13     114mil (2.9mm)                                            Round             12        NPTH       28.84inch (732.60mm)
+T14     126mil (3.2mm)                                            Round             2         NPTH       0.45inch (11.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2596
+
+Total Processing Time (hh:mm:ss) : 00:00:02

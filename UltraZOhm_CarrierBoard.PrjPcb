@@ -558,7 +558,7 @@ AnnotateOrder=31
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -649,16 +649,16 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_Ult
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorParam
-Value=Andreas Geiger
+Name=RevisionBy
+Value=Thilo Wendt
 
 [Parameter2]
 Name=ProjectRevision
 Value=3
 
 [Parameter3]
-Name=RevisionBy
-Value=Thilo Wendt
+Name=AuthorParam
+Value=Andreas Geiger
 
 [Configuration1]
 Name=Default Configuration

@@ -345,7 +345,7 @@ DocumentUniqueId=UDFEVWFY
 
 [Document19]
 DocumentPath=Power_Supply_Input.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -564,12 +564,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEPEWSEJ
 
+[Document32]
+DocumentPath=LevelShiftingXMOD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=32
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KDNJQHPX
+
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=83
+VariationCount=86
 Variation1=Designator=R202|UniqueId=\SPUSTFFY\JMWRQNLI\DXEDUBJL|Kind=1|AlternatePart= 
 Variation2=Designator=R208|UniqueId=\WIRVBQMH\DJBOOEOD|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\WIRVBQMH\PWSNXSTL|Kind=1|AlternatePart= 
@@ -599,14 +616,14 @@ Variation26=Designator=R183|UniqueId=\WIRVBQMH\CXRWOBTY\JQLJQKFN|Kind=1|Alternat
 Variation27=Designator=R182|UniqueId=\WIRVBQMH\CXRWOBTY\GIMCKYZN|Kind=1|AlternatePart= 
 Variation28=Designator=R180|UniqueId=\WIRVBQMH\CXRWOBTY\NRYJARDS|Kind=1|AlternatePart= 
 Variation29=Designator=R98|UniqueId=\UOBERPDV\SGEERAGF|Kind=1|AlternatePart= 
-Variation30=Designator=R100|UniqueId=\UOBERPDV\UMQMCCIX|Kind=1|AlternatePart= 
-Variation31=Designator=R101|UniqueId=\UOBERPDV\DAOTUJFN|Kind=1|AlternatePart= 
-Variation32=Designator=R105|UniqueId=\UOBERPDV\WOIUNAAN|Kind=1|AlternatePart= 
-Variation33=Designator=R107|UniqueId=\UOBERPDV\OSCXLCLA|Kind=1|AlternatePart= 
-Variation34=Designator=R109|UniqueId=\UOBERPDV\XBHNTDPI|Kind=1|AlternatePart= 
-Variation35=Designator=R106|UniqueId=\UOBERPDV\OSPCALXN|Kind=1|AlternatePart= 
-Variation36=Designator=R108|UniqueId=\UOBERPDV\TDNIPEPS|Kind=1|AlternatePart= 
-Variation37=Designator=R110|UniqueId=\UOBERPDV\OACNFISN|Kind=1|AlternatePart= 
+Variation30=Designator=R100|UniqueId=\UOBERPDV\JUIEDOYU\EEOYVILL|Kind=1|AlternatePart= 
+Variation31=Designator=R101|UniqueId=\UOBERPDV\JUIEDOYU\MFHDZHTL|Kind=1|AlternatePart= 
+Variation32=Designator=R105|UniqueId=\UOBERPDV\JUIEDOYU\XBOMWPVV|Kind=1|AlternatePart= 
+Variation33=Designator=R107|UniqueId=\UOBERPDV\JUIEDOYU\HOZQXRQZ|Kind=1|AlternatePart= 
+Variation34=Designator=R109|UniqueId=\UOBERPDV\JUIEDOYU\NUKMPAKL|Kind=1|AlternatePart= 
+Variation35=Designator=R106|UniqueId=\UOBERPDV\JUIEDOYU\TWYSFOJE|Kind=1|AlternatePart= 
+Variation36=Designator=R108|UniqueId=\UOBERPDV\JUIEDOYU\YWXRBBHF|Kind=1|AlternatePart= 
+Variation37=Designator=R110|UniqueId=\UOBERPDV\JUIEDOYU\GFERCEFQ|Kind=1|AlternatePart= 
 Variation38=Designator=R78A|UniqueId=\UOBERPDV\1CGKLFIVQ\PPIRVQOU|Kind=1|AlternatePart= 
 Variation39=Designator=R79A|UniqueId=\UOBERPDV\1CGKLFIVQ\KASJDGRX|Kind=1|AlternatePart= 
 Variation40=Designator=R121|UniqueId=\UOBERPDV\TVCGAKXK\QKBEWNGQ|Kind=1|AlternatePart= 
@@ -653,6 +670,9 @@ Variation80=Designator=R167|UniqueId=\UOBERPDV\TLNOSMBB\JDRYAEJS\EFBPJBMF|Kind=1
 Variation81=Designator=R166|UniqueId=\UOBERPDV\TLNOSMBB\JDRYAEJS\MPVBVWTM|Kind=1|AlternatePart= 
 Variation82=Designator=R89|UniqueId=\RNKNEDIM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation83=Designator=R96|UniqueId=\RNKNEDIM\VWGLMNYP|Kind=1|AlternatePart= 
+Variation84=Designator=C74|UniqueId=\UOBERPDV\JUIEDOYU\ACAYNBXL|Kind=1|AlternatePart= 
+Variation85=Designator=C73|UniqueId=\UOBERPDV\JUIEDOYU\XEZIOEMG|Kind=1|AlternatePart= 
+Variation86=Designator=R104|UniqueId=\UOBERPDV\JUIEDOYU\EQWUURRF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]

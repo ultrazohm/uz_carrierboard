@@ -1,12 +1,25 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [UltraZOhm_CarrierBoard.PrjPcb]
-   Generated File[UltraZOhm_CarrierBoard.TXT]
-   Generated File[UltraZOhm_CarrierBoard.LDP]
-   Generated File[UltraZOhm_CarrierBoard.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [UltraZOhm_CarrierBoard.PrjPcb]
+   Generated File[UltraZOhm_CarrierBoard.GTO]
+   Generated File[UltraZOhm_CarrierBoard.GTP]
+   Generated File[UltraZOhm_CarrierBoard.GTS]
+   Generated File[UltraZOhm_CarrierBoard.GTL]
+   Generated File[UltraZOhm_CarrierBoard.G1]
+   Generated File[UltraZOhm_CarrierBoard.G2]
+   Generated File[UltraZOhm_CarrierBoard.G3]
+   Generated File[UltraZOhm_CarrierBoard.G4]
+   Generated File[UltraZOhm_CarrierBoard.GBL]
+   Generated File[UltraZOhm_CarrierBoard.GBS]
+   Generated File[UltraZOhm_CarrierBoard.GBP]
+   Generated File[UltraZOhm_CarrierBoard.GBO]
+   Generated File[UltraZOhm_CarrierBoard.GM1]
+   Generated File[UltraZOhm_CarrierBoard.RUL]
+   Generated File[UltraZOhm_CarrierBoard.EXTREP]
+   Generated File[UltraZOhm_CarrierBoard.REP]
 
 
-Files Generated   : 3
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 11:55:37 On 06.06.2020
+Finished Output Generation At 18:20:00 On 06.06.2020

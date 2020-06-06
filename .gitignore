@@ -11,8 +11,7 @@
 # Project Logs
 Project\ Logs*/
 
-# Project Outputs
-Project\ Outputs*/
+# Project Outputs shall be in the repository
 
 # Auto-conversion notices
 *.PcbDoc.htm

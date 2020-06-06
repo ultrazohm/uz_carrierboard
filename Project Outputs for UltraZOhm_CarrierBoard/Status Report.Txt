@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UltraZOhm_CarrierBoard.PrjPcb]
+   Generated File[UltraZOhm_CarrierBoard.TXT]
+   Generated File[UltraZOhm_CarrierBoard.LDP]
+   Generated File[UltraZOhm_CarrierBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:37:26 On 05.06.2020

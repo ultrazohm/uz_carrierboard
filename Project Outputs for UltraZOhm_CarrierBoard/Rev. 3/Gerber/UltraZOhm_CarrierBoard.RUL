@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Thilo Wendt\Documents\altium\ultrazohm_carrierboard_2vxx\UltraZOhm_CarrierBoard.PcbDoc
+RuleKind=Width|RuleName=width_s75|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Power|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

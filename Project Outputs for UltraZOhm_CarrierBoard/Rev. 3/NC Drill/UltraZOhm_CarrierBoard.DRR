@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UltraZOhm_CarrierBoard.PcbDoc   06.06.2020  11:55:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UltraZOhm_CarrierBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             1655      PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             789       PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      33mil (0.84mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T5      35mil (0.89mm)                                            Round             10        PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             24        PTH        0.00inch (0.00mm)
+T7      40mil (1.016mm)                                           Round             44        PTH        0.00inch (0.00mm)
+T8      40mil (1.02mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T9      64mil (1.63mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T11     50mil (1.27mm)                                            Round             16        NPTH       0.00inch (0.00mm)
+T12     114mil (2.9mm)                                            Round             12        NPTH       0.00inch (0.00mm)
+T13     126mil (3.2mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2584
+
+Total Processing Time (hh:mm:ss) : 00:00:02

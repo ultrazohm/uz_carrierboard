@@ -639,7 +639,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=34
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -656,7 +656,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=33
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -773,7 +773,7 @@ UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=99
+VariationCount=105
 Variation1=Designator=R202|UniqueId=\SPUSTFFY\JMWRQNLI\DXEDUBJL|Kind=1|AlternatePart= 
 Variation2=Designator=R208|UniqueId=\WIRVBQMH\DJBOOEOD|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\WIRVBQMH\PWSNXSTL|Kind=1|AlternatePart= 
@@ -873,6 +873,12 @@ Variation96=Designator=R38|UniqueId=\WIRVBQMH\YQMNRFNE\VSSBLJBJ|Kind=1|Alternate
 Variation97=Designator=R40|UniqueId=\WIRVBQMH\YQMNRFNE\UZNGLUGA|Kind=1|AlternatePart= 
 Variation98=Designator=R42|UniqueId=\WIRVBQMH\YQMNRFNE\WRPLCLBB|Kind=1|AlternatePart= 
 Variation99=Designator=R208|UniqueId=\WIRVBQMH\APHJHNRL\YKXFQCTK|Kind=1|AlternatePart= 
+Variation100=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\ZWUVABSP|Kind=1|AlternatePart= 
+Variation101=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\TJVWOGLI|Kind=1|AlternatePart= 
+Variation102=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\HJSCTTEX|Kind=1|AlternatePart= 
+Variation103=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\WPFRZHFL|Kind=1|AlternatePart= 
+Variation104=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\LOKLISOC|Kind=1|AlternatePart= 
+Variation105=Designator=R?|UniqueId=\UOBERPDV\JUIEDOYU\BFEAWNCX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1045,7 +1051,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Drucken in PDF Annotator
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=CarrierBoard_TopSheet.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -56,7 +56,7 @@ DocumentUniqueId=RFGENXFE
 
 [Document2]
 DocumentPath=Board2Board.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -73,7 +73,7 @@ DocumentUniqueId=MSNHAMKW
 
 [Document3]
 DocumentPath=J1.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,7 +90,7 @@ DocumentUniqueId=NUAMKYFW
 
 [Document4]
 DocumentPath=J2.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -107,7 +107,7 @@ DocumentUniqueId=KSXBHDHT
 
 [Document5]
 DocumentPath=J3.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -124,7 +124,7 @@ DocumentUniqueId=PDPPLJUW
 
 [Document6]
 DocumentPath=J4.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=SGEQHPFG
 
 [Document7]
 DocumentPath=Signal_Distribution.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,7 +158,7 @@ DocumentUniqueId=AXDFRLKV
 
 [Document8]
 DocumentPath=ETH-PHY.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -175,7 +175,7 @@ DocumentUniqueId=FLIJIXSU
 
 [Document9]
 DocumentPath=Digital_Interface.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -192,7 +192,7 @@ DocumentUniqueId=RVVXLFNB
 
 [Document10]
 DocumentPath=Analog_Interface.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,7 +209,7 @@ DocumentUniqueId=FJFMXGSG
 
 [Document11]
 DocumentPath=SD_Card.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -226,7 +226,7 @@ DocumentUniqueId=YBNYLLIC
 
 [Document12]
 DocumentPath=XMOD.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -243,7 +243,7 @@ DocumentUniqueId=VCCWYQIO
 
 [Document13]
 DocumentPath=isoCAN.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -260,7 +260,7 @@ DocumentUniqueId=WXNGHNRW
 
 [Document14]
 DocumentPath=Power_Supply_1.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -277,7 +277,7 @@ DocumentUniqueId=SSAICVNN
 
 [Document15]
 DocumentPath=isoSPI.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -294,7 +294,7 @@ DocumentUniqueId=AFSKYJKE
 
 [Document16]
 DocumentPath=Power_Supply_2.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -311,7 +311,7 @@ DocumentUniqueId=OSOSWFHE
 
 [Document17]
 DocumentPath=isoGPIO.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -328,7 +328,7 @@ DocumentUniqueId=CKPWSCRQ
 
 [Document18]
 DocumentPath=External_IO_Protection.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -345,7 +345,7 @@ DocumentUniqueId=UDFEVWFY
 
 [Document19]
 DocumentPath=Power_Supply_Input.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -396,7 +396,7 @@ DocumentUniqueId=DICHLHHP
 
 [Document22]
 DocumentPath=DiagLEDs.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -430,7 +430,7 @@ DocumentUniqueId=
 
 [Document24]
 DocumentPath=Block_Diagram.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -447,7 +447,7 @@ DocumentUniqueId=EPDNBIMX
 
 [Document25]
 DocumentPath=Collective_FAULT_logic.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -532,7 +532,7 @@ DocumentUniqueId=AMIWXWPB
 
 [Document30]
 DocumentPath=LevelShiftingExtGPIO.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -549,7 +549,7 @@ DocumentUniqueId=HVLCBOVN
 
 [Document31]
 DocumentPath=LevelShifting.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=

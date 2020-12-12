@@ -911,12 +911,12 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_Ult
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=4v00
-
-[Parameter2]
 Name=AuthorParam
 Value=Andreas Geiger
+
+[Parameter2]
+Name=ProjectRevision
+Value=4v00
 
 [Configuration1]
 Name=Default Configuration

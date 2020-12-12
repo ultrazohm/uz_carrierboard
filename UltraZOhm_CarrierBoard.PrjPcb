@@ -769,7 +769,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=Power_Supply.SchDoc
+DocumentPath=Power_Supply_1V8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

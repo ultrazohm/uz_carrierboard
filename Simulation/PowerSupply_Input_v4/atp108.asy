@@ -5,7 +5,7 @@ WINDOW 0 0 -40 Bottom 2
 WINDOW 3 0 40 Top 2
 SYMATTR Prefix X
 SYMATTR Value atp108
-SYMATTR ModelFile C:\Users\simon\Downloads\strombegrenzung_cb_SimonLukas\atp108_rev0.lib
+SYMATTR ModelFile atp108_rev0.lib
 PIN -32 0 LEFT 8
 PINATTR PinName D
 PINATTR SpiceOrder 1

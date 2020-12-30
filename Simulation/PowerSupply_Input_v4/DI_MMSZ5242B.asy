@@ -5,7 +5,7 @@ WINDOW 0 0 -24 Bottom 2
 WINDOW 3 0 24 Top 2
 SYMATTR Prefix X
 SYMATTR Value DI_MMSZ5242B
-SYMATTR ModelFile C:\Users\simon\Downloads\strombegrenzung_cb_SimonLukas\MMSZ5242B.spice.txt
+SYMATTR ModelFile MMSZ5242B.spice.txt
 PIN -32 0 LEFT 8
 PINATTR PinName A
 PINATTR SpiceOrder 1

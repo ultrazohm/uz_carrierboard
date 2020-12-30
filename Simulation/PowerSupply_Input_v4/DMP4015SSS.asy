@@ -5,7 +5,7 @@ WINDOW 0 0 -40 Bottom 2
 WINDOW 3 0 40 Top 2
 SYMATTR Prefix X
 SYMATTR Value DMP4015SSS
-SYMATTR ModelFile C:\Users\simon\Downloads\strombegrenzung_cb_SimonLukas\DMP4015SSS.spice.txt
+SYMATTR ModelFile DMP4015SSS.spice.txt
 PIN -48 0 LEFT 8
 PINATTR PinName D
 PINATTR SpiceOrder 1

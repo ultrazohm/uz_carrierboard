@@ -904,6 +904,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document52]
+DocumentPath=J1.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
@@ -1015,14 +1032,18 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\BOM\BOM_UltraZOhm_Carrie
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Footprint Comparison - UltraZOhm_CarrierBoard.html
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Design Rule Check - UltraZOhm_CarrierBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.csv
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Footprint Comparison - UltraZOhm_CarrierBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.txt
 DItemRevisionGUID=
 

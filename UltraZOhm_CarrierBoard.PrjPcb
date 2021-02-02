@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for UltraZOhm_CarrierBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1055,7 +1055,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ANHXDAYL
+
+[Document61]
+DocumentPath=..\PCB_Libraries\templates\PCB_Logo.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SNYSPRWX
+
+[Document62]
+DocumentPath=..\PCB_Libraries\templates\PCB_Logo.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWEYJQIH
 
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
@@ -1187,16 +1221,16 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_Ult
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=4v00
+Name=AuthorParam
+Value=Andreas Geiger
 
 [Parameter2]
 Name=Project
 Value=UZ_CarrierBoard
 
 [Parameter3]
-Name=AuthorParam
-Value=Andreas Geiger
+Name=ProjectRevision
+Value=4v00
 
 [Configuration1]
 Name=Default Configuration
@@ -1245,7 +1279,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for UltraZOhm_CarrierBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1918,6 +1952,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -3210,15 +3274,15 @@ ComponentUpdate101=0
 ComponentIsDeviceSheet101=0
 ComponentLibIdentifierKind102=Library Name And Type
 ComponentLibraryIdentifier102=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID102=
-ComponentSymbolReference102=SerialNumber
-ComponentUpdate102=1
+ComponentDesignItemID102=Pinheader_2x1_SMD
+ComponentSymbolReference102=Pinheader_2x1_SMD
+ComponentUpdate102=0
 ComponentIsDeviceSheet102=0
 ComponentLibIdentifierKind103=Library Name And Type
 ComponentLibraryIdentifier103=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID103=Pinheader_2x1_SMD
-ComponentSymbolReference103=Pinheader_2x1_SMD
-ComponentUpdate103=0
+ComponentDesignItemID103=SerialNumber
+ComponentSymbolReference103=SerialNumber
+ComponentUpdate103=1
 ComponentIsDeviceSheet103=0
 FullReplace=1
 UpdateDesignatorLock=1

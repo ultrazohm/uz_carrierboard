@@ -1096,7 +1096,7 @@ UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=97
+VariationCount=99
 Variation1=Designator=R75A|UniqueId=\WIRVBQMH\1FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
 Variation2=Designator=R75B|UniqueId=\WIRVBQMH\2FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
 Variation3=Designator=R75C|UniqueId=\WIRVBQMH\3FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
@@ -1194,6 +1194,8 @@ Variation94=Designator=R1H|UniqueId=\BCOOPVGD\ZAPPYJCH|Kind=1|AlternatePart=
 Variation95=Designator=D26|UniqueId=\UOBERPDV\GABJFTRH\DCRNCSWC\AERSLNIQ|Kind=1|AlternatePart= 
 Variation96=Designator=R132|UniqueId=\UOBERPDV\GABJFTRH\DCRNCSWC\XAUGYHWS|Kind=1|AlternatePart= 
 Variation97=Designator=X9|UniqueId=\UOBERPDV\HXIEARMA|Kind=1|AlternatePart= 
+Variation98=Designator=R154|UniqueId=\BCOOPVGD\BJIVXQLD|Kind=1|AlternatePart= 
+Variation99=Designator=R155|UniqueId=\BCOOPVGD\NZJFCXPT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1221,20 +1223,20 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_Ult
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=4v00
+Name=AuthorParam
+Value=A. Geiger & E. Liegmann
 
 [Parameter2]
-Name=ProjectDate
-Value=02/2021
-
-[Parameter3]
 Name=Project
 Value=UZ_CarrierBoard
 
+[Parameter3]
+Name=ProjectDate
+Value=02/2021
+
 [Parameter4]
-Name=AuthorParam
-Value=A. Geiger & E. Liegmann
+Name=ProjectRevision
+Value=4v00
 
 [Configuration1]
 Name=Default Configuration
@@ -2636,7 +2638,7 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=PCB_Logo.SchLib
-ComponentDesignItemID0=
+ComponentDesignItemID0=UZ Logo
 ComponentSymbolReference0=UZ Logo
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
@@ -3248,14 +3250,14 @@ ComponentUpdate101=0
 ComponentIsDeviceSheet101=0
 ComponentLibIdentifierKind102=Library Name And Type
 ComponentLibraryIdentifier102=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID102=
-ComponentSymbolReference102=SerialNumber
+ComponentDesignItemID102=Pinheader_2x1_SMD
+ComponentSymbolReference102=Pinheader_2x1_SMD
 ComponentUpdate102=0
 ComponentIsDeviceSheet102=0
 ComponentLibIdentifierKind103=Library Name And Type
 ComponentLibraryIdentifier103=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID103=Pinheader_2x1_SMD
-ComponentSymbolReference103=Pinheader_2x1_SMD
+ComponentDesignItemID103=SerialNumber
+ComponentSymbolReference103=SerialNumber
 ComponentUpdate103=0
 ComponentIsDeviceSheet103=0
 FullReplace=1

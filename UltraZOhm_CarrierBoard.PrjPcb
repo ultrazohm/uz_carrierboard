@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for UltraZOhm_CarrierBoard
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -378,6 +378,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NMPESBKE
 
 [Document21]
+DocumentPath=SATA_crossover.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PITESWGV
+
+[Document22]
 DocumentPath=OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=UltraZOhm_CarrierBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DICHLHHP
 
-[Document23]
+[Document24]
 DocumentPath=DiagLEDs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJVGTHFD
 
-[Document24]
+[Document25]
 DocumentPath=UltraZOhm_CarrierBoard.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Block_Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPDNBIMX
 
-[Document26]
+[Document27]
 DocumentPath=Collective_FAULT_logic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHCZVRHV
 
-[Document27]
+[Document28]
 DocumentPath=Library\Samtec.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Library\Samtec.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQBBAUAL
 
-[Document29]
+[Document30]
 DocumentPath=Library\UltraZOhm_CarrierBoard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMIWXWPB
 
-[Document30]
+[Document31]
 DocumentPath=LevelShifting.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEPEWSEJ
 
-[Document31]
+[Document32]
 DocumentPath=LevelShiftingXMOD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDNJQHPX
 
-[Document32]
+[Document33]
 DocumentPath=UltraZOhm_CarrierBoard.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Rev. 3\Library\UltraZOhm_CarrierBoard_V3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=UltraZOhm_CarrierBoard.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=Pilot_Line.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQONSMN
 
-[Document36]
+[Document37]
 DocumentPath=CPLD_Programming.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNMLBUXS
 
-[Document37]
+[Document38]
 DocumentPath=Board2Board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Signal_Distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=J3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=XMOD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=Power_Supply_1V8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRUMMABL
 
-[Document42]
+[Document43]
 DocumentPath=LED_external.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EISOOUCR
 
-[Document43]
+[Document44]
 DocumentPath=External_IO_Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDFEVWFY
 
-[Document44]
+[Document45]
 DocumentPath=4_Channel_TVS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DADYAXKB
 
-[Document45]
+[Document46]
 DocumentPath=Trenz_Outputs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=J2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=SD_Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,25 +853,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
-DocumentPath=ETH-PHY.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document49]
-DocumentPath=SATA.Harness
+DocumentPath=ETH-PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1091,6 +1091,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWEYJQIH
 
+[Document63]
+DocumentPath=SATA_crossover.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document64]
+DocumentPath=SATA.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
@@ -1304,9 +1338,9 @@ Variation97=Designator=X9|UniqueId=\UOBERPDV\HXIEARMA|Kind=1|AlternatePart=
 Variation98=Designator=R154|UniqueId=\BCOOPVGD\BJIVXQLD|Kind=1|AlternatePart= 
 Variation99=Designator=R155|UniqueId=\BCOOPVGD\NZJFCXPT|Kind=1|AlternatePart= 
 Variation100=Designator=X2|UniqueId=\BCOOPVGD\EUDWIVGD|Kind=2|AlternatePart=[Cust.Supply] 7499110123|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=7499110123|AltLibLink_DesignItemID=30864|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7499110123|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=AN|VariantValue=30864
+ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
 ParamDesignator1=X2
-ParamVariation2=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
+ParamVariation2=ParameterName=AN|VariantValue=30864
 ParamDesignator2=X2
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=X2
@@ -1339,9 +1373,9 @@ ParamDesignator16=X2
 ParamVariation17=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator17=X2
 Variation101=Designator=X4|UniqueId=\KYYHSXNC\LSTTUZPI|Kind=2|AlternatePart=[Cust.Supply] 7499110123|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=7499110123|AltLibLink_DesignItemID=30864|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7499110123|AltLibLink_IsSameFootprint=True
-ParamVariation18=ParameterName=AN|VariantValue=30864
+ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
 ParamDesignator18=X4
-ParamVariation19=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
+ParamVariation19=ParameterName=AN|VariantValue=30864
 ParamDesignator19=X4
 ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator20=X4
@@ -1374,11 +1408,11 @@ ParamDesignator33=X4
 ParamVariation34=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator34=X4
 Variation102=Designator=U10|UniqueId=\RNKNEDIM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=AN|VariantValue=30863
+ParamVariation35=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator35=U10
-ParamVariation36=ParameterName=Case|VariantValue=TO263-7EP
+ParamVariation36=ParameterName=AN|VariantValue=30863
 ParamDesignator36=U10
-ParamVariation37=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamVariation37=ParameterName=Case|VariantValue=TO263-7EP
 ParamDesignator37=U10
 ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator38=U10
@@ -1407,11 +1441,11 @@ ParamDesignator49=U10
 ParamVariation50=ParameterName=Simulation|VariantValue= 
 ParamDesignator50=U10
 Variation103=Designator=U11|UniqueId=\RNKNEDIM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation51=ParameterName=AN|VariantValue=30863
+ParamVariation51=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator51=U11
-ParamVariation52=ParameterName=Case|VariantValue=TO263-7EP
+ParamVariation52=ParameterName=AN|VariantValue=30863
 ParamDesignator52=U11
-ParamVariation53=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamVariation53=ParameterName=Case|VariantValue=TO263-7EP
 ParamDesignator53=U11
 ParamVariation54=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator54=U11
@@ -1440,11 +1474,11 @@ ParamDesignator65=U11
 ParamVariation66=ParameterName=Simulation|VariantValue= 
 ParamDesignator66=U11
 Variation104=Designator=U12|UniqueId=\RNKNEDIM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation67=ParameterName=AN|VariantValue=30863
+ParamVariation67=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator67=U12
-ParamVariation68=ParameterName=Case|VariantValue=TO263-7EP
+ParamVariation68=ParameterName=AN|VariantValue=30863
 ParamDesignator68=U12
-ParamVariation69=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamVariation69=ParameterName=Case|VariantValue=TO263-7EP
 ParamDesignator69=U12
 ParamVariation70=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator70=U12
@@ -1473,11 +1507,11 @@ ParamDesignator81=U12
 ParamVariation82=ParameterName=Simulation|VariantValue= 
 ParamDesignator82=U12
 Variation105=Designator=X7A|UniqueId=\UOBERPDV\CGKLFIVQ\EQPKJTCG|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
-ParamVariation83=ParameterName=AN|VariantValue=30866
+ParamVariation83=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
 ParamDesignator83=X7A
-ParamVariation84=ParameterName=Case|VariantValue=IPL1
+ParamVariation84=ParameterName=AN|VariantValue=30866
 ParamDesignator84=X7A
-ParamVariation85=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
+ParamVariation85=ParameterName=Case|VariantValue=IPL1
 ParamDesignator85=X7A
 ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator86=X7A
@@ -1508,11 +1542,11 @@ ParamDesignator98=X7A
 ParamVariation99=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator99=X7A
 Variation106=Designator=X12|UniqueId=\UOBERPDV\TVCGAKXK\FMGLVJNF|Kind=2|AlternatePart=[Cust.Supply] IPL1-103-02-L-D-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-6-CUST|AltLibLink_DesignItemID=30865|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-103-02-L-D-K|AltLibLink_IsSameFootprint=True
-ParamVariation100=ParameterName=AN|VariantValue=30865
+ParamVariation100=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-103-02-L-D-K
 ParamDesignator100=X12
-ParamVariation101=ParameterName=Case|VariantValue=IPL1
+ParamVariation101=ParameterName=AN|VariantValue=30865
 ParamDesignator101=X12
-ParamVariation102=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-103-02-L-D-K
+ParamVariation102=ParameterName=Case|VariantValue=IPL1
 ParamDesignator102=X12
 ParamVariation103=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator103=X12
@@ -1543,11 +1577,11 @@ ParamDesignator115=X12
 ParamVariation116=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator116=X12
 Variation107=Designator=X7B|UniqueId=\UOBERPDV\EYVZQQPN\EQPKJTCG|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
-ParamVariation117=ParameterName=AN|VariantValue=30866
+ParamVariation117=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
 ParamDesignator117=X7B
-ParamVariation118=ParameterName=Case|VariantValue=IPL1
+ParamVariation118=ParameterName=AN|VariantValue=30866
 ParamDesignator118=X7B
-ParamVariation119=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
+ParamVariation119=ParameterName=Case|VariantValue=IPL1
 ParamDesignator119=X7B
 ParamVariation120=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator120=X7B
@@ -1578,11 +1612,11 @@ ParamDesignator132=X7B
 ParamVariation133=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator133=X7B
 Variation108=Designator=X10|UniqueId=\UOBERPDV\YHZFIOUU|Kind=2|AlternatePart=[Cust.Supply] IPL1-106-02-L-D-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-12-CUST|AltLibLink_DesignItemID=30867|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-106-02-L-D-K|AltLibLink_IsSameFootprint=True
-ParamVariation134=ParameterName=AN|VariantValue=30867
+ParamVariation134=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-106-02-L-D-K
 ParamDesignator134=X10
-ParamVariation135=ParameterName=Case|VariantValue=IPL1
+ParamVariation135=ParameterName=AN|VariantValue=30867
 ParamDesignator135=X10
-ParamVariation136=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-106-02-L-D-K
+ParamVariation136=ParameterName=Case|VariantValue=IPL1
 ParamDesignator136=X10
 ParamVariation137=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator137=X10
@@ -1613,11 +1647,11 @@ ParamDesignator149=X10
 ParamVariation150=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator150=X10
 Variation109=Designator=X18|UniqueId=\UOBERPDV\GABJFTRH\QXSCEKJG|Kind=2|AlternatePart=[Cust.Supply] IPL1-113-02-L-D-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-26-CUST|AltLibLink_DesignItemID=30869|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-113-02-L-D-K|AltLibLink_IsSameFootprint=True
-ParamVariation151=ParameterName=AN|VariantValue=30869
+ParamVariation151=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-113-02-L-D-K
 ParamDesignator151=X18
-ParamVariation152=ParameterName=Case|VariantValue=IPL1
+ParamVariation152=ParameterName=AN|VariantValue=30869
 ParamDesignator152=X18
-ParamVariation153=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-113-02-L-D-K
+ParamVariation153=ParameterName=Case|VariantValue=IPL1
 ParamDesignator153=X18
 ParamVariation154=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator154=X18
@@ -1654,22 +1688,26 @@ DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\BOM\BOM_UltraZOhm_Carrie
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Design Rule Check - UltraZOhm_CarrierBoard.html
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\BOM\BOM_UltraZOhm_CarrierBoard_4v00.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Footprint Comparison - UltraZOhm_CarrierBoard.html
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Design Rule Check - UltraZOhm_CarrierBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Move Component(s) Origin To Grid - UltraZOhm_CarrierBoard.html
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Footprint Comparison - UltraZOhm_CarrierBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.csv
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Move Component(s) Origin To Grid - UltraZOhm_CarrierBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
+DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.csv
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Pick Place\PickPlace_UltraZOhm_CarrierBoard_4v00.txt
 DItemRevisionGUID=
 
@@ -1736,7 +1774,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UltraZOhm_CarrierBoard
 
 [OutputGroup1]
 Name=Netlist Outputs

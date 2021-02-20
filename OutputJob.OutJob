@@ -18,11 +18,11 @@ RevisionNamingSchemeGUID=
 Name=OutputJob.OutJob
 Description=
 TargetOutputMedium=BOM
-VariantName=Standard
+VariantName=Customer_Supply
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=PDFCreator
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -113,7 +113,7 @@ Configuration3_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|S
 OutputType4=Schematic Print
 OutputName4=Schematic Prints
 OutputCategory4=Documentation
-OutputDocumentPath4=
+OutputDocumentPath4=[Project Physical Documents]
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0

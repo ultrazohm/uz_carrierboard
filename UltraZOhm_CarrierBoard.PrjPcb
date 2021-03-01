@@ -1233,7 +1233,7 @@ ParamVariationCount=0
 
 [ProjectVariant2]
 UniqueID=B0644C3E-A894-4079-A321-638D395E5463
-Description=Customer_Supply
+Description=B
 AllowFabrication=0
 ParameterCount=0
 VariationCount=108
@@ -1336,9 +1336,9 @@ Variation96=Designator=X9|UniqueId=\LNKYODNA\HXIEARMA|Kind=1|AlternatePart=
 Variation97=Designator=R154|UniqueId=\RDIXJSCV\BJIVXQLD|Kind=1|AlternatePart= 
 Variation98=Designator=R155|UniqueId=\RDIXJSCV\NZJFCXPT|Kind=1|AlternatePart= 
 Variation99=Designator=X4|UniqueId=\PRYVHNCG\LSTTUZPI|Kind=2|AlternatePart=[Cust.Supply] 7499110123|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=7499110123|AltLibLink_DesignItemID=30864|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7499110123|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=AN|VariantValue=30864
+ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
 ParamDesignator1=X4
-ParamVariation2=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
+ParamVariation2=ParameterName=AN|VariantValue=30864
 ParamDesignator2=X4
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=X4
@@ -1645,9 +1645,9 @@ ParamDesignator149=X18
 ParamVariation150=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator150=X18
 Variation108=Designator=X2|UniqueId=\RDIXJSCV\EUDWIVGD|Kind=2|AlternatePart=[Cust.Supply] 7499110123|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=7499110123|AltLibLink_DesignItemID=30864|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7499110123|AltLibLink_IsSameFootprint=True
-ParamVariation151=ParameterName=AN|VariantValue=30864
+ParamVariation151=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
 ParamDesignator151=X2
-ParamVariation152=ParameterName=Comment|VariantValue=[Cust.Supply] 7499110123
+ParamVariation152=ParameterName=AN|VariantValue=30864
 ParamDesignator152=X2
 ParamVariation153=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator153=X2

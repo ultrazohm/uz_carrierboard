@@ -714,7 +714,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
+OutputFilePath3=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for UltraZOhm_CarrierBoard
 OutputPathMedia3=DOC
@@ -915,7 +915,7 @@ OpenOutput11=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs2=0
-RelativeOutputPath3=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
+RelativeOutputPath3=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 OpenOutputs3=1
 RelativeOutputPath4=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs4=0

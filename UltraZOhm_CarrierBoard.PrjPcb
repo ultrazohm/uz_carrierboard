@@ -1129,8 +1129,8 @@ Variation29=Designator=R85|UniqueId=\ZWVYQITM\TNVFENKQ|Kind=1|AlternatePart=
 Variation30=Designator=D8|UniqueId=\ZWVYQITM\FILMLQWI|Kind=1|AlternatePart= 
 Variation31=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation32=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation33=Designator=P1A|UniqueId=\LNKYODNA\CGKLFIVQ\ALOBSTQK|Kind=1|AlternatePart= 
-Variation34=Designator=P1B|UniqueId=\LNKYODNA\EYVZQQPN\ALOBSTQK|Kind=1|AlternatePart= 
+Variation33=Designator=P1A|UniqueId=\LNKYODNA\CGKLFIVQ\LGHFKGKR|Kind=1|AlternatePart= 
+Variation34=Designator=P1B|UniqueId=\LNKYODNA\EYVZQQPN\LGHFKGKR|Kind=1|AlternatePart= 
 Variation35=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
 Variation36=Designator=R178|UniqueId=\GDJTJOPP\CXRWOBTY\SNERVKRW|Kind=1|AlternatePart= 
 Variation37=Designator=R179|UniqueId=\GDJTJOPP\CXRWOBTY\UFIVQFUO|Kind=1|AlternatePart= 
@@ -1173,10 +1173,10 @@ Variation73=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|Alternate
 Variation74=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
 Variation75=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
 Variation76=Designator=R181|UniqueId=\GDJTJOPP\CXRWOBTY\LMGOZLCX|Kind=1|AlternatePart= 
-Variation77=Designator=R79A|UniqueId=\LNKYODNA\CGKLFIVQ\TPNWSIUX|Kind=1|AlternatePart= 
-Variation78=Designator=R79B|UniqueId=\LNKYODNA\EYVZQQPN\TPNWSIUX|Kind=1|AlternatePart= 
-Variation79=Designator=R78B|UniqueId=\LNKYODNA\EYVZQQPN\HHQPNXCI|Kind=1|AlternatePart= 
-Variation80=Designator=R78A|UniqueId=\LNKYODNA\CGKLFIVQ\HHQPNXCI|Kind=1|AlternatePart= 
+Variation77=Designator=R79A|UniqueId=\LNKYODNA\CGKLFIVQ\JRTDCJPP|Kind=1|AlternatePart= 
+Variation78=Designator=R79B|UniqueId=\LNKYODNA\EYVZQQPN\JRTDCJPP|Kind=1|AlternatePart= 
+Variation79=Designator=R78B|UniqueId=\LNKYODNA\EYVZQQPN\MYOBWETG|Kind=1|AlternatePart= 
+Variation80=Designator=R78A|UniqueId=\LNKYODNA\CGKLFIVQ\MYOBWETG|Kind=1|AlternatePart= 
 Variation81=Designator=R157LC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\LCUSAAXG|Kind=1|AlternatePart= 
 Variation82=Designator=R157LB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\LCUSAAXG|Kind=1|AlternatePart= 
 Variation83=Designator=R157LA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\LCUSAAXG|Kind=1|AlternatePart= 
@@ -1235,8 +1235,8 @@ Variation29=Designator=R85|UniqueId=\ZWVYQITM\TNVFENKQ|Kind=1|AlternatePart=
 Variation30=Designator=D8|UniqueId=\ZWVYQITM\FILMLQWI|Kind=1|AlternatePart= 
 Variation31=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation32=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation33=Designator=P1A|UniqueId=\LNKYODNA\CGKLFIVQ\ALOBSTQK|Kind=1|AlternatePart= 
-Variation34=Designator=P1B|UniqueId=\LNKYODNA\EYVZQQPN\ALOBSTQK|Kind=1|AlternatePart= 
+Variation33=Designator=P1A|UniqueId=\LNKYODNA\CGKLFIVQ\LGHFKGKR|Kind=1|AlternatePart= 
+Variation34=Designator=P1B|UniqueId=\LNKYODNA\EYVZQQPN\LGHFKGKR|Kind=1|AlternatePart= 
 Variation35=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
 Variation36=Designator=R178|UniqueId=\GDJTJOPP\CXRWOBTY\SNERVKRW|Kind=1|AlternatePart= 
 Variation37=Designator=R179|UniqueId=\GDJTJOPP\CXRWOBTY\UFIVQFUO|Kind=1|AlternatePart= 
@@ -1279,10 +1279,10 @@ Variation73=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|Alternate
 Variation74=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
 Variation75=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
 Variation76=Designator=R181|UniqueId=\GDJTJOPP\CXRWOBTY\LMGOZLCX|Kind=1|AlternatePart= 
-Variation77=Designator=R79A|UniqueId=\LNKYODNA\CGKLFIVQ\TPNWSIUX|Kind=1|AlternatePart= 
-Variation78=Designator=R79B|UniqueId=\LNKYODNA\EYVZQQPN\TPNWSIUX|Kind=1|AlternatePart= 
-Variation79=Designator=R78B|UniqueId=\LNKYODNA\EYVZQQPN\HHQPNXCI|Kind=1|AlternatePart= 
-Variation80=Designator=R78A|UniqueId=\LNKYODNA\CGKLFIVQ\HHQPNXCI|Kind=1|AlternatePart= 
+Variation77=Designator=R79A|UniqueId=\LNKYODNA\CGKLFIVQ\JRTDCJPP|Kind=1|AlternatePart= 
+Variation78=Designator=R79B|UniqueId=\LNKYODNA\EYVZQQPN\JRTDCJPP|Kind=1|AlternatePart= 
+Variation79=Designator=R78B|UniqueId=\LNKYODNA\EYVZQQPN\MYOBWETG|Kind=1|AlternatePart= 
+Variation80=Designator=R78A|UniqueId=\LNKYODNA\CGKLFIVQ\MYOBWETG|Kind=1|AlternatePart= 
 Variation81=Designator=R157LC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\LCUSAAXG|Kind=1|AlternatePart= 
 Variation82=Designator=R157LB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\LCUSAAXG|Kind=1|AlternatePart= 
 Variation83=Designator=R157LA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\LCUSAAXG|Kind=1|AlternatePart= 
@@ -1435,7 +1435,7 @@ ParamVariation64=ParameterName=Pin Info|VariantValue=
 ParamDesignator64=U12
 ParamVariation65=ParameterName=Simulation|VariantValue= 
 ParamDesignator65=U12
-Variation103=Designator=X7A|UniqueId=\LNKYODNA\CGKLFIVQ\DSYPUPSQ|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
+Variation103=Designator=X7A|UniqueId=\LNKYODNA\CGKLFIVQ\MSKUUYSM|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
 ParamVariation66=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
 ParamDesignator66=X7A
 ParamVariation67=ParameterName=AN|VariantValue=30866
@@ -1505,7 +1505,7 @@ ParamVariation98=ParameterName=Simulation|VariantValue=
 ParamDesignator98=X12
 ParamVariation99=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator99=X12
-Variation105=Designator=X7B|UniqueId=\LNKYODNA\EYVZQQPN\DSYPUPSQ|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
+Variation105=Designator=X7B|UniqueId=\LNKYODNA\EYVZQQPN\MSKUUYSM|Kind=2|AlternatePart=[Cust.Supply] IPL1-104-02-L-S-K|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=CON-4|AltLibLink_DesignItemID=30866|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=IPL1-104-02-L-S-K|AltLibLink_IsSameFootprint=True
 ParamVariation100=ParameterName=Comment|VariantValue=[Cust.Supply] IPL1-104-02-L-S-K
 ParamDesignator100=X7B
 ParamVariation101=ParameterName=AN|VariantValue=30866
@@ -3079,7 +3079,7 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=PCB_Logo.SchLib
-ComponentDesignItemID0=
+ComponentDesignItemID0=UZ Logo
 ComponentSymbolReference0=UZ Logo
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
@@ -3727,14 +3727,14 @@ ComponentUpdate107=1
 ComponentIsDeviceSheet107=0
 ComponentLibIdentifierKind108=Library Name And Type
 ComponentLibraryIdentifier108=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID108=
-ComponentSymbolReference108=SerialNumber
+ComponentDesignItemID108=Pinheader_2x1_SMD
+ComponentSymbolReference108=Pinheader_2x1_SMD
 ComponentUpdate108=1
 ComponentIsDeviceSheet108=0
 ComponentLibIdentifierKind109=Library Name And Type
 ComponentLibraryIdentifier109=UltraZOhm_CarrierBoard.SchLib
-ComponentDesignItemID109=Pinheader_2x1_SMD
-ComponentSymbolReference109=Pinheader_2x1_SMD
+ComponentDesignItemID109=SerialNumber
+ComponentSymbolReference109=SerialNumber
 ComponentUpdate109=1
 ComponentIsDeviceSheet109=0
 FullReplace=1

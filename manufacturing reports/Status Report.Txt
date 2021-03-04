@@ -1,0 +1,11 @@
+Output: BOM_xlsx
+Type  : BOM
+From  : Variant [B] of Project [UltraZOhm_CarrierBoard.PrjPcb]
+   Generated File[BOM_xlsx.xls]
+   Generated File[BOM_xlsx.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 18:29:56 On 04.03.2021

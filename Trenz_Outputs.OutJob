@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Trenz_Outputs.OutJob
 Description=
 TargetOutputMedium=Generate Files
 VariantName=B
@@ -165,7 +165,7 @@ OutputEnabled5_OutputMedium4=3
 OutputEnabled5_OutputMedium5=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16908289~1,16908293~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908294~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777221~1,16777218~1,16777219~1,16777220~1,16842751~1,16973835~1,16973833~1,16973831~1,16908293~1,16908294~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType6=NC Drill
 OutputName6=LPC0194-01
 OutputCategory6=Fabrication
@@ -262,7 +262,7 @@ OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=0
 OutputEnabled12_OutputMedium3=0
 OutputEnabled12_OutputMedium4=8
-OutputEnabled12_OutputMedium5=0
+OutputEnabled12_OutputMedium5=2
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 Configuration12_Name1=ColumnNameFormat
@@ -275,8 +275,12 @@ Configuration12_Name4=OutputConfigurationParameter1
 Configuration12_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
 Configuration12_Name5=PCBDocument
 Configuration12_Item5=FileName=TEC0194.PcbDoc
-Configuration12_Name6=VisibleOrder
-Configuration12_Item6=AN=55|Quantity=53|Designator=60|Comment=64|Description=78|Case=59|Value=59|Footprint=61|Revision=45|Variant=46|Trenz-Stock=42|Mixed=100|Preferred=100|Technology=100|Tolerance=100|Trenz-Article-Number=100|Voltage=100|H-ART=100
+Configuration12_Name6=SortOrder
+Configuration12_Item6=Comment=Down
+Configuration12_Name7=VisibleOrder
+Configuration12_Item7=AN=55|Quantity=53|Designator=150|Comment=222|Description=78|Case=59|Value=59|Footprint=61|Revision=45|Variant=46|Trenz-Stock=42|Mixed=100|Preferred=100|Technology=100|Tolerance=100|Trenz-Article-Number=100|Voltage=100|H-ART=100
+Configuration12_Name8=VisibleOrder_Flat
+Configuration12_Item8=AN=55|Quantity=53|Designator=150|Comment=222|Description=78|Case=59|Value=59|Footprint=61|Revision=45|Variant=46|Trenz-Stock=42|Mixed=100|Preferred=100|Technology=100|Tolerance=100|Trenz-Article-Number=100|Voltage=100|H-ART=100
 
 [PublishSettings]
 OutputFilePath2=B:\SVN\OtherDoc\Vorlagen\PRJ-TEC0194\current\hw\pcb\manufacturing reports\PDF\
@@ -355,7 +359,7 @@ OutputFileName5=
 OutputFileNameMulti5=
 UseOutputNameForMulti5=1
 OutputFileNameSpecial5=
-OpenOutput5=1
+OpenOutput5=0
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=B:\SVN\OtherDoc\Vorlagen\PRJ-TEC0194\current\hw\pcb\manufacturing reports\PDF\
@@ -373,7 +377,7 @@ OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
 RelativeOutputPath5=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\manufacturing reports\
-OpenOutputs5=1
+OpenOutputs5=0
 AddToProject5=0
 TimestampFolder5=0
 UseOutputName5=1

@@ -1665,7 +1665,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectRevision
-Value=4v00
+Value=04
 
 [Parameter2]
 Name=ProjectDate

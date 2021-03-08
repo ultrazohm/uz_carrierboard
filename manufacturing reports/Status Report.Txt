@@ -1,11 +1,11 @@
-Output: BOM_xlsx
+Output: BOM-TEC0194-01
 Type  : BOM
 From  : Variant [B] of Project [UltraZOhm_CarrierBoard.PrjPcb]
-   Generated File[BOM_xlsx.xls]
-   Generated File[BOM_xlsx.xls]
+   Generated File[BOM-TEC0194-01.csv]
+   Generated File[BOM-TEC0194-01.csv]
 
 
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 13:55:11 On 06.03.2021
+Finished Output Generation At 15:41:27 On 08.03.2021

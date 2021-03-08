@@ -1,14 +1,15 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 13:54:04 On 16.11.2020
+Start Output Generation At 16:05:14 On 08.03.2021
 
-Output: Comp Generates pick and place files
-Type  : Pick Place
-From  : Variant [Standard] of PCB Document [UltraZOhm_CarrierBoard.PcbDoc]
-   Generated File[PickPlace_UltraZOhm_CarrierBoard_4v00.csv]
+Output: BOM_Template
+Type  : BOM
+From  : Variant [Standard] of Project [UltraZOhm_CarrierBoard.PrjPcb]
+   Generated File[BOM_UltraZOhm_CarrierBoard_Rev04.xls]
+   Generated File[BOM_UltraZOhm_CarrierBoard_Rev04.xls]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 13:54:13 On 16.11.2020
+Finished Output Generation At 16:05:45 On 08.03.2021

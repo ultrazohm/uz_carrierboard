@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=OutputJob.OutJob
 Description=
-TargetOutputMedium=PDF_Schematic
+TargetOutputMedium=BOM
 VariantName=Standard
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Ricoh_printfellow
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -115,7 +115,7 @@ OutputName4=Schematic Prints
 OutputCategory4=Documentation
 OutputDocumentPath4=[Project Physical Documents]
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
@@ -609,14 +609,14 @@ OutputName14=BOM_Template
 OutputCategory14=Report
 OutputDocumentPath14=
 OutputVariantName14=Standard
-OutputEnabled14=0
+OutputEnabled14=1
 OutputEnabled14_OutputMedium1=0
 OutputEnabled14_OutputMedium2=0
 OutputEnabled14_OutputMedium3=0
 OutputEnabled14_OutputMedium4=0
 OutputEnabled14_OutputMedium5=0
 OutputEnabled14_OutputMedium6=0
-OutputEnabled14_OutputMedium7=0
+OutputEnabled14_OutputMedium7=1
 OutputEnabled14_OutputMedium8=0
 OutputEnabled14_OutputMedium9=0
 OutputEnabled14_OutputMedium10=0
@@ -626,7 +626,7 @@ PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration14_Name1=ColumnNameFormat
 Configuration14_Item1=CaptionAsName
 Configuration14_Name2=General
-Configuration14_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\_Templates\BOM_Template_v2.XLT|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=954|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration14_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\ga92wum\git\UltraZohm\PCB\altium_lib\templates\BOM\BOM_Template_THN.XLT|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=954|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration14_Name3=GroupOrder
 Configuration14_Item3=Comment=True|MPN=True
 Configuration14_Name4=OutputConfigurationParameter1
@@ -654,37 +654,6 @@ OutputEnabled15_OutputMedium10=0
 OutputEnabled15_OutputMedium11=0
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=BOM_PartType
-OutputName16=BOM_Trenz
-OutputCategory16=Report
-OutputDocumentPath16=
-OutputVariantName16=
-OutputEnabled16=0
-OutputEnabled16_OutputMedium1=0
-OutputEnabled16_OutputMedium2=0
-OutputEnabled16_OutputMedium3=0
-OutputEnabled16_OutputMedium4=0
-OutputEnabled16_OutputMedium5=0
-OutputEnabled16_OutputMedium6=0
-OutputEnabled16_OutputMedium7=1
-OutputEnabled16_OutputMedium8=0
-OutputEnabled16_OutputMedium9=0
-OutputEnabled16_OutputMedium10=0
-OutputEnabled16_OutputMedium11=0
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration16_Name1=ColumnNameFormat
-Configuration16_Item1=CaptionAsName
-Configuration16_Name2=General
-Configuration16_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1529|FormHeight=960|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
-Configuration16_Name3=GroupOrder
-Configuration16_Item3=Comment=True|Footprint=True
-Configuration16_Name4=SortOrder
-Configuration16_Item4=Designator=Up|Comment=Up|Footprint=Up
-Configuration16_Name5=VisibleOrder
-Configuration16_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Voltage=100|Value=100
-Configuration16_Name6=VisibleOrder_Flat
-Configuration16_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Voltage=100|Value=100
 
 [PublishSettings]
 OutputFilePath2=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
@@ -723,10 +692,10 @@ OutputPathOutputer3=
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=OutputJob.PDF
-OutputFileNameMulti3=='SCH_' + ProjectName + '_' + ProjectRevision
+OutputFileNameMulti3=='SCH_' + ProjectName + '_Rev' + ProjectRevision
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
-OpenOutput3=1
+OpenOutput3=0
 PromptOverwrite3=1
 PublishMethod3=1
 ZoomLevel3=50
@@ -741,7 +710,7 @@ ShowComponentParameters3=1
 GlobalBookmarks3=0
 PDFACompliance3=Disabled
 PDFVersion3=Default
-OutputFilePath4=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
+OutputFilePath4=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\ASM\
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for UltraZOhm_CarrierBoard
 OutputPathMedia4=ASM
@@ -750,7 +719,7 @@ OutputPathOutputer4=
 OutputPathOutputerPrefix4=
 OutputPathOutputerValue4=
 OutputFileName4=OutputJob.PDF
-OutputFileNameMulti4=='ASM_' + ProjectName+'_'+ProjectRevision
+OutputFileNameMulti4=='ASM_' + ProjectName+'_Rev'+ProjectRevision
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=0
@@ -795,7 +764,7 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
-OutputFilePath6=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\DOC\
+OutputFilePath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for UltraZOhm_CarrierBoard
 OutputPathMedia6=DOC
@@ -804,7 +773,7 @@ OutputPathOutputer6=
 OutputPathOutputerPrefix6=
 OutputPathOutputerValue6=
 OutputFileName6=OutputJob.PDF
-OutputFileNameMulti6=='DFT_' + ProjectName+'_'+ProjectRevision
+OutputFileNameMulti6=='DFT_' + ProjectName+'_Rev'+ProjectRevision
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=1
@@ -831,7 +800,7 @@ OutputPathOutputer7=[Output Type]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=
 OutputFileName7=
-OutputFileNameMulti7=='BOM_'+ProjectName+'_'+ProjectRevision
+OutputFileNameMulti7=='BOM_'+ProjectName+'_Rev'+ProjectRevision
 UseOutputNameForMulti7=0
 OutputFileNameSpecial7=
 OpenOutput7=1
@@ -898,7 +867,7 @@ FFmpegPixelFormat10=0
 FFmpegQuality10=80
 WmvVideoCodecName10=Windows Media Video V7
 WmvQuality10=80
-OutputFilePath11=D:\Work_Altium\CoBo_CarrierBoard\UltraZohm_CarrierBoard_1v05\Project Outputs for UltraZOhm_CarrierBoard\
+OutputFilePath11=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\
 ReleaseManaged11=1
 OutputBasePath11=Project Outputs for UltraZOhm_CarrierBoard
 OutputPathMedia11=
@@ -907,7 +876,7 @@ OutputPathOutputer11=[Output Type]
 OutputPathOutputerPrefix11=
 OutputPathOutputerValue11=
 OutputFileName11=
-OutputFileNameMulti11=='PickPlace_' + ProjectName + '_' + ProjectRevision
+OutputFileNameMulti11=='PickPlace_' + ProjectName + '_Rev' + ProjectRevision
 UseOutputNameForMulti11=0
 OutputFileNameSpecial11=
 OpenOutput11=1
@@ -916,12 +885,12 @@ OpenOutput11=1
 RelativeOutputPath2=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs2=0
 RelativeOutputPath3=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
-OpenOutputs3=1
-RelativeOutputPath4=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
+OpenOutputs3=0
+RelativeOutputPath4=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\ASM\
 OpenOutputs4=0
 RelativeOutputPath5=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs5=0
-RelativeOutputPath6=D:\Work_Altium\UltraZohm_CarrierBoard\UltraZohm_CarrierBoard\Project Outputs for UltraZOhm_CarrierBoard\DOC\
+RelativeOutputPath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 OpenOutputs6=1
 RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs7=1
@@ -955,7 +924,7 @@ OpenIPCOutput9=0
 EnableReload9=0
 RelativeOutputPath10=
 OpenOutputs10=1
-RelativeOutputPath11=D:\Work_Altium\CoBo_CarrierBoard\UltraZohm_CarrierBoard_1v05\Project Outputs for UltraZOhm_CarrierBoard\
+RelativeOutputPath11=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\
 OpenOutputs11=1
 AddToProject11=1
 TimestampFolder11=0

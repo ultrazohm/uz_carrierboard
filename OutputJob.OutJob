@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=OutputJob.OutJob
 Description=
 TargetOutputMedium=Draftsman
-VariantName=Standard
+VariantName=C
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -686,13 +686,13 @@ PDFVersion2=Default
 OutputFilePath3=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for UltraZOhm_CarrierBoard
-OutputPathMedia3=DOC
-OutputPathMediaValue3=DOC
+OutputPathMedia3=='Rev'+ProjectRevision
+OutputPathMediaValue3=='Rev'+ProjectRevision
 OutputPathOutputer3=
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=OutputJob.PDF
-OutputFileNameMulti3=='SCH_' + ProjectName + '_Rev' + ProjectRevision
+OutputFileNameMulti3=='SCH_' + ProjectName + '_Rev' + ProjectRevision+'_'+VariantName
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=0
@@ -713,13 +713,13 @@ PDFVersion3=Default
 OutputFilePath4=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\ASM\
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for UltraZOhm_CarrierBoard
-OutputPathMedia4=ASM
-OutputPathMediaValue4=ASM
+OutputPathMedia4=='Rev'+ProjectRevision
+OutputPathMediaValue4=='Rev'+ProjectRevision
 OutputPathOutputer4=
 OutputPathOutputerPrefix4=
-OutputPathOutputerValue4=
+OutputPathOutputerValue4==
 OutputFileName4=OutputJob.PDF
-OutputFileNameMulti4=='ASM_' + ProjectName+'_Rev'+ProjectRevision
+OutputFileNameMulti4=='ASM_' + ProjectName+'_Rev'+ProjectRevision+'_'+VariantName
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=0
@@ -767,13 +767,13 @@ PDFVersion5=Default
 OutputFilePath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UltraZOhm_CarrierBoard\DOC\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for UltraZOhm_CarrierBoard
-OutputPathMedia6=DOC
-OutputPathMediaValue6=DOC
+OutputPathMedia6=='Rev'+ProjectRevision
+OutputPathMediaValue6=='Rev'+ProjectRevision
 OutputPathOutputer6=
 OutputPathOutputerPrefix6=
 OutputPathOutputerValue6=
 OutputFileName6=OutputJob.PDF
-OutputFileNameMulti6=='DFT_' + ProjectName+'_Rev'+ProjectRevision
+OutputFileNameMulti6=='DFT_' + ProjectName+'_Rev'+ProjectRevision+'_'+VariantName
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=1

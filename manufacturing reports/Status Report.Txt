@@ -1,10 +1,11 @@
-Output: EDIF-TEC0194-01
-Type  : EDIF
-From  : Project [UltraZOhm_CarrierBoard.PrjPcb]
-   Generated File[EDIF-TEC0194-01.EDF]
+Output: BOM_xlsx
+Type  : BOM
+From  : Variant [C] of Project [UltraZOhm_CarrierBoard.PrjPcb]
+   Generated File[BOM_xlsx-C.xls]
+   Generated File[BOM_xlsx-C.xls]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 17:01:30 On 14.04.2021
+Finished Output Generation At 09:21:41 On 13.08.2021

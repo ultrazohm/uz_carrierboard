@@ -71,7 +71,6 @@ AN,Quantity,Designator,Comment,Description,Case,Value,Footprint,Revision,Variant
 "30766","2","U6A, U6B","MAX14878AWE+","MAX14878AWE+","SOIC16","","SOIC127P1030X265-16N","","S001","Yes","SMT","","","","","","MAX14878AWE+"
 "29933","4","U7A, U7B, U19, U27","LT1761ES5-BYP#TRPBF","LT1761ES5-BYP#TRPBF","SOT23-5","","SOT95P280X100-5N","","S001","Yes","SMT","","","","","5V","LT1761ES5-BYP#TRPBF"
 "30767","4","U8A, U8B, U20, U28","760390015","760390015","MID-PPTI","","760390015","","S001","","SMT","","","","","","760390015"
-"31503","4","U9A, U9B, U21, U29","(cs) SN6505BDBVT","(cs) SN6505BDBVT","SOT23-6","","SOT95P280X145-6N","","S001","","SMT","","","","","",""
 "30863","3","U10, U11, U12","[Cust.Supply] 171050601","[Cust.Supply] 171050601","TO263-7EP","","7TO-PMOD","","S001","","SMT","","","","","","171050601"
 "24904","1","U13","TXS02612RTWR","TXS02612RTWR","QFN24","","QFN50P400X400X80-25N-255","","S001","Yes","SMT","","","","","","TXS02612RTWR"
 "31505","2","U14, U30","(cs) TXS0108EQPWRQ1","(cs) TXS0108EQPWRQ1","TSSOP20","","SOP65P640X120-20N","","S001","","SMT","","","","","",""

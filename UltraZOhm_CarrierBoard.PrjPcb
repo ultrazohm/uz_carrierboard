@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -23,15 +23,24 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -2313,577 +2322,441 @@ ParamVariation153=ParameterName=Storage-Temperature|VariantValue=-65/+150(Abs)
 ParamDesignator153=U24C
 ParamVariation154=ParameterName=Temperature-Range|VariantValue=-40/+125
 ParamDesignator154=U24C
-Variation109=Designator=U9A|UniqueId=\LNKYODNA\CGKLFIVQ\EHNJBTLZ|Kind=2|AlternatePart=(cs) SN6505BDBVT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN6505|AltLibLink_DesignItemID=31503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X145-6N|AltLibLink_IsSameFootprint=True
-ParamVariation155=ParameterName=Comment|VariantValue=(cs) SN6505BDBVT
-ParamDesignator155=U9A
-ParamVariation156=ParameterName=AN|VariantValue=31503
-ParamDesignator156=U9A
-ParamVariation157=ParameterName=Case|VariantValue=SOT23-6
-ParamDesignator157=U9A
-ParamVariation158=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator158=U9A
-ParamVariation159=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator159=U9A
-ParamVariation160=ParameterName=Description|VariantValue=(cs) SN6505BDBVT
-ParamDesignator160=U9A
-ParamVariation161=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator161=U9A
-ParamVariation162=ParameterName=Footprint|VariantValue=SOT95P280X145-6N
-ParamDesignator162=U9A
-ParamVariation163=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\SN6505x\
-ParamDesignator163=U9A
-ParamVariation164=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator164=U9A
-ParamVariation165=ParameterName=Library Reference|VariantValue=31503
-ParamDesignator165=U9A
-ParamVariation166=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator166=U9A
-ParamVariation167=ParameterName=PCB3D|VariantValue= 
-ParamDesignator167=U9A
-ParamVariation168=ParameterName=Pin Info|VariantValue= 
-ParamDesignator168=U9A
-ParamVariation169=ParameterName=Simulation|VariantValue= 
-ParamDesignator169=U9A
-ParamVariation170=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator170=U9A
-ParamVariation171=ParameterName=Temperature-Range|VariantValue=-55/+125
-ParamDesignator171=U9A
-Variation110=Designator=U9B|UniqueId=\LNKYODNA\EYVZQQPN\EHNJBTLZ|Kind=2|AlternatePart=(cs) SN6505BDBVT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN6505|AltLibLink_DesignItemID=31503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X145-6N|AltLibLink_IsSameFootprint=True
-ParamVariation172=ParameterName=Comment|VariantValue=(cs) SN6505BDBVT
-ParamDesignator172=U9B
-ParamVariation173=ParameterName=AN|VariantValue=31503
-ParamDesignator173=U9B
-ParamVariation174=ParameterName=Case|VariantValue=SOT23-6
-ParamDesignator174=U9B
-ParamVariation175=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator175=U9B
-ParamVariation176=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator176=U9B
-ParamVariation177=ParameterName=Description|VariantValue=(cs) SN6505BDBVT
-ParamDesignator177=U9B
-ParamVariation178=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator178=U9B
-ParamVariation179=ParameterName=Footprint|VariantValue=SOT95P280X145-6N
-ParamDesignator179=U9B
-ParamVariation180=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\SN6505x\
-ParamDesignator180=U9B
-ParamVariation181=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator181=U9B
-ParamVariation182=ParameterName=Library Reference|VariantValue=31503
-ParamDesignator182=U9B
-ParamVariation183=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator183=U9B
-ParamVariation184=ParameterName=PCB3D|VariantValue= 
-ParamDesignator184=U9B
-ParamVariation185=ParameterName=Pin Info|VariantValue= 
-ParamDesignator185=U9B
-ParamVariation186=ParameterName=Simulation|VariantValue= 
-ParamDesignator186=U9B
-ParamVariation187=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator187=U9B
-ParamVariation188=ParameterName=Temperature-Range|VariantValue=-55/+125
-ParamDesignator188=U9B
-Variation111=Designator=U21|UniqueId=\LNKYODNA\TVCGAKXK\XFKAAHNU|Kind=2|AlternatePart=(cs) SN6505BDBVT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN6505|AltLibLink_DesignItemID=31503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X145-6N|AltLibLink_IsSameFootprint=True
-ParamVariation189=ParameterName=Comment|VariantValue=(cs) SN6505BDBVT
-ParamDesignator189=U21
-ParamVariation190=ParameterName=AN|VariantValue=31503
-ParamDesignator190=U21
-ParamVariation191=ParameterName=Case|VariantValue=SOT23-6
-ParamDesignator191=U21
-ParamVariation192=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator192=U21
-ParamVariation193=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator193=U21
-ParamVariation194=ParameterName=Description|VariantValue=(cs) SN6505BDBVT
-ParamDesignator194=U21
-ParamVariation195=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator195=U21
-ParamVariation196=ParameterName=Footprint|VariantValue=SOT95P280X145-6N
-ParamDesignator196=U21
-ParamVariation197=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\SN6505x\
-ParamDesignator197=U21
-ParamVariation198=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator198=U21
-ParamVariation199=ParameterName=Library Reference|VariantValue=31503
-ParamDesignator199=U21
-ParamVariation200=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator200=U21
-ParamVariation201=ParameterName=PCB3D|VariantValue= 
-ParamDesignator201=U21
-ParamVariation202=ParameterName=Pin Info|VariantValue= 
-ParamDesignator202=U21
-ParamVariation203=ParameterName=Simulation|VariantValue= 
-ParamDesignator203=U21
-ParamVariation204=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator204=U21
-ParamVariation205=ParameterName=Temperature-Range|VariantValue=-55/+125
-ParamDesignator205=U21
-Variation112=Designator=U29|UniqueId=\LNKYODNA\TLNOSMBB\UWJRCMYY|Kind=2|AlternatePart=(cs) SN6505BDBVT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN6505|AltLibLink_DesignItemID=31503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X145-6N|AltLibLink_IsSameFootprint=True
-ParamVariation206=ParameterName=Comment|VariantValue=(cs) SN6505BDBVT
-ParamDesignator206=U29
-ParamVariation207=ParameterName=AN|VariantValue=31503
-ParamDesignator207=U29
-ParamVariation208=ParameterName=Case|VariantValue=SOT23-6
-ParamDesignator208=U29
-ParamVariation209=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator209=U29
-ParamVariation210=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator210=U29
-ParamVariation211=ParameterName=Description|VariantValue=(cs) SN6505BDBVT
-ParamDesignator211=U29
-ParamVariation212=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator212=U29
-ParamVariation213=ParameterName=Footprint|VariantValue=SOT95P280X145-6N
-ParamDesignator213=U29
-ParamVariation214=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\SN6505x\
-ParamDesignator214=U29
-ParamVariation215=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator215=U29
-ParamVariation216=ParameterName=Library Reference|VariantValue=31503
-ParamDesignator216=U29
-ParamVariation217=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator217=U29
-ParamVariation218=ParameterName=PCB3D|VariantValue= 
-ParamDesignator218=U29
-ParamVariation219=ParameterName=Pin Info|VariantValue= 
-ParamDesignator219=U29
-ParamVariation220=ParameterName=Simulation|VariantValue= 
-ParamDesignator220=U29
-ParamVariation221=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator221=U29
-ParamVariation222=ParameterName=Temperature-Range|VariantValue=-55/+125
-ParamDesignator222=U29
+Variation109=Designator=U9A|UniqueId=\LNKYODNA\CGKLFIVQ\EHNJBTLZ|Kind=1|AlternatePart= 
+Variation110=Designator=U9B|UniqueId=\LNKYODNA\EYVZQQPN\EHNJBTLZ|Kind=1|AlternatePart= 
+Variation111=Designator=U21|UniqueId=\LNKYODNA\TVCGAKXK\XFKAAHNU|Kind=1|AlternatePart= 
+Variation112=Designator=U29|UniqueId=\LNKYODNA\TLNOSMBB\UWJRCMYY|Kind=1|AlternatePart= 
 Variation113=Designator=U17|UniqueId=\LNKYODNA\TVCGAKXK\IYKDTPKG|Kind=2|AlternatePart=(cs) SN74AVC4T774RSVR|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN74AVC4T774RSVR|AltLibLink_DesignItemID=31504|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFN40P260X180X55-16N|AltLibLink_IsSameFootprint=True
-ParamVariation223=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator223=U17
-ParamVariation224=ParameterName=AN|VariantValue=31504
-ParamDesignator224=U17
-ParamVariation225=ParameterName=Case|VariantValue=UQFN-16
-ParamDesignator225=U17
-ParamVariation226=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator226=U17
-ParamVariation227=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator227=U17
-ParamVariation228=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator228=U17
-ParamVariation229=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator229=U17
-ParamVariation230=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
-ParamDesignator230=U17
-ParamVariation231=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
-ParamDesignator231=U17
-ParamVariation232=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator232=U17
-ParamVariation233=ParameterName=Library Reference|VariantValue=31504
-ParamDesignator233=U17
-ParamVariation234=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator234=U17
-ParamVariation235=ParameterName=PCB3D|VariantValue= 
-ParamDesignator235=U17
-ParamVariation236=ParameterName=Pin Info|VariantValue= 
-ParamDesignator236=U17
-ParamVariation237=ParameterName=Simulation|VariantValue= 
-ParamDesignator237=U17
-ParamVariation238=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator238=U17
+ParamVariation155=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator155=U17
+ParamVariation156=ParameterName=AN|VariantValue=31504
+ParamDesignator156=U17
+ParamVariation157=ParameterName=Case|VariantValue=UQFN-16
+ParamDesignator157=U17
+ParamVariation158=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator158=U17
+ParamVariation159=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator159=U17
+ParamVariation160=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator160=U17
+ParamVariation161=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator161=U17
+ParamVariation162=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
+ParamDesignator162=U17
+ParamVariation163=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
+ParamDesignator163=U17
+ParamVariation164=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator164=U17
+ParamVariation165=ParameterName=Library Reference|VariantValue=31504
+ParamDesignator165=U17
+ParamVariation166=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator166=U17
+ParamVariation167=ParameterName=PCB3D|VariantValue= 
+ParamDesignator167=U17
+ParamVariation168=ParameterName=Pin Info|VariantValue= 
+ParamDesignator168=U17
+ParamVariation169=ParameterName=Simulation|VariantValue= 
+ParamDesignator169=U17
+ParamVariation170=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator170=U17
 Variation114=Designator=U25A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\OKXLGDPX|Kind=2|AlternatePart=(cs) SN74AVC4T774RSVR|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN74AVC4T774RSVR|AltLibLink_DesignItemID=31504|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFN40P260X180X55-16N|AltLibLink_IsSameFootprint=True
-ParamVariation239=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator239=U25A
-ParamVariation240=ParameterName=AN|VariantValue=31504
-ParamDesignator240=U25A
-ParamVariation241=ParameterName=Case|VariantValue=UQFN-16
-ParamDesignator241=U25A
-ParamVariation242=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator242=U25A
-ParamVariation243=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator243=U25A
-ParamVariation244=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator244=U25A
-ParamVariation245=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator245=U25A
-ParamVariation246=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
-ParamDesignator246=U25A
-ParamVariation247=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
-ParamDesignator247=U25A
-ParamVariation248=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator248=U25A
-ParamVariation249=ParameterName=Library Reference|VariantValue=31504
-ParamDesignator249=U25A
-ParamVariation250=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator250=U25A
-ParamVariation251=ParameterName=PCB3D|VariantValue= 
-ParamDesignator251=U25A
-ParamVariation252=ParameterName=Pin Info|VariantValue= 
-ParamDesignator252=U25A
-ParamVariation253=ParameterName=Simulation|VariantValue= 
-ParamDesignator253=U25A
-ParamVariation254=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator254=U25A
+ParamVariation171=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator171=U25A
+ParamVariation172=ParameterName=AN|VariantValue=31504
+ParamDesignator172=U25A
+ParamVariation173=ParameterName=Case|VariantValue=UQFN-16
+ParamDesignator173=U25A
+ParamVariation174=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator174=U25A
+ParamVariation175=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator175=U25A
+ParamVariation176=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator176=U25A
+ParamVariation177=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator177=U25A
+ParamVariation178=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
+ParamDesignator178=U25A
+ParamVariation179=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
+ParamDesignator179=U25A
+ParamVariation180=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator180=U25A
+ParamVariation181=ParameterName=Library Reference|VariantValue=31504
+ParamDesignator181=U25A
+ParamVariation182=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator182=U25A
+ParamVariation183=ParameterName=PCB3D|VariantValue= 
+ParamDesignator183=U25A
+ParamVariation184=ParameterName=Pin Info|VariantValue= 
+ParamDesignator184=U25A
+ParamVariation185=ParameterName=Simulation|VariantValue= 
+ParamDesignator185=U25A
+ParamVariation186=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator186=U25A
 Variation115=Designator=U25C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\OKXLGDPX|Kind=2|AlternatePart=(cs) SN74AVC4T774RSVR|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN74AVC4T774RSVR|AltLibLink_DesignItemID=31504|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFN40P260X180X55-16N|AltLibLink_IsSameFootprint=True
-ParamVariation255=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator255=U25C
-ParamVariation256=ParameterName=AN|VariantValue=31504
-ParamDesignator256=U25C
-ParamVariation257=ParameterName=Case|VariantValue=UQFN-16
-ParamDesignator257=U25C
-ParamVariation258=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator258=U25C
-ParamVariation259=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator259=U25C
-ParamVariation260=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator260=U25C
-ParamVariation261=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator261=U25C
-ParamVariation262=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
-ParamDesignator262=U25C
-ParamVariation263=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
-ParamDesignator263=U25C
-ParamVariation264=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator264=U25C
-ParamVariation265=ParameterName=Library Reference|VariantValue=31504
-ParamDesignator265=U25C
-ParamVariation266=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator266=U25C
-ParamVariation267=ParameterName=PCB3D|VariantValue= 
-ParamDesignator267=U25C
-ParamVariation268=ParameterName=Pin Info|VariantValue= 
-ParamDesignator268=U25C
-ParamVariation269=ParameterName=Simulation|VariantValue= 
-ParamDesignator269=U25C
-ParamVariation270=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator270=U25C
+ParamVariation187=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator187=U25C
+ParamVariation188=ParameterName=AN|VariantValue=31504
+ParamDesignator188=U25C
+ParamVariation189=ParameterName=Case|VariantValue=UQFN-16
+ParamDesignator189=U25C
+ParamVariation190=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator190=U25C
+ParamVariation191=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator191=U25C
+ParamVariation192=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator192=U25C
+ParamVariation193=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator193=U25C
+ParamVariation194=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
+ParamDesignator194=U25C
+ParamVariation195=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
+ParamDesignator195=U25C
+ParamVariation196=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator196=U25C
+ParamVariation197=ParameterName=Library Reference|VariantValue=31504
+ParamDesignator197=U25C
+ParamVariation198=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator198=U25C
+ParamVariation199=ParameterName=PCB3D|VariantValue= 
+ParamDesignator199=U25C
+ParamVariation200=ParameterName=Pin Info|VariantValue= 
+ParamDesignator200=U25C
+ParamVariation201=ParameterName=Simulation|VariantValue= 
+ParamDesignator201=U25C
+ParamVariation202=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator202=U25C
 Variation116=Designator=U25B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\OKXLGDPX|Kind=2|AlternatePart=(cs) SN74AVC4T774RSVR|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN74AVC4T774RSVR|AltLibLink_DesignItemID=31504|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFN40P260X180X55-16N|AltLibLink_IsSameFootprint=True
-ParamVariation271=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator271=U25B
-ParamVariation272=ParameterName=AN|VariantValue=31504
-ParamDesignator272=U25B
-ParamVariation273=ParameterName=Case|VariantValue=UQFN-16
-ParamDesignator273=U25B
-ParamVariation274=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator274=U25B
-ParamVariation275=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator275=U25B
-ParamVariation276=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator276=U25B
-ParamVariation277=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator277=U25B
-ParamVariation278=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
-ParamDesignator278=U25B
-ParamVariation279=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
-ParamDesignator279=U25B
-ParamVariation280=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator280=U25B
-ParamVariation281=ParameterName=Library Reference|VariantValue=31504
-ParamDesignator281=U25B
-ParamVariation282=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator282=U25B
-ParamVariation283=ParameterName=PCB3D|VariantValue= 
-ParamDesignator283=U25B
-ParamVariation284=ParameterName=Pin Info|VariantValue= 
-ParamDesignator284=U25B
-ParamVariation285=ParameterName=Simulation|VariantValue= 
-ParamDesignator285=U25B
-ParamVariation286=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator286=U25B
+ParamVariation203=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator203=U25B
+ParamVariation204=ParameterName=AN|VariantValue=31504
+ParamDesignator204=U25B
+ParamVariation205=ParameterName=Case|VariantValue=UQFN-16
+ParamDesignator205=U25B
+ParamVariation206=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator206=U25B
+ParamVariation207=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator207=U25B
+ParamVariation208=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator208=U25B
+ParamVariation209=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator209=U25B
+ParamVariation210=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
+ParamDesignator210=U25B
+ParamVariation211=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
+ParamDesignator211=U25B
+ParamVariation212=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator212=U25B
+ParamVariation213=ParameterName=Library Reference|VariantValue=31504
+ParamDesignator213=U25B
+ParamVariation214=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator214=U25B
+ParamVariation215=ParameterName=PCB3D|VariantValue= 
+ParamDesignator215=U25B
+ParamVariation216=ParameterName=Pin Info|VariantValue= 
+ParamDesignator216=U25B
+ParamVariation217=ParameterName=Simulation|VariantValue= 
+ParamDesignator217=U25B
+ParamVariation218=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator218=U25B
 Variation117=Designator=U31|UniqueId=\GDJTJOPP\CXRWOBTY\RAECUNMF|Kind=2|AlternatePart=(cs) SN74AVC4T774RSVR|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=SN74AVC4T774RSVR|AltLibLink_DesignItemID=31504|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFN40P260X180X55-16N|AltLibLink_IsSameFootprint=True
-ParamVariation287=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator287=U31
-ParamVariation288=ParameterName=AN|VariantValue=31504
-ParamDesignator288=U31
-ParamVariation289=ParameterName=Case|VariantValue=UQFN-16
-ParamDesignator289=U31
-ParamVariation290=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator290=U31
-ParamVariation291=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator291=U31
-ParamVariation292=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
-ParamDesignator292=U31
-ParamVariation293=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator293=U31
-ParamVariation294=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
-ParamDesignator294=U31
-ParamVariation295=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
-ParamDesignator295=U31
-ParamVariation296=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator296=U31
-ParamVariation297=ParameterName=Library Reference|VariantValue=31504
-ParamDesignator297=U31
-ParamVariation298=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator298=U31
-ParamVariation299=ParameterName=PCB3D|VariantValue= 
-ParamDesignator299=U31
-ParamVariation300=ParameterName=Pin Info|VariantValue= 
-ParamDesignator300=U31
-ParamVariation301=ParameterName=Simulation|VariantValue= 
-ParamDesignator301=U31
-ParamVariation302=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator302=U31
+ParamVariation219=ParameterName=Comment|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator219=U31
+ParamVariation220=ParameterName=AN|VariantValue=31504
+ParamDesignator220=U31
+ParamVariation221=ParameterName=Case|VariantValue=UQFN-16
+ParamDesignator221=U31
+ParamVariation222=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator222=U31
+ParamVariation223=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator223=U31
+ParamVariation224=ParameterName=Description|VariantValue=(cs) SN74AVC4T774RSVR
+ParamDesignator224=U31
+ParamVariation225=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator225=U31
+ParamVariation226=ParameterName=Footprint|VariantValue=QFN40P260X180X55-16N
+ParamDesignator226=U31
+ParamVariation227=ParameterName=HelpURL|VariantValue=B:\ad\adlib\datasheet\sn74avc4t774
+ParamDesignator227=U31
+ParamVariation228=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator228=U31
+ParamVariation229=ParameterName=Library Reference|VariantValue=31504
+ParamDesignator229=U31
+ParamVariation230=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator230=U31
+ParamVariation231=ParameterName=PCB3D|VariantValue= 
+ParamDesignator231=U31
+ParamVariation232=ParameterName=Pin Info|VariantValue= 
+ParamDesignator232=U31
+ParamVariation233=ParameterName=Simulation|VariantValue= 
+ParamDesignator233=U31
+ParamVariation234=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator234=U31
 Variation118=Designator=U14|UniqueId=\LNKYODNA\JUIEDOYU\EXXOMWWT|Kind=2|AlternatePart=(cs) TXS0108EQPWRQ1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=TXS0108EQPWRQ1|AltLibLink_DesignItemID=31505|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP65P640X120-20N|AltLibLink_IsSameFootprint=True
-ParamVariation303=ParameterName=Comment|VariantValue=(cs) TXS0108EQPWRQ1
-ParamDesignator303=U14
-ParamVariation304=ParameterName=AN|VariantValue=31505
-ParamDesignator304=U14
-ParamVariation305=ParameterName=Case|VariantValue=TSSOP20
-ParamDesignator305=U14
-ParamVariation306=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator306=U14
-ParamVariation307=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator307=U14
-ParamVariation308=ParameterName=Description|VariantValue=(cs) TXS0108EQPWRQ1
-ParamDesignator308=U14
-ParamVariation309=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator309=U14
-ParamVariation310=ParameterName=Footprint|VariantValue=SOP65P640X120-20N
-ParamDesignator310=U14
-ParamVariation311=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\TXS0108E-Q1\
-ParamDesignator311=U14
-ParamVariation312=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator312=U14
-ParamVariation313=ParameterName=Library Reference|VariantValue=31505
-ParamDesignator313=U14
-ParamVariation314=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator314=U14
-ParamVariation315=ParameterName=PCB3D|VariantValue= 
-ParamDesignator315=U14
-ParamVariation316=ParameterName=Pin Info|VariantValue= 
-ParamDesignator316=U14
-ParamVariation317=ParameterName=Simulation|VariantValue= 
-ParamDesignator317=U14
-ParamVariation318=ParameterName=Storage-Temperature|VariantValue=-65/+150(Abs)
-ParamDesignator318=U14
-ParamVariation319=ParameterName=Temperature-Range|VariantValue=-40/+85
-ParamDesignator319=U14
+ParamVariation235=ParameterName=Comment|VariantValue=(cs) TXS0108EQPWRQ1
+ParamDesignator235=U14
+ParamVariation236=ParameterName=AN|VariantValue=31505
+ParamDesignator236=U14
+ParamVariation237=ParameterName=Case|VariantValue=TSSOP20
+ParamDesignator237=U14
+ParamVariation238=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator238=U14
+ParamVariation239=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator239=U14
+ParamVariation240=ParameterName=Description|VariantValue=(cs) TXS0108EQPWRQ1
+ParamDesignator240=U14
+ParamVariation241=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator241=U14
+ParamVariation242=ParameterName=Footprint|VariantValue=SOP65P640X120-20N
+ParamDesignator242=U14
+ParamVariation243=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\TXS0108E-Q1\
+ParamDesignator243=U14
+ParamVariation244=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator244=U14
+ParamVariation245=ParameterName=Library Reference|VariantValue=31505
+ParamDesignator245=U14
+ParamVariation246=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator246=U14
+ParamVariation247=ParameterName=PCB3D|VariantValue= 
+ParamDesignator247=U14
+ParamVariation248=ParameterName=Pin Info|VariantValue= 
+ParamDesignator248=U14
+ParamVariation249=ParameterName=Simulation|VariantValue= 
+ParamDesignator249=U14
+ParamVariation250=ParameterName=Storage-Temperature|VariantValue=-65/+150(Abs)
+ParamDesignator250=U14
+ParamVariation251=ParameterName=Temperature-Range|VariantValue=-40/+85
+ParamDesignator251=U14
 Variation119=Designator=U30|UniqueId=\GDJTJOPP\CXRWOBTY\GKGVXTQO|Kind=2|AlternatePart=(cs) TXS0108EQPWRQ1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=TXS0108EQPWRQ1|AltLibLink_DesignItemID=31505|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP65P640X120-20N|AltLibLink_IsSameFootprint=True
-ParamVariation320=ParameterName=Comment|VariantValue=(cs) TXS0108EQPWRQ1
-ParamDesignator320=U30
-ParamVariation321=ParameterName=AN|VariantValue=31505
-ParamDesignator321=U30
-ParamVariation322=ParameterName=Case|VariantValue=TSSOP20
-ParamDesignator322=U30
-ParamVariation323=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator323=U30
-ParamVariation324=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator324=U30
-ParamVariation325=ParameterName=Description|VariantValue=(cs) TXS0108EQPWRQ1
-ParamDesignator325=U30
-ParamVariation326=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
-ParamDesignator326=U30
-ParamVariation327=ParameterName=Footprint|VariantValue=SOP65P640X120-20N
-ParamDesignator327=U30
-ParamVariation328=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\TXS0108E-Q1\
-ParamDesignator328=U30
-ParamVariation329=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator329=U30
-ParamVariation330=ParameterName=Library Reference|VariantValue=31505
-ParamDesignator330=U30
-ParamVariation331=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator331=U30
-ParamVariation332=ParameterName=PCB3D|VariantValue= 
-ParamDesignator332=U30
-ParamVariation333=ParameterName=Pin Info|VariantValue= 
-ParamDesignator333=U30
-ParamVariation334=ParameterName=Simulation|VariantValue= 
-ParamDesignator334=U30
-ParamVariation335=ParameterName=Storage-Temperature|VariantValue=-65/+150(Abs)
-ParamDesignator335=U30
-ParamVariation336=ParameterName=Temperature-Range|VariantValue=-40/+85
-ParamDesignator336=U30
+ParamVariation252=ParameterName=Comment|VariantValue=(cs) TXS0108EQPWRQ1
+ParamDesignator252=U30
+ParamVariation253=ParameterName=AN|VariantValue=31505
+ParamDesignator253=U30
+ParamVariation254=ParameterName=Case|VariantValue=TSSOP20
+ParamDesignator254=U30
+ParamVariation255=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator255=U30
+ParamVariation256=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator256=U30
+ParamVariation257=ParameterName=Description|VariantValue=(cs) TXS0108EQPWRQ1
+ParamDesignator257=U30
+ParamVariation258=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194-01-S001
+ParamDesignator258=U30
+ParamVariation259=ParameterName=Footprint|VariantValue=SOP65P640X120-20N
+ParamDesignator259=U30
+ParamVariation260=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\TI\TXS0108E-Q1\
+ParamDesignator260=U30
+ParamVariation261=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator261=U30
+ParamVariation262=ParameterName=Library Reference|VariantValue=31505
+ParamDesignator262=U30
+ParamVariation263=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator263=U30
+ParamVariation264=ParameterName=PCB3D|VariantValue= 
+ParamDesignator264=U30
+ParamVariation265=ParameterName=Pin Info|VariantValue= 
+ParamDesignator265=U30
+ParamVariation266=ParameterName=Simulation|VariantValue= 
+ParamDesignator266=U30
+ParamVariation267=ParameterName=Storage-Temperature|VariantValue=-65/+150(Abs)
+ParamDesignator267=U30
+ParamVariation268=ParameterName=Temperature-Range|VariantValue=-40/+85
+ParamDesignator268=U30
 Variation120=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\NGIERZJD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation337=ParameterName=AN|VariantValue=31885
-ParamDesignator337=U4A
-ParamVariation338=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator338=U4A
-ParamVariation339=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator339=U4A
-ParamVariation340=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator340=U4A
-ParamVariation341=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator341=U4A
-ParamVariation342=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator342=U4A
-ParamVariation343=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator343=U4A
-ParamVariation344=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator344=U4A
-ParamVariation345=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator345=U4A
-ParamVariation346=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator346=U4A
-ParamVariation347=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator347=U4A
-ParamVariation348=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator348=U4A
-ParamVariation349=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator349=U4A
-ParamVariation350=ParameterName=PCB3D|VariantValue= 
-ParamDesignator350=U4A
-ParamVariation351=ParameterName=Pin Info|VariantValue= 
-ParamDesignator351=U4A
-ParamVariation352=ParameterName=Simulation|VariantValue= 
-ParamDesignator352=U4A
-ParamVariation353=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator353=U4A
-ParamVariation354=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator354=U4A
-ParamVariation355=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator355=U4A
+ParamVariation269=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator269=U4A
+ParamVariation270=ParameterName=AN|VariantValue=31885
+ParamDesignator270=U4A
+ParamVariation271=ParameterName=Case|VariantValue=TQFP100
+ParamDesignator271=U4A
+ParamVariation272=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator272=U4A
+ParamVariation273=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator273=U4A
+ParamVariation274=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator274=U4A
+ParamVariation275=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
+ParamDesignator275=U4A
+ParamVariation276=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
+ParamDesignator276=U4A
+ParamVariation277=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
+ParamDesignator277=U4A
+ParamVariation278=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
+ParamDesignator278=U4A
+ParamVariation279=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator279=U4A
+ParamVariation280=ParameterName=Library Reference|VariantValue=31885
+ParamDesignator280=U4A
+ParamVariation281=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator281=U4A
+ParamVariation282=ParameterName=PCB3D|VariantValue= 
+ParamDesignator282=U4A
+ParamVariation283=ParameterName=Pin Info|VariantValue= 
+ParamDesignator283=U4A
+ParamVariation284=ParameterName=Simulation|VariantValue= 
+ParamDesignator284=U4A
+ParamVariation285=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
+ParamDesignator285=U4A
+ParamVariation286=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
+ParamDesignator286=U4A
+ParamVariation287=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator287=U4A
 Variation121=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\NGIERZJD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation356=ParameterName=AN|VariantValue=31885
-ParamDesignator356=U4B
-ParamVariation357=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator357=U4B
-ParamVariation358=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator358=U4B
-ParamVariation359=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator359=U4B
-ParamVariation360=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator360=U4B
-ParamVariation361=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator361=U4B
-ParamVariation362=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator362=U4B
-ParamVariation363=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator363=U4B
-ParamVariation364=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator364=U4B
-ParamVariation365=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator365=U4B
-ParamVariation366=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator366=U4B
-ParamVariation367=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator367=U4B
-ParamVariation368=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator368=U4B
-ParamVariation369=ParameterName=PCB3D|VariantValue= 
-ParamDesignator369=U4B
-ParamVariation370=ParameterName=Pin Info|VariantValue= 
-ParamDesignator370=U4B
-ParamVariation371=ParameterName=Simulation|VariantValue= 
-ParamDesignator371=U4B
-ParamVariation372=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator372=U4B
-ParamVariation373=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator373=U4B
-ParamVariation374=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator374=U4B
+ParamVariation288=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator288=U4B
+ParamVariation289=ParameterName=AN|VariantValue=31885
+ParamDesignator289=U4B
+ParamVariation290=ParameterName=Case|VariantValue=TQFP100
+ParamDesignator290=U4B
+ParamVariation291=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator291=U4B
+ParamVariation292=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator292=U4B
+ParamVariation293=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator293=U4B
+ParamVariation294=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
+ParamDesignator294=U4B
+ParamVariation295=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
+ParamDesignator295=U4B
+ParamVariation296=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
+ParamDesignator296=U4B
+ParamVariation297=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
+ParamDesignator297=U4B
+ParamVariation298=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator298=U4B
+ParamVariation299=ParameterName=Library Reference|VariantValue=31885
+ParamDesignator299=U4B
+ParamVariation300=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator300=U4B
+ParamVariation301=ParameterName=PCB3D|VariantValue= 
+ParamDesignator301=U4B
+ParamVariation302=ParameterName=Pin Info|VariantValue= 
+ParamDesignator302=U4B
+ParamVariation303=ParameterName=Simulation|VariantValue= 
+ParamDesignator303=U4B
+ParamVariation304=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
+ParamDesignator304=U4B
+ParamVariation305=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
+ParamDesignator305=U4B
+ParamVariation306=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator306=U4B
 Variation122=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\NGIERZJD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation375=ParameterName=AN|VariantValue=31885
-ParamDesignator375=U4C
-ParamVariation376=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator376=U4C
-ParamVariation377=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator377=U4C
-ParamVariation378=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator378=U4C
-ParamVariation379=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator379=U4C
-ParamVariation380=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator380=U4C
-ParamVariation381=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator381=U4C
-ParamVariation382=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator382=U4C
-ParamVariation383=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator383=U4C
-ParamVariation384=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator384=U4C
-ParamVariation385=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator385=U4C
-ParamVariation386=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator386=U4C
-ParamVariation387=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator387=U4C
-ParamVariation388=ParameterName=PCB3D|VariantValue= 
-ParamDesignator388=U4C
-ParamVariation389=ParameterName=Pin Info|VariantValue= 
-ParamDesignator389=U4C
-ParamVariation390=ParameterName=Simulation|VariantValue= 
-ParamDesignator390=U4C
-ParamVariation391=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator391=U4C
-ParamVariation392=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator392=U4C
-ParamVariation393=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator393=U4C
+ParamVariation307=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator307=U4C
+ParamVariation308=ParameterName=AN|VariantValue=31885
+ParamDesignator308=U4C
+ParamVariation309=ParameterName=Case|VariantValue=TQFP100
+ParamDesignator309=U4C
+ParamVariation310=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator310=U4C
+ParamVariation311=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator311=U4C
+ParamVariation312=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator312=U4C
+ParamVariation313=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
+ParamDesignator313=U4C
+ParamVariation314=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
+ParamDesignator314=U4C
+ParamVariation315=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
+ParamDesignator315=U4C
+ParamVariation316=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
+ParamDesignator316=U4C
+ParamVariation317=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator317=U4C
+ParamVariation318=ParameterName=Library Reference|VariantValue=31885
+ParamDesignator318=U4C
+ParamVariation319=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator319=U4C
+ParamVariation320=ParameterName=PCB3D|VariantValue= 
+ParamDesignator320=U4C
+ParamVariation321=ParameterName=Pin Info|VariantValue= 
+ParamDesignator321=U4C
+ParamVariation322=ParameterName=Simulation|VariantValue= 
+ParamDesignator322=U4C
+ParamVariation323=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
+ParamDesignator323=U4C
+ParamVariation324=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
+ParamDesignator324=U4C
+ParamVariation325=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator325=U4C
 Variation123=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\NGIERZJD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation394=ParameterName=AN|VariantValue=31885
-ParamDesignator394=U4D
-ParamVariation395=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator395=U4D
-ParamVariation396=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator396=U4D
-ParamVariation397=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator397=U4D
-ParamVariation398=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator398=U4D
-ParamVariation399=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator399=U4D
-ParamVariation400=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator400=U4D
-ParamVariation401=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator401=U4D
-ParamVariation402=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator402=U4D
-ParamVariation403=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator403=U4D
-ParamVariation404=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator404=U4D
-ParamVariation405=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator405=U4D
-ParamVariation406=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator406=U4D
-ParamVariation407=ParameterName=PCB3D|VariantValue= 
-ParamDesignator407=U4D
-ParamVariation408=ParameterName=Pin Info|VariantValue= 
-ParamDesignator408=U4D
-ParamVariation409=ParameterName=Simulation|VariantValue= 
-ParamDesignator409=U4D
-ParamVariation410=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator410=U4D
-ParamVariation411=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator411=U4D
-ParamVariation412=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator412=U4D
+ParamVariation326=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator326=U4D
+ParamVariation327=ParameterName=AN|VariantValue=31885
+ParamDesignator327=U4D
+ParamVariation328=ParameterName=Case|VariantValue=TQFP100
+ParamDesignator328=U4D
+ParamVariation329=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator329=U4D
+ParamVariation330=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator330=U4D
+ParamVariation331=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator331=U4D
+ParamVariation332=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
+ParamDesignator332=U4D
+ParamVariation333=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
+ParamDesignator333=U4D
+ParamVariation334=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
+ParamDesignator334=U4D
+ParamVariation335=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
+ParamDesignator335=U4D
+ParamVariation336=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator336=U4D
+ParamVariation337=ParameterName=Library Reference|VariantValue=31885
+ParamDesignator337=U4D
+ParamVariation338=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator338=U4D
+ParamVariation339=ParameterName=PCB3D|VariantValue= 
+ParamDesignator339=U4D
+ParamVariation340=ParameterName=Pin Info|VariantValue= 
+ParamDesignator340=U4D
+ParamVariation341=ParameterName=Simulation|VariantValue= 
+ParamDesignator341=U4D
+ParamVariation342=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
+ParamDesignator342=U4D
+ParamVariation343=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
+ParamDesignator343=U4D
+ParamVariation344=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator344=U4D
 Variation124=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\NGIERZJD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation413=ParameterName=AN|VariantValue=31885
-ParamDesignator413=U4E
-ParamVariation414=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator414=U4E
-ParamVariation415=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator415=U4E
-ParamVariation416=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator416=U4E
-ParamVariation417=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator417=U4E
-ParamVariation418=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator418=U4E
-ParamVariation419=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator419=U4E
-ParamVariation420=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator420=U4E
-ParamVariation421=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator421=U4E
-ParamVariation422=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator422=U4E
-ParamVariation423=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator423=U4E
-ParamVariation424=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator424=U4E
-ParamVariation425=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator425=U4E
-ParamVariation426=ParameterName=PCB3D|VariantValue= 
-ParamDesignator426=U4E
-ParamVariation427=ParameterName=Pin Info|VariantValue= 
-ParamDesignator427=U4E
-ParamVariation428=ParameterName=Simulation|VariantValue= 
-ParamDesignator428=U4E
-ParamVariation429=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator429=U4E
-ParamVariation430=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator430=U4E
-ParamVariation431=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator431=U4E
-ParamVariationCount=431
+ParamVariation345=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator345=U4E
+ParamVariation346=ParameterName=AN|VariantValue=31885
+ParamDesignator346=U4E
+ParamVariation347=ParameterName=Case|VariantValue=TQFP100
+ParamDesignator347=U4E
+ParamVariation348=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator348=U4E
+ParamVariation349=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator349=U4E
+ParamVariation350=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
+ParamDesignator350=U4E
+ParamVariation351=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
+ParamDesignator351=U4E
+ParamVariation352=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
+ParamDesignator352=U4E
+ParamVariation353=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
+ParamDesignator353=U4E
+ParamVariation354=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
+ParamDesignator354=U4E
+ParamVariation355=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator355=U4E
+ParamVariation356=ParameterName=Library Reference|VariantValue=31885
+ParamDesignator356=U4E
+ParamVariation357=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator357=U4E
+ParamVariation358=ParameterName=PCB3D|VariantValue= 
+ParamDesignator358=U4E
+ParamVariation359=ParameterName=Pin Info|VariantValue= 
+ParamDesignator359=U4E
+ParamVariation360=ParameterName=Simulation|VariantValue= 
+ParamDesignator360=U4E
+ParamVariation361=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
+ParamDesignator361=U4E
+ParamVariation362=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
+ParamDesignator362=U4E
+ParamVariation363=ParameterName=Trenz-Stock|VariantValue=Yes
+ParamDesignator363=U4E
+ParamVariationCount=363
 
 [Parameter1]
 Name=AuthorParam
@@ -2953,7 +2826,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -3059,7 +2932,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -3129,11 +3002,17 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -3155,7 +3034,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -3291,7 +3170,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -3336,11 +3215,23 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -3444,83 +3335,11 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -3564,7 +3383,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -3625,7 +3444,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -3751,6 +3570,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -3819,6 +3640,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -3943,6 +3766,9 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -3966,6 +3792,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -4298,6 +4125,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=PCB_Logo.SchLib
@@ -5225,6 +5053,7 @@ ModelUpdate68=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=annotation.IntLib
@@ -5832,12 +5661,12 @@ ProjectToDo1=Name=Place Jumper Resistors (R128...R136) for FPGA bank supply near
 ProjectToDo2=Name=change copper with between polygon and pad of DCDC (U22) to increase current load capability|UID=JUKOVMKR
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

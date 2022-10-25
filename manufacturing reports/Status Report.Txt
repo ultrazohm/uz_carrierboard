@@ -1,10 +1,14 @@
-Output: BOM_xlsx
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:24:10 On 14.03.2022
+
+Output: PP-TEC0194-01
 Type  : BOM
 From  : Variant [S001] of Project [UltraZOhm_CarrierBoard.PrjPcb]
-   Generated File[BOM_xlsx-S001.xlsx]
+   Generated File[PP-TEC0194-01-S001.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:22:09 On 03.02.2022
+Finished Output Generation At 16:25:19 On 14.03.2022

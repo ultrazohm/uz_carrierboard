@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for UltraZOhm_CarrierBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -5130,11 +5130,11 @@ ParamDesignator530=U29
 ParamVariation531=ParameterName=Voltage|VariantValue=3.0 V - 5.5 V
 ParamDesignator531=U29
 Variation129=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart=10K|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/R_1608_0603|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=21492|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_1608_0603|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N_V|AltLibLink_IsSameFootprint=True
-ParamVariation532=ParameterName=AN|VariantValue=21492
+ParamVariation532=ParameterName=Comment|VariantValue=10K
 ParamDesignator532=R210
-ParamVariation533=ParameterName=Case|VariantValue=1608 (0603)
+ParamVariation533=ParameterName=AN|VariantValue=21492
 ParamDesignator533=R210
-ParamVariation534=ParameterName=Comment|VariantValue=10K
+ParamVariation534=ParameterName=Case|VariantValue=1608 (0603)
 ParamDesignator534=R210
 ParamVariation535=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator535=R210
@@ -5167,11 +5167,11 @@ ParamDesignator548=R210
 ParamVariation549=ParameterName=Value|VariantValue=10K
 ParamDesignator549=R210
 Variation130=Designator=R230|UniqueId=\RDIXJSCV\GMXWCKPO|Kind=2|AlternatePart=10K|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/R_1608_0603|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=21492|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_1608_0603|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N_V|AltLibLink_IsSameFootprint=True
-ParamVariation550=ParameterName=AN|VariantValue=21492
+ParamVariation550=ParameterName=Comment|VariantValue=10K
 ParamDesignator550=R230
-ParamVariation551=ParameterName=Case|VariantValue=1608 (0603)
+ParamVariation551=ParameterName=AN|VariantValue=21492
 ParamDesignator551=R230
-ParamVariation552=ParameterName=Comment|VariantValue=10K
+ParamVariation552=ParameterName=Case|VariantValue=1608 (0603)
 ParamDesignator552=R230
 ParamVariation553=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator553=R230
@@ -5268,7 +5268,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for UltraZOhm_CarrierBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -5716,6 +5716,12 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs

@@ -6381,12 +6381,6 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=PDF3D MBA
-OutputName13=PDF3D MBA
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -6724,16 +6718,6 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MBAExportPARASOLID
-OutputName11=Export PARASOLID
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=MBAExportSTEP
-OutputName12=Export STEP
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -7475,8 +7459,8 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=TE.DbLib/R_1608_0603
-ComponentDesignItemID0=21375
+ComponentLibraryIdentifier0=TE.DbLib/A_R_1608_0603
+ComponentDesignItemID0=26111
 ComponentSymbolReference0=RES
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
@@ -7505,18 +7489,20 @@ ParameterName4=Description
 ParameterUpdate4=1
 ParameterName5=Extra
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=HelpURL
 ParameterUpdate6=1
-ParameterName7=Mixed
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Preferred
+ParameterName8=Mixed
 ParameterUpdate8=1
-ParameterName9=Technology
+ParameterName9=Preferred
 ParameterUpdate9=1
-ParameterName10=Tolerance
+ParameterName10=Technology
 ParameterUpdate10=1
-ParameterName11=Value
+ParameterName11=Tolerance
 ParameterUpdate11=1
+ParameterName12=Value
+ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB

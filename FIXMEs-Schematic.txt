@@ -1,0 +1,1 @@
+- I2C0_Mux: Once new variant exists, set the two I²C0 pull-ups to DNP

@@ -38,13 +38,13 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=0
-CrossRefLocationStyle=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev05
+CurrentVariant=Rev05_Mech_Test
 
 [Preferences]
 PrefsVaultGUID=
@@ -1299,7 +1299,7 @@ ParamVariation16=ParameterName=Temperature-Range|VariantValue=-40/+85
 ParamDesignator16=X4
 ParamVariation17=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator17=X4
-Variation100=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation100=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator18=U10
 ParamVariation19=ParameterName=AN|VariantValue=30863
@@ -1332,7 +1332,7 @@ ParamVariation32=ParameterName=Pin Info|VariantValue=
 ParamDesignator32=U10
 ParamVariation33=ParameterName=Simulation|VariantValue= 
 ParamDesignator33=U10
-Variation101=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation101=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation34=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator34=U11
 ParamVariation35=ParameterName=AN|VariantValue=30863
@@ -1365,7 +1365,7 @@ ParamVariation48=ParameterName=Pin Info|VariantValue=
 ParamDesignator48=U11
 ParamVariation49=ParameterName=Simulation|VariantValue= 
 ParamDesignator49=U11
-Variation102=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation102=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation50=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator50=U12
 ParamVariation51=ParameterName=AN|VariantValue=30863
@@ -1750,7 +1750,7 @@ ParamVariation16=ParameterName=Temperature-Range|VariantValue=-40/+85
 ParamDesignator16=X4
 ParamVariation17=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator17=X4
-Variation100=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation100=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator18=U10
 ParamVariation19=ParameterName=AN|VariantValue=30863
@@ -1783,7 +1783,7 @@ ParamVariation32=ParameterName=Pin Info|VariantValue=
 ParamDesignator32=U10
 ParamVariation33=ParameterName=Simulation|VariantValue= 
 ParamDesignator33=U10
-Variation101=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation101=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation34=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator34=U11
 ParamVariation35=ParameterName=AN|VariantValue=30863
@@ -1816,7 +1816,7 @@ ParamVariation48=ParameterName=Pin Info|VariantValue=
 ParamDesignator48=U11
 ParamVariation49=ParameterName=Simulation|VariantValue= 
 ParamDesignator49=U11
-Variation102=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation102=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation50=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator50=U12
 ParamVariation51=ParameterName=AN|VariantValue=30863
@@ -2026,7 +2026,7 @@ ParamVariation16=ParameterName=Temperature-Range|VariantValue=-40/+85
 ParamDesignator16=X4
 ParamVariation17=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator17=X4
-Variation100=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation100=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator18=U10
 ParamVariation19=ParameterName=AN|VariantValue=30863
@@ -2059,7 +2059,7 @@ ParamVariation32=ParameterName=Pin Info|VariantValue=
 ParamDesignator32=U10
 ParamVariation33=ParameterName=Simulation|VariantValue= 
 ParamDesignator33=U10
-Variation101=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation101=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation34=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator34=U11
 ParamVariation35=ParameterName=AN|VariantValue=30863
@@ -2092,7 +2092,7 @@ ParamVariation48=ParameterName=Pin Info|VariantValue=
 ParamDesignator48=U11
 ParamVariation49=ParameterName=Simulation|VariantValue= 
 ParamDesignator49=U11
-Variation102=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation102=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation50=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator50=U12
 ParamVariation51=ParameterName=AN|VariantValue=30863
@@ -3497,7 +3497,7 @@ ParamVariation314=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator314=U4E
 ParamVariation315=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator315=U4E
-Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation316=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator316=U7A
 ParamVariation317=ParameterName=AN|VariantValue=31706
@@ -3538,7 +3538,7 @@ ParamVariation334=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator334=U7A
 ParamVariation335=ParameterName=Voltage|VariantValue=5V
 ParamDesignator335=U7A
-Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation336=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator336=U7B
 ParamVariation337=ParameterName=AN|VariantValue=31706
@@ -3653,7 +3653,7 @@ ParamVariation390=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
 ParamDesignator390=U9B
 ParamVariation391=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator391=U9B
-Variation122=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation122=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation392=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator392=U10
 ParamVariation393=ParameterName=AN|VariantValue=30863
@@ -3688,7 +3688,7 @@ ParamVariation407=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator407=U10
 ParamVariation408=ParameterName=Simulation|VariantValue= 
 ParamDesignator408=U10
-Variation123=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation123=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation409=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator409=U11
 ParamVariation410=ParameterName=AN|VariantValue=30863
@@ -3723,7 +3723,7 @@ ParamVariation424=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator424=U11
 ParamVariation425=ParameterName=Simulation|VariantValue= 
 ParamDesignator425=U11
-Variation124=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation124=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation426=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator426=U12
 ParamVariation427=ParameterName=AN|VariantValue=30863
@@ -3758,7 +3758,7 @@ ParamVariation441=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator441=U12
 ParamVariation442=ParameterName=Simulation|VariantValue= 
 ParamDesignator442=U12
-Variation125=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\IVHVQMOE|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation125=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\EBXHJVDB|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation443=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator443=U19
 ParamVariation444=ParameterName=AN|VariantValue=31706
@@ -3836,7 +3836,7 @@ ParamVariation479=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
 ParamDesignator479=U21
 ParamVariation480=ParameterName=Temperature-Range|VariantValue=-55/+125
 ParamDesignator480=U21
-Variation127=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\XJADMTSD|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation127=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\ZOJFAOZK|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation481=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator481=U27
 ParamVariation482=ParameterName=AN|VariantValue=31706
@@ -4642,7 +4642,7 @@ ParamVariation319=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator319=U4E
 ParamVariation320=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator320=U4E
-Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation321=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator321=U7A
 ParamVariation322=ParameterName=AN|VariantValue=31706
@@ -4683,7 +4683,7 @@ ParamVariation339=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator339=U7A
 ParamVariation340=ParameterName=Voltage|VariantValue=5V
 ParamDesignator340=U7A
-Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation341=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator341=U7B
 ParamVariation342=ParameterName=AN|VariantValue=31706
@@ -4724,7 +4724,7 @@ ParamVariation359=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator359=U7B
 ParamVariation360=ParameterName=Voltage|VariantValue=5V
 ParamDesignator360=U7B
-Variation120=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation120=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation361=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator361=U10
 ParamVariation362=ParameterName=AN|VariantValue=30863
@@ -4759,7 +4759,7 @@ ParamVariation376=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator376=U10
 ParamVariation377=ParameterName=Simulation|VariantValue= 
 ParamDesignator377=U10
-Variation121=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation121=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation378=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator378=U11
 ParamVariation379=ParameterName=AN|VariantValue=30863
@@ -4794,7 +4794,7 @@ ParamVariation393=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator393=U11
 ParamVariation394=ParameterName=Simulation|VariantValue= 
 ParamDesignator394=U11
-Variation122=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation122=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation395=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator395=U12
 ParamVariation396=ParameterName=AN|VariantValue=30863
@@ -4829,7 +4829,7 @@ ParamVariation410=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator410=U12
 ParamVariation411=ParameterName=Simulation|VariantValue= 
 ParamDesignator411=U12
-Variation123=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\IVHVQMOE|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation123=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\EBXHJVDB|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation412=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator412=U19
 ParamVariation413=ParameterName=AN|VariantValue=31706
@@ -4870,7 +4870,7 @@ ParamVariation430=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator430=U19
 ParamVariation431=ParameterName=Voltage|VariantValue=5V
 ParamDesignator431=U19
-Variation124=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\XJADMTSD|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation124=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\ZOJFAOZK|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation432=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator432=U27
 ParamVariation433=ParameterName=AN|VariantValue=31706
@@ -5750,7 +5750,7 @@ ParamVariation319=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator319=U4E
 ParamVariation320=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator320=U4E
-Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation321=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator321=U7A
 ParamVariation322=ParameterName=AN|VariantValue=31706
@@ -5791,7 +5791,7 @@ ParamVariation339=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator339=U7A
 ParamVariation340=ParameterName=Voltage|VariantValue=5V
 ParamDesignator340=U7A
-Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\MWPDREZN|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\GRNXMCSJ|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation341=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator341=U7B
 ParamVariation342=ParameterName=AN|VariantValue=31706
@@ -5832,7 +5832,7 @@ ParamVariation359=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator359=U7B
 ParamVariation360=ParameterName=Voltage|VariantValue=5V
 ParamDesignator360=U7B
-Variation120=Designator=U10|UniqueId=\ZWVYQITM\QETHEWYY|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation120=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation361=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator361=U10
 ParamVariation362=ParameterName=AN|VariantValue=30863
@@ -5867,7 +5867,7 @@ ParamVariation376=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator376=U10
 ParamVariation377=ParameterName=Simulation|VariantValue= 
 ParamDesignator377=U10
-Variation121=Designator=U11|UniqueId=\ZWVYQITM\CCAEUGPK|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation121=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation378=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator378=U11
 ParamVariation379=ParameterName=AN|VariantValue=30863
@@ -5902,7 +5902,7 @@ ParamVariation393=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator393=U11
 ParamVariation394=ParameterName=Simulation|VariantValue= 
 ParamDesignator394=U11
-Variation122=Designator=U12|UniqueId=\ZWVYQITM\TVNHWODD|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation122=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation395=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator395=U12
 ParamVariation396=ParameterName=AN|VariantValue=30863
@@ -5937,7 +5937,7 @@ ParamVariation410=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator410=U12
 ParamVariation411=ParameterName=Simulation|VariantValue= 
 ParamDesignator411=U12
-Variation123=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\IVHVQMOE|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation123=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\EBXHJVDB|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation412=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator412=U19
 ParamVariation413=ParameterName=AN|VariantValue=31706
@@ -5978,7 +5978,7 @@ ParamVariation430=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator430=U19
 ParamVariation431=ParameterName=Voltage|VariantValue=5V
 ParamDesignator431=U19
-Variation124=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\XJADMTSD|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=True
+Variation124=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\ZOJFAOZK|Kind=2|AlternatePart=(cs) LT1761ES5-BYP#TRPBF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=31706|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOT95P280X100-5N|AltLibLink_IsSameFootprint=False
 ParamVariation432=ParameterName=Comment|VariantValue=(cs) LT1761ES5-BYP#TRPBF
 ParamDesignator432=U27
 ParamVariation433=ParameterName=AN|VariantValue=31706
@@ -6095,21 +6095,1142 @@ ParamVariation487=ParameterName=Value|VariantValue=10K
 ParamDesignator487=R230
 ParamVariationCount=487
 
+[ProjectVariant8]
+UniqueID=E650492D-F5C5-4C9A-9542-2AB04B8BEBB0
+Description=Rev05_Mech_Test
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1021
+Variation1=Designator=R75A|UniqueId=\GDJTJOPP\1FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
+Variation2=Designator=R75B|UniqueId=\GDJTJOPP\2FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
+Variation3=Designator=R75C|UniqueId=\GDJTJOPP\3FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
+Variation4=Designator=R75D|UniqueId=\GDJTJOPP\4FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
+Variation5=Designator=R75E|UniqueId=\GDJTJOPP\5FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
+Variation6=Designator=R176|UniqueId=\GDJTJOPP\CXRWOBTY\EJEZHWZM|Kind=1|AlternatePart= 
+Variation7=Designator=R177|UniqueId=\GDJTJOPP\CXRWOBTY\MRROCSYW|Kind=1|AlternatePart= 
+Variation8=Designator=R186|UniqueId=\GDJTJOPP\CXRWOBTY\NXWACDXM|Kind=1|AlternatePart= 
+Variation9=Designator=R187|UniqueId=\GDJTJOPP\CXRWOBTY\BKMYFYXD|Kind=1|AlternatePart= 
+Variation10=Designator=R188|UniqueId=\GDJTJOPP\CXRWOBTY\YUASCUQV|Kind=1|AlternatePart= 
+Variation11=Designator=R189|UniqueId=\GDJTJOPP\CXRWOBTY\HTZDDDMA|Kind=1|AlternatePart= 
+Variation12=Designator=R190|UniqueId=\GDJTJOPP\CXRWOBTY\RCHQKGNI|Kind=1|AlternatePart= 
+Variation13=Designator=R191|UniqueId=\GDJTJOPP\CXRWOBTY\DLCBVNAW|Kind=1|AlternatePart= 
+Variation14=Designator=R185|UniqueId=\GDJTJOPP\CXRWOBTY\KKIAEDGF|Kind=1|AlternatePart= 
+Variation15=Designator=R184|UniqueId=\GDJTJOPP\CXRWOBTY\ISYGIHDT|Kind=1|AlternatePart= 
+Variation16=Designator=R183|UniqueId=\GDJTJOPP\CXRWOBTY\OREMEKCB|Kind=1|AlternatePart= 
+Variation17=Designator=R182|UniqueId=\GDJTJOPP\CXRWOBTY\NJINJIEF|Kind=1|AlternatePart= 
+Variation18=Designator=R180|UniqueId=\GDJTJOPP\CXRWOBTY\DBQYAMLV|Kind=1|AlternatePart= 
+Variation19=Designator=R98|UniqueId=\LNKYODNA\SGEERAGF|Kind=1|AlternatePart= 
+Variation20=Designator=R100|UniqueId=\LNKYODNA\JUIEDOYU\EEOYVILL|Kind=1|AlternatePart= 
+Variation21=Designator=R101|UniqueId=\LNKYODNA\JUIEDOYU\MFHDZHTL|Kind=1|AlternatePart= 
+Variation22=Designator=R105|UniqueId=\LNKYODNA\JUIEDOYU\DTVSNLXP|Kind=1|AlternatePart= 
+Variation23=Designator=R107|UniqueId=\LNKYODNA\JUIEDOYU\ZJOIKACV|Kind=1|AlternatePart= 
+Variation24=Designator=R109|UniqueId=\LNKYODNA\JUIEDOYU\XHLKZXPT|Kind=1|AlternatePart= 
+Variation25=Designator=R106|UniqueId=\LNKYODNA\JUIEDOYU\UJOUZNUO|Kind=1|AlternatePart= 
+Variation26=Designator=R108|UniqueId=\LNKYODNA\JUIEDOYU\RNOCMQLL|Kind=1|AlternatePart= 
+Variation27=Designator=R110|UniqueId=\LNKYODNA\JUIEDOYU\PYURANSQ|Kind=1|AlternatePart= 
+Variation28=Designator=R84|UniqueId=\ZWVYQITM\UJLLTYMT|Kind=1|AlternatePart= 
+Variation29=Designator=R85|UniqueId=\ZWVYQITM\TNVFENKQ|Kind=1|AlternatePart= 
+Variation30=Designator=D8|UniqueId=\ZWVYQITM\FILMLQWI|Kind=1|AlternatePart= 
+Variation31=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
+Variation32=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
+Variation33=Designator=P1A|UniqueId=\LNKYODNA\CGKLFIVQ\MOUTTCGE|Kind=1|AlternatePart= 
+Variation34=Designator=P1B|UniqueId=\LNKYODNA\EYVZQQPN\MOUTTCGE|Kind=1|AlternatePart= 
+Variation35=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
+Variation36=Designator=R178|UniqueId=\GDJTJOPP\CXRWOBTY\SNERVKRW|Kind=1|AlternatePart= 
+Variation37=Designator=R179|UniqueId=\GDJTJOPP\CXRWOBTY\UFIVQFUO|Kind=1|AlternatePart= 
+Variation38=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
+Variation39=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
+Variation40=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
+Variation41=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
+Variation42=Designator=R102|UniqueId=\LNKYODNA\JUIEDOYU\YAOMYOTU|Kind=1|AlternatePart= 
+Variation43=Designator=R103|UniqueId=\LNKYODNA\JUIEDOYU\FTTMERNL|Kind=1|AlternatePart= 
+Variation44=Designator=X11|UniqueId=\LNKYODNA\FHVTSMLL|Kind=1|AlternatePart= 
+Variation45=Designator=R44|UniqueId=\GDJTJOPP\YQMNRFNE\EYGMUFAM|Kind=1|AlternatePart= 
+Variation46=Designator=R46|UniqueId=\GDJTJOPP\YQMNRFNE\ONVUVRTG|Kind=1|AlternatePart= 
+Variation47=Designator=R47|UniqueId=\GDJTJOPP\YQMNRFNE\MEVXNTBH|Kind=1|AlternatePart= 
+Variation48=Designator=R34|UniqueId=\GDJTJOPP\YQMNRFNE\GBMAFTNS|Kind=1|AlternatePart= 
+Variation49=Designator=R36|UniqueId=\GDJTJOPP\YQMNRFNE\GUQUNWFU|Kind=1|AlternatePart= 
+Variation50=Designator=R38|UniqueId=\GDJTJOPP\YQMNRFNE\VSSBLJBJ|Kind=1|AlternatePart= 
+Variation51=Designator=R40|UniqueId=\GDJTJOPP\YQMNRFNE\UZNGLUGA|Kind=1|AlternatePart= 
+Variation52=Designator=R42|UniqueId=\GDJTJOPP\YQMNRFNE\WRPLCLBB|Kind=1|AlternatePart= 
+Variation53=Designator=R208|UniqueId=\GDJTJOPP\APHJHNRL\YKXFQCTK|Kind=1|AlternatePart= 
+Variation54=Designator=R104|UniqueId=\LNKYODNA\JUIEDOYU\NWLAIQPN|Kind=1|AlternatePart= 
+Variation55=Designator=R192|UniqueId=\LNKYODNA\JUIEDOYU\YNZTKSMF|Kind=1|AlternatePart= 
+Variation56=Designator=R218|UniqueId=\LNKYODNA\JUIEDOYU\OUYWXAYV|Kind=1|AlternatePart= 
+Variation57=Designator=R226|UniqueId=\LNKYODNA\JUIEDOYU\XAZTTAHH|Kind=1|AlternatePart= 
+Variation58=Designator=R227|UniqueId=\LNKYODNA\JUIEDOYU\ZUBMLGFM|Kind=1|AlternatePart= 
+Variation59=Designator=R228|UniqueId=\LNKYODNA\JUIEDOYU\TBHCLTBW|Kind=1|AlternatePart= 
+Variation60=Designator=R193L|UniqueId=\GDJTJOPP\CXRWOBTY\YQNQKBPS|Kind=1|AlternatePart= 
+Variation61=Designator=R194L|UniqueId=\GDJTJOPP\CXRWOBTY\PJUTIZHW|Kind=1|AlternatePart= 
+Variation62=Designator=R195L|UniqueId=\GDJTJOPP\CXRWOBTY\PKPSDBVT|Kind=1|AlternatePart= 
+Variation63=Designator=R196L|UniqueId=\GDJTJOPP\CXRWOBTY\XAPEZSJW|Kind=1|AlternatePart= 
+Variation64=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
+Variation65=Designator=R122L|UniqueId=\LNKYODNA\TVCGAKXK\CYOOIIGL|Kind=1|AlternatePart= 
+Variation66=Designator=R123H|UniqueId=\LNKYODNA\TVCGAKXK\VXPGGYGT|Kind=1|AlternatePart= 
+Variation67=Designator=R124L|UniqueId=\LNKYODNA\TVCGAKXK\HAPAIOYF|Kind=1|AlternatePart= 
+Variation68=Designator=R125L|UniqueId=\LNKYODNA\TVCGAKXK\LIMQEAIE|Kind=1|AlternatePart= 
+Variation69=Designator=R207Y|UniqueId=\GDJTJOPP\APHJHNRL\CPYUPFQN|Kind=1|AlternatePart= 
+Variation70=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation71=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation72=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation73=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation74=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation75=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation76=Designator=R181|UniqueId=\GDJTJOPP\CXRWOBTY\LMGOZLCX|Kind=1|AlternatePart= 
+Variation77=Designator=R79A|UniqueId=\LNKYODNA\CGKLFIVQ\JQEHSEKJ|Kind=1|AlternatePart= 
+Variation78=Designator=R79B|UniqueId=\LNKYODNA\EYVZQQPN\JQEHSEKJ|Kind=1|AlternatePart= 
+Variation79=Designator=R78B|UniqueId=\LNKYODNA\EYVZQQPN\ALUHJTNM|Kind=1|AlternatePart= 
+Variation80=Designator=R78A|UniqueId=\LNKYODNA\CGKLFIVQ\ALUHJTNM|Kind=1|AlternatePart= 
+Variation81=Designator=R157LC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\LCUSAAXG|Kind=1|AlternatePart= 
+Variation82=Designator=R157LB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\LCUSAAXG|Kind=1|AlternatePart= 
+Variation83=Designator=R157LA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\LCUSAAXG|Kind=1|AlternatePart= 
+Variation84=Designator=R158LC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\UXSVZTZP|Kind=1|AlternatePart= 
+Variation85=Designator=R158LB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\UXSVZTZP|Kind=1|AlternatePart= 
+Variation86=Designator=R158LA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\UXSVZTZP|Kind=1|AlternatePart= 
+Variation87=Designator=R159HC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\NOPOWYKP|Kind=1|AlternatePart= 
+Variation88=Designator=R159HB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\NOPOWYKP|Kind=1|AlternatePart= 
+Variation89=Designator=R159HA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\NOPOWYKP|Kind=1|AlternatePart= 
+Variation90=Designator=R160HC|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\TQFZFZUY|Kind=1|AlternatePart= 
+Variation91=Designator=R160HB|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\TQFZFZUY|Kind=1|AlternatePart= 
+Variation92=Designator=R160HA|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\TQFZFZUY|Kind=1|AlternatePart= 
+Variation93=Designator=R1H|UniqueId=\RDIXJSCV\ZAPPYJCH|Kind=1|AlternatePart= 
+Variation94=Designator=D26|UniqueId=\LNKYODNA\GABJFTRH\GXJTAMKO|Kind=1|AlternatePart= 
+Variation95=Designator=R132|UniqueId=\LNKYODNA\GABJFTRH\EZSDDQOW|Kind=1|AlternatePart= 
+Variation96=Designator=X9|UniqueId=\LNKYODNA\HXIEARMA|Kind=1|AlternatePart= 
+Variation97=Designator=R154|UniqueId=\RDIXJSCV\BJIVXQLD|Kind=1|AlternatePart= 
+Variation98=Designator=R155|UniqueId=\RDIXJSCV\NZJFCXPT|Kind=1|AlternatePart= 
+Variation99=Designator=X4|UniqueId=\PRYVHNCG\LSTTUZPI|Kind=1|AlternatePart= 
+Variation100=Designator=X2|UniqueId=\RDIXJSCV\EUDWIVGD|Kind=1|AlternatePart= 
+Variation101=Designator=R137|UniqueId=\LNKYODNA\MASBNQGB|Kind=1|AlternatePart= 
+Variation102=Designator=U18|UniqueId=\LNKYODNA\TVCGAKXK\JKCSAMHH|Kind=1|AlternatePart= 
+Variation103=Designator=U24A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\KFAQUCBH|Kind=1|AlternatePart= 
+Variation104=Designator=U24B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\KFAQUCBH|Kind=1|AlternatePart= 
+Variation105=Designator=U24C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\KFAQUCBH|Kind=1|AlternatePart= 
+Variation106=Designator=U17|UniqueId=\LNKYODNA\TVCGAKXK\IYKDTPKG|Kind=1|AlternatePart= 
+Variation107=Designator=U25A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\OKXLGDPX|Kind=1|AlternatePart= 
+Variation108=Designator=U25C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\OKXLGDPX|Kind=1|AlternatePart= 
+Variation109=Designator=U25B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\OKXLGDPX|Kind=1|AlternatePart= 
+Variation110=Designator=U31|UniqueId=\GDJTJOPP\CXRWOBTY\RAECUNMF|Kind=1|AlternatePart= 
+Variation111=Designator=U14|UniqueId=\LNKYODNA\JUIEDOYU\EXXOMWWT|Kind=1|AlternatePart= 
+Variation112=Designator=U30|UniqueId=\GDJTJOPP\CXRWOBTY\GKGVXTQO|Kind=1|AlternatePart= 
+Variation113=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\NGIERZJD|Kind=1|AlternatePart= 
+Variation114=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\NGIERZJD|Kind=1|AlternatePart= 
+Variation115=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\NGIERZJD|Kind=1|AlternatePart= 
+Variation116=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\NGIERZJD|Kind=1|AlternatePart= 
+Variation117=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\NGIERZJD|Kind=1|AlternatePart= 
+Variation118=Designator=U7A|UniqueId=\LNKYODNA\CGKLFIVQ\GRNXMCSJ|Kind=1|AlternatePart= 
+Variation119=Designator=U7B|UniqueId=\LNKYODNA\EYVZQQPN\GRNXMCSJ|Kind=1|AlternatePart= 
+Variation120=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=1|AlternatePart= 
+Variation121=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=1|AlternatePart= 
+Variation122=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=1|AlternatePart= 
+Variation123=Designator=U19|UniqueId=\LNKYODNA\TVCGAKXK\EBXHJVDB|Kind=1|AlternatePart= 
+Variation124=Designator=U27|UniqueId=\LNKYODNA\TLNOSMBB\ZOJFAOZK|Kind=1|AlternatePart= 
+Variation125=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=1|AlternatePart= 
+Variation126=Designator=R230|UniqueId=\RDIXJSCV\GMXWCKPO|Kind=1|AlternatePart= 
+Variation127=Designator=C1|UniqueId=\DSZVNOFL\IFOIGUWA\XHVNXZZK|Kind=1|AlternatePart= 
+Variation128=Designator=C10|UniqueId=\PRYVHNCG\WZAGACRL|Kind=1|AlternatePart= 
+Variation129=Designator=C2|UniqueId=\GDJTJOPP\APHJHNRL\HZUGSVQD|Kind=1|AlternatePart= 
+Variation130=Designator=C3|UniqueId=\PRYVHNCG\ZSNCKTTB|Kind=1|AlternatePart= 
+Variation131=Designator=LOGO1|UniqueId=\THUCOLXF|Kind=1|AlternatePart= 
+Variation132=Designator=R51|UniqueId=\PRYVHNCG\CGEGHVGQ|Kind=1|AlternatePart= 
+Variation133=Designator=R29C|UniqueId=\LNKYODNA\GABJFTRH\3CKTLWLZK\CGVRJXWX|Kind=1|AlternatePart= 
+Variation134=Designator=R29D|UniqueId=\LNKYODNA\GABJFTRH\4CKTLWLZK\CGVRJXWX|Kind=1|AlternatePart= 
+Variation135=Designator=R58A|UniqueId=\GDJTJOPP\1FYUGHYFG\ASELQADA|Kind=1|AlternatePart= 
+Variation136=Designator=R58B|UniqueId=\GDJTJOPP\2FYUGHYFG\ASELQADA|Kind=1|AlternatePart= 
+Variation137=Designator=R30A|UniqueId=\GDJTJOPP\1FUJJHQAH\QCBICZRW|Kind=1|AlternatePart= 
+Variation138=Designator=R57B|UniqueId=\GDJTJOPP\2FYUGHYFG\NUXVYFSO|Kind=1|AlternatePart= 
+Variation139=Designator=R58C|UniqueId=\GDJTJOPP\3FYUGHYFG\ASELQADA|Kind=1|AlternatePart= 
+Variation140=Designator=R30B|UniqueId=\GDJTJOPP\2FUJJHQAH\QCBICZRW|Kind=1|AlternatePart= 
+Variation141=Designator=R59B|UniqueId=\GDJTJOPP\2FYUGHYFG\SPIUVCDI|Kind=1|AlternatePart= 
+Variation142=Designator=R30C|UniqueId=\GDJTJOPP\3FUJJHQAH\QCBICZRW|Kind=1|AlternatePart= 
+Variation143=Designator=R60B|UniqueId=\GDJTJOPP\2FYUGHYFG\TXOFWMYU|Kind=1|AlternatePart= 
+Variation144=Designator=R31C|UniqueId=\GDJTJOPP\3FUJJHQAH\JPRYQAJT|Kind=1|AlternatePart= 
+Variation145=Designator=R59A|UniqueId=\GDJTJOPP\1FYUGHYFG\SPIUVCDI|Kind=1|AlternatePart= 
+Variation146=Designator=R59D|UniqueId=\GDJTJOPP\4FYUGHYFG\SPIUVCDI|Kind=1|AlternatePart= 
+Variation147=Designator=R31B|UniqueId=\GDJTJOPP\2FUJJHQAH\JPRYQAJT|Kind=1|AlternatePart= 
+Variation148=Designator=R59C|UniqueId=\GDJTJOPP\3FYUGHYFG\SPIUVCDI|Kind=1|AlternatePart= 
+Variation149=Designator=R33|UniqueId=\GDJTJOPP\YQMNRFNE\NJVSTKWD|Kind=1|AlternatePart= 
+Variation150=Designator=R60E|UniqueId=\GDJTJOPP\5FYUGHYFG\TXOFWMYU|Kind=1|AlternatePart= 
+Variation151=Designator=R32|UniqueId=\GDJTJOPP\YQMNRFNE\LPQSAITL|Kind=1|AlternatePart= 
+Variation152=Designator=R61D|UniqueId=\GDJTJOPP\4FYUGHYFG\ZNMKZCZD|Kind=1|AlternatePart= 
+Variation153=Designator=R61C|UniqueId=\GDJTJOPP\3FYUGHYFG\ZNMKZCZD|Kind=1|AlternatePart= 
+Variation154=Designator=R60A|UniqueId=\GDJTJOPP\1FYUGHYFG\TXOFWMYU|Kind=1|AlternatePart= 
+Variation155=Designator=R41|UniqueId=\GDJTJOPP\YQMNRFNE\UBMGEVAC|Kind=1|AlternatePart= 
+Variation156=Designator=R61B|UniqueId=\GDJTJOPP\2FYUGHYFG\ZNMKZCZD|Kind=1|AlternatePart= 
+Variation157=Designator=R35|UniqueId=\GDJTJOPP\YQMNRFNE\NQAGFJSF|Kind=1|AlternatePart= 
+Variation158=Designator=R61E|UniqueId=\GDJTJOPP\5FYUGHYFG\ZNMKZCZD|Kind=1|AlternatePart= 
+Variation159=Designator=R61A|UniqueId=\GDJTJOPP\1FYUGHYFG\ZNMKZCZD|Kind=1|AlternatePart= 
+Variation160=Designator=R43|UniqueId=\GDJTJOPP\YQMNRFNE\NSERRPSX|Kind=1|AlternatePart= 
+Variation161=Designator=R58E|UniqueId=\GDJTJOPP\5FYUGHYFG\ASELQADA|Kind=1|AlternatePart= 
+Variation162=Designator=R39|UniqueId=\GDJTJOPP\YQMNRFNE\RNMWPSNF|Kind=1|AlternatePart= 
+Variation163=Designator=R58D|UniqueId=\GDJTJOPP\4FYUGHYFG\ASELQADA|Kind=1|AlternatePart= 
+Variation164=Designator=R37|UniqueId=\GDJTJOPP\YQMNRFNE\KUEHIKBH|Kind=1|AlternatePart= 
+Variation165=Designator=R60D|UniqueId=\GDJTJOPP\4FYUGHYFG\TXOFWMYU|Kind=1|AlternatePart= 
+Variation166=Designator=R31A|UniqueId=\GDJTJOPP\1FUJJHQAH\JPRYQAJT|Kind=1|AlternatePart= 
+Variation167=Designator=R60C|UniqueId=\GDJTJOPP\3FYUGHYFG\TXOFWMYU|Kind=1|AlternatePart= 
+Variation168=Designator=R59E|UniqueId=\GDJTJOPP\5FYUGHYFG\SPIUVCDI|Kind=1|AlternatePart= 
+Variation169=Designator=R62A|UniqueId=\GDJTJOPP\1FYUGHYFG\GBOBILWM|Kind=1|AlternatePart= 
+Variation170=Designator=R45|UniqueId=\GDJTJOPP\YQMNRFNE\HSSFQNEE|Kind=1|AlternatePart= 
+Variation171=Designator=R62B|UniqueId=\GDJTJOPP\2FYUGHYFG\GBOBILWM|Kind=1|AlternatePart= 
+Variation172=Designator=R29B|UniqueId=\LNKYODNA\GABJFTRH\2CKTLWLZK\CGVRJXWX|Kind=1|AlternatePart= 
+Variation173=Designator=R63A|UniqueId=\GDJTJOPP\1FYUGHYFG\VVTQZVAZ|Kind=1|AlternatePart= 
+Variation174=Designator=R64A|UniqueId=\GDJTJOPP\1FYUGHYFG\BOKUKGLB|Kind=1|AlternatePart= 
+Variation175=Designator=R53|UniqueId=\PRYVHNCG\FVIGOBEA|Kind=1|AlternatePart= 
+Variation176=Designator=R62E|UniqueId=\GDJTJOPP\5FYUGHYFG\GBOBILWM|Kind=1|AlternatePart= 
+Variation177=Designator=R48|UniqueId=\PRYVHNCG\FMCKCQGR|Kind=1|AlternatePart= 
+Variation178=Designator=R63C|UniqueId=\GDJTJOPP\3FYUGHYFG\VVTQZVAZ|Kind=1|AlternatePart= 
+Variation179=Designator=R50|UniqueId=\PRYVHNCG\YPCCUGDX|Kind=1|AlternatePart= 
+Variation180=Designator=R63B|UniqueId=\GDJTJOPP\2FYUGHYFG\VVTQZVAZ|Kind=1|AlternatePart= 
+Variation181=Designator=R49|UniqueId=\PRYVHNCG\NWJSXKQA|Kind=1|AlternatePart= 
+Variation182=Designator=R64C|UniqueId=\GDJTJOPP\3FYUGHYFG\BOKUKGLB|Kind=1|AlternatePart= 
+Variation183=Designator=R56|UniqueId=\PRYVHNCG\DGCOFWYJ|Kind=1|AlternatePart= 
+Variation184=Designator=R65B|UniqueId=\GDJTJOPP\2FYUGHYFG\LQISMDYM|Kind=1|AlternatePart= 
+Variation185=Designator=R57D|UniqueId=\GDJTJOPP\4FYUGHYFG\NUXVYFSO|Kind=1|AlternatePart= 
+Variation186=Designator=R65A|UniqueId=\GDJTJOPP\1FYUGHYFG\LQISMDYM|Kind=1|AlternatePart= 
+Variation187=Designator=R57C|UniqueId=\GDJTJOPP\3FYUGHYFG\NUXVYFSO|Kind=1|AlternatePart= 
+Variation188=Designator=R63E|UniqueId=\GDJTJOPP\5FYUGHYFG\VVTQZVAZ|Kind=1|AlternatePart= 
+Variation189=Designator=R52|UniqueId=\PRYVHNCG\YTOICQMG|Kind=1|AlternatePart= 
+Variation190=Designator=R64E|UniqueId=\GDJTJOPP\5FYUGHYFG\BOKUKGLB|Kind=1|AlternatePart= 
+Variation191=Designator=R65C|UniqueId=\GDJTJOPP\3FYUGHYFG\LQISMDYM|Kind=1|AlternatePart= 
+Variation192=Designator=R57E|UniqueId=\GDJTJOPP\5FYUGHYFG\NUXVYFSO|Kind=1|AlternatePart= 
+Variation193=Designator=R64D|UniqueId=\GDJTJOPP\4FYUGHYFG\BOKUKGLB|Kind=1|AlternatePart= 
+Variation194=Designator=R57A|UniqueId=\GDJTJOPP\1FYUGHYFG\NUXVYFSO|Kind=1|AlternatePart= 
+Variation195=Designator=R62D|UniqueId=\GDJTJOPP\4FYUGHYFG\GBOBILWM|Kind=1|AlternatePart= 
+Variation196=Designator=R62C|UniqueId=\GDJTJOPP\3FYUGHYFG\GBOBILWM|Kind=1|AlternatePart= 
+Variation197=Designator=R64B|UniqueId=\GDJTJOPP\2FYUGHYFG\BOKUKGLB|Kind=1|AlternatePart= 
+Variation198=Designator=R55|UniqueId=\PRYVHNCG\DEDCAINI|Kind=1|AlternatePart= 
+Variation199=Designator=R63D|UniqueId=\GDJTJOPP\4FYUGHYFG\VVTQZVAZ|Kind=1|AlternatePart= 
+Variation200=Designator=R54|UniqueId=\PRYVHNCG\GHACJQJG|Kind=1|AlternatePart= 
+Variation201=Designator=R65D|UniqueId=\GDJTJOPP\4FYUGHYFG\LQISMDYM|Kind=1|AlternatePart= 
+Variation202=Designator=R66B|UniqueId=\GDJTJOPP\2FYUGHYFG\MATPWUXO|Kind=1|AlternatePart= 
+Variation203=Designator=R70D|UniqueId=\GDJTJOPP\4FYUGHYFG\DLPPFWNY|Kind=1|AlternatePart= 
+Variation204=Designator=R66C|UniqueId=\GDJTJOPP\3FYUGHYFG\MATPWUXO|Kind=1|AlternatePart= 
+Variation205=Designator=R72A|UniqueId=\GDJTJOPP\1FYUGHYFG\QOFYOFIH|Kind=1|AlternatePart= 
+Variation206=Designator=R67B|UniqueId=\GDJTJOPP\2FYUGHYFG\MAOLAIFS|Kind=1|AlternatePart= 
+Variation207=Designator=R70C|UniqueId=\GDJTJOPP\3FYUGHYFG\DLPPFWNY|Kind=1|AlternatePart= 
+Variation208=Designator=R68B|UniqueId=\GDJTJOPP\2FYUGHYFG\YIFFCKCK|Kind=1|AlternatePart= 
+Variation209=Designator=R74A|UniqueId=\GDJTJOPP\1FYUGHYFG\LGGBOWKH|Kind=1|AlternatePart= 
+Variation210=Designator=R67A|UniqueId=\GDJTJOPP\1FYUGHYFG\MAOLAIFS|Kind=1|AlternatePart= 
+Variation211=Designator=R74B|UniqueId=\GDJTJOPP\2FYUGHYFG\LGGBOWKH|Kind=1|AlternatePart= 
+Variation212=Designator=R67D|UniqueId=\GDJTJOPP\4FYUGHYFG\MAOLAIFS|Kind=1|AlternatePart= 
+Variation213=Designator=R73B|UniqueId=\GDJTJOPP\2FYUGHYFG\JKMXUDDL|Kind=1|AlternatePart= 
+Variation214=Designator=R74C|UniqueId=\GDJTJOPP\3FYUGHYFG\LGGBOWKH|Kind=1|AlternatePart= 
+Variation215=Designator=R67C|UniqueId=\GDJTJOPP\3FYUGHYFG\MAOLAIFS|Kind=1|AlternatePart= 
+Variation216=Designator=R68D|UniqueId=\GDJTJOPP\4FYUGHYFG\YIFFCKCK|Kind=1|AlternatePart= 
+Variation217=Designator=R77B|UniqueId=\LNKYODNA\EYVZQQPN\UARTAJCF|Kind=1|AlternatePart= 
+Variation218=Designator=R69C|UniqueId=\GDJTJOPP\3FYUGHYFG\DQTVVEQX|Kind=1|AlternatePart= 
+Variation219=Designator=R69B|UniqueId=\GDJTJOPP\2FYUGHYFG\DQTVVEQX|Kind=1|AlternatePart= 
+Variation220=Designator=R76A|UniqueId=\LNKYODNA\CGKLFIVQ\XDRFIEHM|Kind=1|AlternatePart= 
+Variation221=Designator=R68A|UniqueId=\GDJTJOPP\1FYUGHYFG\YIFFCKCK|Kind=1|AlternatePart= 
+Variation222=Designator=R69A|UniqueId=\GDJTJOPP\1FYUGHYFG\DQTVVEQX|Kind=1|AlternatePart= 
+Variation223=Designator=R69D|UniqueId=\GDJTJOPP\4FYUGHYFG\DQTVVEQX|Kind=1|AlternatePart= 
+Variation224=Designator=R80B|UniqueId=\LNKYODNA\EYVZQQPN\SNIXTTNS|Kind=1|AlternatePart= 
+Variation225=Designator=R68E|UniqueId=\GDJTJOPP\5FYUGHYFG\YIFFCKCK|Kind=1|AlternatePart= 
+Variation226=Designator=R80A|UniqueId=\LNKYODNA\CGKLFIVQ\SNIXTTNS|Kind=1|AlternatePart= 
+Variation227=Designator=R66E|UniqueId=\GDJTJOPP\5FYUGHYFG\MATPWUXO|Kind=1|AlternatePart= 
+Variation228=Designator=R77A|UniqueId=\LNKYODNA\CGKLFIVQ\UARTAJCF|Kind=1|AlternatePart= 
+Variation229=Designator=R66D|UniqueId=\GDJTJOPP\4FYUGHYFG\MATPWUXO|Kind=1|AlternatePart= 
+Variation230=Designator=R68C|UniqueId=\GDJTJOPP\3FYUGHYFG\YIFFCKCK|Kind=1|AlternatePart= 
+Variation231=Designator=R81A|UniqueId=\LNKYODNA\CGKLFIVQ\TMXQBSWK|Kind=1|AlternatePart= 
+Variation232=Designator=R67E|UniqueId=\GDJTJOPP\5FYUGHYFG\MAOLAIFS|Kind=1|AlternatePart= 
+Variation233=Designator=R69E|UniqueId=\GDJTJOPP\5FYUGHYFG\DQTVVEQX|Kind=1|AlternatePart= 
+Variation234=Designator=R70A|UniqueId=\GDJTJOPP\1FYUGHYFG\DLPPFWNY|Kind=1|AlternatePart= 
+Variation235=Designator=R74E|UniqueId=\GDJTJOPP\5FYUGHYFG\LGGBOWKH|Kind=1|AlternatePart= 
+Variation236=Designator=R76B|UniqueId=\LNKYODNA\EYVZQQPN\XDRFIEHM|Kind=1|AlternatePart= 
+Variation237=Designator=R74D|UniqueId=\GDJTJOPP\4FYUGHYFG\LGGBOWKH|Kind=1|AlternatePart= 
+Variation238=Designator=R66A|UniqueId=\GDJTJOPP\1FYUGHYFG\MATPWUXO|Kind=1|AlternatePart= 
+Variation239=Designator=R81B|UniqueId=\LNKYODNA\EYVZQQPN\TMXQBSWK|Kind=1|AlternatePart= 
+Variation240=Designator=R82|UniqueId=\ZWVYQITM\MWFILYEJ|Kind=1|AlternatePart= 
+Variation241=Designator=R65E|UniqueId=\GDJTJOPP\5FYUGHYFG\LQISMDYM|Kind=1|AlternatePart= 
+Variation242=Designator=R70B|UniqueId=\GDJTJOPP\2FYUGHYFG\DLPPFWNY|Kind=1|AlternatePart= 
+Variation243=Designator=R88|UniqueId=\ZWVYQITM\PTYIWEGO|Kind=1|AlternatePart= 
+Variation244=Designator=R93|UniqueId=\ZWVYQITM\KBKQLKFF|Kind=1|AlternatePart= 
+Variation245=Designator=R87|UniqueId=\ZWVYQITM\GOMJINNS|Kind=1|AlternatePart= 
+Variation246=Designator=R90|UniqueId=\ZWVYQITM\SIEUQJES|Kind=1|AlternatePart= 
+Variation247=Designator=R71C|UniqueId=\GDJTJOPP\3FYUGHYFG\JVSGVHYR|Kind=1|AlternatePart= 
+Variation248=Designator=R95|UniqueId=\ZWVYQITM\TJFRYXSI|Kind=1|AlternatePart= 
+Variation249=Designator=R72C|UniqueId=\GDJTJOPP\3FYUGHYFG\QOFYOFIH|Kind=1|AlternatePart= 
+Variation250=Designator=R71B|UniqueId=\GDJTJOPP\2FYUGHYFG\JVSGVHYR|Kind=1|AlternatePart= 
+Variation251=Designator=R71E|UniqueId=\GDJTJOPP\5FYUGHYFG\JVSGVHYR|Kind=1|AlternatePart= 
+Variation252=Designator=R92|UniqueId=\ZWVYQITM\FPJHYCSK|Kind=1|AlternatePart= 
+Variation253=Designator=R97|UniqueId=\HFEOLWXN\CBFGIYBI|Kind=1|AlternatePart= 
+Variation254=Designator=R71D|UniqueId=\GDJTJOPP\4FYUGHYFG\JVSGVHYR|Kind=1|AlternatePart= 
+Variation255=Designator=R99|UniqueId=\LNKYODNA\IDXVUDLM|Kind=1|AlternatePart= 
+Variation256=Designator=R72E|UniqueId=\GDJTJOPP\5FYUGHYFG\QOFYOFIH|Kind=1|AlternatePart= 
+Variation257=Designator=R73D|UniqueId=\GDJTJOPP\4FYUGHYFG\JKMXUDDL|Kind=1|AlternatePart= 
+Variation258=Designator=R86|UniqueId=\ZWVYQITM\OPJYJXXD|Kind=1|AlternatePart= 
+Variation259=Designator=R73C|UniqueId=\GDJTJOPP\3FYUGHYFG\JKMXUDDL|Kind=1|AlternatePart= 
+Variation260=Designator=R72B|UniqueId=\GDJTJOPP\2FYUGHYFG\QOFYOFIH|Kind=1|AlternatePart= 
+Variation261=Designator=R94|UniqueId=\ZWVYQITM\ROIYYXYW|Kind=1|AlternatePart= 
+Variation262=Designator=R73E|UniqueId=\GDJTJOPP\5FYUGHYFG\JKMXUDDL|Kind=1|AlternatePart= 
+Variation263=Designator=R73A|UniqueId=\GDJTJOPP\1FYUGHYFG\JKMXUDDL|Kind=1|AlternatePart= 
+Variation264=Designator=R91|UniqueId=\ZWVYQITM\LONLMYDD|Kind=1|AlternatePart= 
+Variation265=Designator=R71A|UniqueId=\GDJTJOPP\1FYUGHYFG\JVSGVHYR|Kind=1|AlternatePart= 
+Variation266=Designator=R83|UniqueId=\ZWVYQITM\ACLOYCYK|Kind=1|AlternatePart= 
+Variation267=Designator=R70E|UniqueId=\GDJTJOPP\5FYUGHYFG\DLPPFWNY|Kind=1|AlternatePart= 
+Variation268=Designator=R72D|UniqueId=\GDJTJOPP\4FYUGHYFG\QOFYOFIH|Kind=1|AlternatePart= 
+Variation269=Designator=R136|UniqueId=\XNHGUPXE\FLMNKCMW|Kind=1|AlternatePart= 
+Variation270=Designator=R135|UniqueId=\LNKYODNA\ZNXQOJUW|Kind=1|AlternatePart= 
+Variation271=Designator=R140A|UniqueId=\XNHGUPXE\XGOIVWES\UJGAVQGU|Kind=1|AlternatePart= 
+Variation272=Designator=R112|UniqueId=\GDJTJOPP\FCAPNQIM\IRXELAZD|Kind=1|AlternatePart= 
+Variation273=Designator=R141B|UniqueId=\XNHGUPXE\LDBGVZWU\CGJYPHNX|Kind=1|AlternatePart= 
+Variation274=Designator=R141A|UniqueId=\XNHGUPXE\XGOIVWES\CGJYPHNX|Kind=1|AlternatePart= 
+Variation275=Designator=R138|UniqueId=\RDIXJSCV\CSMAOWNT|Kind=1|AlternatePart= 
+Variation276=Designator=R114|UniqueId=\GDJTJOPP\FCAPNQIM\FLZWONVG|Kind=1|AlternatePart= 
+Variation277=Designator=R140B|UniqueId=\XNHGUPXE\LDBGVZWU\UJGAVQGU|Kind=1|AlternatePart= 
+Variation278=Designator=R118|UniqueId=\GDJTJOPP\FCAPNQIM\RKHQZIKA|Kind=1|AlternatePart= 
+Variation279=Designator=R117|UniqueId=\GDJTJOPP\FCAPNQIM\SJMOTSCH|Kind=1|AlternatePart= 
+Variation280=Designator=R134B|UniqueId=\LNKYODNA\GABJFTRH\2CKTLWLZK\FUVBQLEZ|Kind=1|AlternatePart= 
+Variation281=Designator=R111|UniqueId=\GDJTJOPP\FCAPNQIM\MSEEPVLI|Kind=1|AlternatePart= 
+Variation282=Designator=R116|UniqueId=\GDJTJOPP\FCAPNQIM\IFIVLYFE|Kind=1|AlternatePart= 
+Variation283=Designator=R142|UniqueId=\XNHGUPXE\EAOSAOEM|Kind=1|AlternatePart= 
+Variation284=Designator=R119|UniqueId=\GDJTJOPP\FCAPNQIM\YBLWRPAA|Kind=1|AlternatePart= 
+Variation285=Designator=R143A|UniqueId=\XNHGUPXE\XGOIVWES\VHMQOXQC|Kind=1|AlternatePart= 
+Variation286=Designator=R115|UniqueId=\GDJTJOPP\FCAPNQIM\HMTELOON|Kind=1|AlternatePart= 
+Variation287=Designator=R113|UniqueId=\GDJTJOPP\FCAPNQIM\CVYWCFSM|Kind=1|AlternatePart= 
+Variation288=Designator=R146|UniqueId=\XNHGUPXE\SDBHWSII|Kind=1|AlternatePart= 
+Variation289=Designator=R144A|UniqueId=\XNHGUPXE\XGOIVWES\LDWXELDL|Kind=1|AlternatePart= 
+Variation290=Designator=R120|UniqueId=\LNKYODNA\TVCGAKXK\MDBISYDA|Kind=1|AlternatePart= 
+Variation291=Designator=R145A|UniqueId=\XNHGUPXE\XGOIVWES\JQGNWKFM|Kind=1|AlternatePart= 
+Variation292=Designator=R121|UniqueId=\LNKYODNA\TVCGAKXK\QKBEWNGQ|Kind=1|AlternatePart= 
+Variation293=Designator=R144B|UniqueId=\XNHGUPXE\LDBGVZWU\LDWXELDL|Kind=1|AlternatePart= 
+Variation294=Designator=R148|UniqueId=\XNHGUPXE\BSTSAXHP|Kind=1|AlternatePart= 
+Variation295=Designator=R152|UniqueId=\RDIXJSCV\FYBCOXEZ|Kind=1|AlternatePart= 
+Variation296=Designator=R123|UniqueId=\LNKYODNA\TVCGAKXK\JBNGBQYP|Kind=1|AlternatePart= 
+Variation297=Designator=R151|UniqueId=\RDIXJSCV\MNMGULTC|Kind=1|AlternatePart= 
+Variation298=Designator=R145B|UniqueId=\XNHGUPXE\LDBGVZWU\JQGNWKFM|Kind=1|AlternatePart= 
+Variation299=Designator=R150|UniqueId=\RDIXJSCV\MYRFTMKX|Kind=1|AlternatePart= 
+Variation300=Designator=R124|UniqueId=\LNKYODNA\TVCGAKXK\WFARRXZJ|Kind=1|AlternatePart= 
+Variation301=Designator=R153|UniqueId=\RDIXJSCV\CTEMXKDC|Kind=1|AlternatePart= 
+Variation302=Designator=R149|UniqueId=\RDIXJSCV\OJYWCPZC|Kind=1|AlternatePart= 
+Variation303=Designator=R147|UniqueId=\XNHGUPXE\UEFRCYOR|Kind=1|AlternatePart= 
+Variation304=Designator=R127|UniqueId=\LNKYODNA\TVCGAKXK\YFLEEMRY|Kind=1|AlternatePart= 
+Variation305=Designator=R143B|UniqueId=\XNHGUPXE\LDBGVZWU\VHMQOXQC|Kind=1|AlternatePart= 
+Variation306=Designator=R131|UniqueId=\XNHGUPXE\GPPIFAKG|Kind=1|AlternatePart= 
+Variation307=Designator=R130|UniqueId=\XNHGUPXE\JBPHMFPK|Kind=1|AlternatePart= 
+Variation308=Designator=R125|UniqueId=\LNKYODNA\TVCGAKXK\YWFAWLHO|Kind=1|AlternatePart= 
+Variation309=Designator=R128|UniqueId=\XNHGUPXE\BFBSNVUY|Kind=1|AlternatePart= 
+Variation310=Designator=R157B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\NSEONKPY|Kind=1|AlternatePart= 
+Variation311=Designator=R126|UniqueId=\LNKYODNA\TVCGAKXK\TNHMHJZI|Kind=1|AlternatePart= 
+Variation312=Designator=R157A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\NSEONKPY|Kind=1|AlternatePart= 
+Variation313=Designator=R122|UniqueId=\LNKYODNA\TVCGAKXK\UUWBPKTG|Kind=1|AlternatePart= 
+Variation314=Designator=R157C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\NSEONKPY|Kind=1|AlternatePart= 
+Variation315=Designator=R133|UniqueId=\XNHGUPXE\BSNBBTQF|Kind=1|AlternatePart= 
+Variation316=Designator=R158A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\BFSWTYEE|Kind=1|AlternatePart= 
+Variation317=Designator=R134A|UniqueId=\LNKYODNA\GABJFTRH\1CKTLWLZK\FUVBQLEZ|Kind=1|AlternatePart= 
+Variation318=Designator=R129|UniqueId=\XNHGUPXE\ICSXHWIR|Kind=1|AlternatePart= 
+Variation319=Designator=R158C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\BFSWTYEE|Kind=1|AlternatePart= 
+Variation320=Designator=R134D|UniqueId=\LNKYODNA\GABJFTRH\4CKTLWLZK\FUVBQLEZ|Kind=1|AlternatePart= 
+Variation321=Designator=R158B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\BFSWTYEE|Kind=1|AlternatePart= 
+Variation322=Designator=R139|UniqueId=\XNHGUPXE\DCXKXGGT|Kind=1|AlternatePart= 
+Variation323=Designator=R134C|UniqueId=\LNKYODNA\GABJFTRH\3CKTLWLZK\FUVBQLEZ|Kind=1|AlternatePart= 
+Variation324=Designator=U20|UniqueId=\LNKYODNA\TVCGAKXK\GZQDAUHH|Kind=1|AlternatePart= 
+Variation325=Designator=U21|UniqueId=\LNKYODNA\TVCGAKXK\XFKAAHNU|Kind=1|AlternatePart= 
+Variation326=Designator=U23B|UniqueId=\XNHGUPXE\LDBGVZWU\FKHMQCER|Kind=1|AlternatePart= 
+Variation327=Designator=U22|UniqueId=\RDIXJSCV\NOJPTWAP|Kind=1|AlternatePart= 
+Variation328=Designator=U23A|UniqueId=\XNHGUPXE\XGOIVWES\FKHMQCER|Kind=1|AlternatePart= 
+Variation329=Designator=R169F|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\FXXMOWKT\QCFHOSME|Kind=1|AlternatePart= 
+Variation330=Designator=R159C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CIDBHNHK|Kind=1|AlternatePart= 
+Variation331=Designator=R169B|UniqueId=\LNKYODNA\GABJFTRH\2TFYSEMKL\QCFHOSME|Kind=1|AlternatePart= 
+Variation332=Designator=R159A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CIDBHNHK|Kind=1|AlternatePart= 
+Variation333=Designator=R168P|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WCAGGJYI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation334=Designator=R159B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CIDBHNHK|Kind=1|AlternatePart= 
+Variation335=Designator=R168H|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WCAGGJYI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation336=Designator=R168M|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\DCXBMXQO\JEJQMYAL|Kind=1|AlternatePart= 
+Variation337=Designator=R169G|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CXEBVJDI\QCFHOSME|Kind=1|AlternatePart= 
+Variation338=Designator=R169C|UniqueId=\LNKYODNA\GABJFTRH\3TFYSEMKL\QCFHOSME|Kind=1|AlternatePart= 
+Variation339=Designator=R169H|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WCAGGJYI\QCFHOSME|Kind=1|AlternatePart= 
+Variation340=Designator=R169I|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\DCXBMXQO\QCFHOSME|Kind=1|AlternatePart= 
+Variation341=Designator=R169L|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WCAGGJYI\QCFHOSME|Kind=1|AlternatePart= 
+Variation342=Designator=R160A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\SXTYALSQ|Kind=1|AlternatePart= 
+Variation343=Designator=R170A|UniqueId=\LNKYODNA\GABJFTRH\1TFYSEMKL\FBAYBGDU|Kind=1|AlternatePart= 
+Variation344=Designator=R169K|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CXEBVJDI\QCFHOSME|Kind=1|AlternatePart= 
+Variation345=Designator=R162B|UniqueId=\GDJTJOPP\2FUJJHQAH\IVTEZBQI|Kind=1|AlternatePart= 
+Variation346=Designator=R169N|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\FXXMOWKT\QCFHOSME|Kind=1|AlternatePart= 
+Variation347=Designator=R160C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\SXTYALSQ|Kind=1|AlternatePart= 
+Variation348=Designator=R169M|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\DCXBMXQO\QCFHOSME|Kind=1|AlternatePart= 
+Variation349=Designator=R170C|UniqueId=\LNKYODNA\GABJFTRH\3TFYSEMKL\FBAYBGDU|Kind=1|AlternatePart= 
+Variation350=Designator=R170G|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CXEBVJDI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation351=Designator=R170F|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\FXXMOWKT\FBAYBGDU|Kind=1|AlternatePart= 
+Variation352=Designator=R169P|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WCAGGJYI\QCFHOSME|Kind=1|AlternatePart= 
+Variation353=Designator=R164|UniqueId=\LNKYODNA\TLNOSMBB\RCDMOXEX|Kind=1|AlternatePart= 
+Variation354=Designator=R170E|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\DCXBMXQO\FBAYBGDU|Kind=1|AlternatePart= 
+Variation355=Designator=R170H|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WCAGGJYI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation356=Designator=R168D|UniqueId=\LNKYODNA\GABJFTRH\4TFYSEMKL\JEJQMYAL|Kind=1|AlternatePart= 
+Variation357=Designator=R170D|UniqueId=\LNKYODNA\GABJFTRH\4TFYSEMKL\FBAYBGDU|Kind=1|AlternatePart= 
+Variation358=Designator=R170B|UniqueId=\LNKYODNA\GABJFTRH\2TFYSEMKL\FBAYBGDU|Kind=1|AlternatePart= 
+Variation359=Designator=R168C|UniqueId=\LNKYODNA\GABJFTRH\3TFYSEMKL\JEJQMYAL|Kind=1|AlternatePart= 
+Variation360=Designator=R169J|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\FXXMOWKT\QCFHOSME|Kind=1|AlternatePart= 
+Variation361=Designator=R169O|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CXEBVJDI\QCFHOSME|Kind=1|AlternatePart= 
+Variation362=Designator=R162A|UniqueId=\GDJTJOPP\1FUJJHQAH\IVTEZBQI|Kind=1|AlternatePart= 
+Variation363=Designator=R170I|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\DCXBMXQO\FBAYBGDU|Kind=1|AlternatePart= 
+Variation364=Designator=R168B|UniqueId=\LNKYODNA\GABJFTRH\2TFYSEMKL\JEJQMYAL|Kind=1|AlternatePart= 
+Variation365=Designator=R168E|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\DCXBMXQO\JEJQMYAL|Kind=1|AlternatePart= 
+Variation366=Designator=R170J|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\FXXMOWKT\FBAYBGDU|Kind=1|AlternatePart= 
+Variation367=Designator=R168A|UniqueId=\LNKYODNA\GABJFTRH\1TFYSEMKL\JEJQMYAL|Kind=1|AlternatePart= 
+Variation368=Designator=R162C|UniqueId=\GDJTJOPP\3FUJJHQAH\IVTEZBQI|Kind=1|AlternatePart= 
+Variation369=Designator=R160B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\SXTYALSQ|Kind=1|AlternatePart= 
+Variation370=Designator=R170M|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\DCXBMXQO\FBAYBGDU|Kind=1|AlternatePart= 
+Variation371=Designator=R171B|UniqueId=\LNKYODNA\GABJFTRH\2TFYSEMKL\LOGILNOI|Kind=1|AlternatePart= 
+Variation372=Designator=R161|UniqueId=\LNKYODNA\TLNOSMBB\XMKNNQZF|Kind=1|AlternatePart= 
+Variation373=Designator=R170L|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WCAGGJYI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation374=Designator=R170O|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CXEBVJDI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation375=Designator=R168F|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\FXXMOWKT\JEJQMYAL|Kind=1|AlternatePart= 
+Variation376=Designator=R170N|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\FXXMOWKT\FBAYBGDU|Kind=1|AlternatePart= 
+Variation377=Designator=R168G|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CXEBVJDI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation378=Designator=R171D|UniqueId=\LNKYODNA\GABJFTRH\4TFYSEMKL\LOGILNOI|Kind=1|AlternatePart= 
+Variation379=Designator=R171H|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WCAGGJYI\LOGILNOI|Kind=1|AlternatePart= 
+Variation380=Designator=R168J|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\FXXMOWKT\JEJQMYAL|Kind=1|AlternatePart= 
+Variation381=Designator=R171G|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CXEBVJDI\LOGILNOI|Kind=1|AlternatePart= 
+Variation382=Designator=R168O|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CXEBVJDI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation383=Designator=R171A|UniqueId=\LNKYODNA\GABJFTRH\1TFYSEMKL\LOGILNOI|Kind=1|AlternatePart= 
+Variation384=Designator=R168I|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\DCXBMXQO\JEJQMYAL|Kind=1|AlternatePart= 
+Variation385=Designator=R171I|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\DCXBMXQO\LOGILNOI|Kind=1|AlternatePart= 
+Variation386=Designator=R171E|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\DCXBMXQO\LOGILNOI|Kind=1|AlternatePart= 
+Variation387=Designator=R168L|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WCAGGJYI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation388=Designator=R171C|UniqueId=\LNKYODNA\GABJFTRH\3TFYSEMKL\LOGILNOI|Kind=1|AlternatePart= 
+Variation389=Designator=R170K|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CXEBVJDI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation390=Designator=R168K|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CXEBVJDI\JEJQMYAL|Kind=1|AlternatePart= 
+Variation391=Designator=R170P|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WCAGGJYI\FBAYBGDU|Kind=1|AlternatePart= 
+Variation392=Designator=R171J|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\FXXMOWKT\LOGILNOI|Kind=1|AlternatePart= 
+Variation393=Designator=R169A|UniqueId=\LNKYODNA\GABJFTRH\1TFYSEMKL\QCFHOSME|Kind=1|AlternatePart= 
+Variation394=Designator=R171K|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CXEBVJDI\LOGILNOI|Kind=1|AlternatePart= 
+Variation395=Designator=R171L|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WCAGGJYI\LOGILNOI|Kind=1|AlternatePart= 
+Variation396=Designator=R171F|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\FXXMOWKT\LOGILNOI|Kind=1|AlternatePart= 
+Variation397=Designator=R169E|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\DCXBMXQO\QCFHOSME|Kind=1|AlternatePart= 
+Variation398=Designator=R171N|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\FXXMOWKT\LOGILNOI|Kind=1|AlternatePart= 
+Variation399=Designator=R171P|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WCAGGJYI\LOGILNOI|Kind=1|AlternatePart= 
+Variation400=Designator=R169D|UniqueId=\LNKYODNA\GABJFTRH\4TFYSEMKL\QCFHOSME|Kind=1|AlternatePart= 
+Variation401=Designator=R171M|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\DCXBMXQO\LOGILNOI|Kind=1|AlternatePart= 
+Variation402=Designator=R171O|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CXEBVJDI\LOGILNOI|Kind=1|AlternatePart= 
+Variation403=Designator=R168N|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\FXXMOWKT\JEJQMYAL|Kind=1|AlternatePart= 
+Variation404=Designator=R173|UniqueId=\EOKJBQKX\HMEDHQHY|Kind=1|AlternatePart= 
+Variation405=Designator=R202|UniqueId=\DSZVNOFL\JMWRQNLI\DXEDUBJL|Kind=1|AlternatePart= 
+Variation406=Designator=R174D|UniqueId=\LNKYODNA\4EQJGKDAD\XKKFDUHL|Kind=1|AlternatePart= 
+Variation407=Designator=R199|UniqueId=\DSZVNOFL\JMWRQNLI\ETAXQODF|Kind=1|AlternatePart= 
+Variation408=Designator=R175D|UniqueId=\LNKYODNA\4EQJGKDAD\FYFIQKDD|Kind=1|AlternatePart= 
+Variation409=Designator=R197|UniqueId=\DSZVNOFL\JMWRQNLI\HFWIDHIW|Kind=1|AlternatePart= 
+Variation410=Designator=R175C|UniqueId=\LNKYODNA\3EQJGKDAD\FYFIQKDD|Kind=1|AlternatePart= 
+Variation411=Designator=R203A|UniqueId=\XNHGUPXE\XGOIVWES\CHHBYINB|Kind=1|AlternatePart= 
+Variation412=Designator=R174B|UniqueId=\LNKYODNA\2EQJGKDAD\XKKFDUHL|Kind=1|AlternatePart= 
+Variation413=Designator=R172|UniqueId=\EOKJBQKX\YQWNRANP|Kind=1|AlternatePart= 
+Variation414=Designator=R175B|UniqueId=\LNKYODNA\2EQJGKDAD\FYFIQKDD|Kind=1|AlternatePart= 
+Variation415=Designator=R207|UniqueId=\GDJTJOPP\APHJHNRL\URAFJQIH|Kind=1|AlternatePart= 
+Variation416=Designator=R175A|UniqueId=\LNKYODNA\1EQJGKDAD\FYFIQKDD|Kind=1|AlternatePart= 
+Variation417=Designator=R209|UniqueId=\GDJTJOPP\APHJHNRL\UGKINPJS|Kind=1|AlternatePart= 
+Variation418=Designator=R174C|UniqueId=\LNKYODNA\3EQJGKDAD\XKKFDUHL|Kind=1|AlternatePart= 
+Variation419=Designator=R174A|UniqueId=\LNKYODNA\1EQJGKDAD\XKKFDUHL|Kind=1|AlternatePart= 
+Variation420=Designator=R206|UniqueId=\GDJTJOPP\APHJHNRL\PJVGYXGF|Kind=1|AlternatePart= 
+Variation421=Designator=R203B|UniqueId=\XNHGUPXE\LDBGVZWU\CHHBYINB|Kind=1|AlternatePart= 
+Variation422=Designator=R181L|UniqueId=\GDJTJOPP\CXRWOBTY\ISMJBXWX|Kind=1|AlternatePart= 
+Variation423=Designator=R193|UniqueId=\GDJTJOPP\CXRWOBTY\CYTPTPPW|Kind=1|AlternatePart= 
+Variation424=Designator=R194|UniqueId=\GDJTJOPP\CXRWOBTY\YAPAPQDF|Kind=1|AlternatePart= 
+Variation425=Designator=R198|UniqueId=\DSZVNOFL\JMWRQNLI\PNHSGXMX|Kind=1|AlternatePart= 
+Variation426=Designator=R195|UniqueId=\GDJTJOPP\CXRWOBTY\NLQVVGWT|Kind=1|AlternatePart= 
+Variation427=Designator=R196|UniqueId=\GDJTJOPP\CXRWOBTY\ROYVCYGD|Kind=1|AlternatePart= 
+Variation428=Designator=R201|UniqueId=\DSZVNOFL\JMWRQNLI\OSGDMAHN|Kind=1|AlternatePart= 
+Variation429=Designator=R220|UniqueId=\EOKJBQKX\NXSGLFQL|Kind=1|AlternatePart= 
+Variation430=Designator=R214|UniqueId=\GDJTJOPP\APHJHNRL\GTNKADGF|Kind=1|AlternatePart= 
+Variation431=Designator=R219|UniqueId=\EOKJBQKX\VZTMRILT|Kind=1|AlternatePart= 
+Variation432=Designator=R222|UniqueId=\ZWVYQITM\HBPWACQL|Kind=1|AlternatePart= 
+Variation433=Designator=R213|UniqueId=\GDJTJOPP\APHJHNRL\NIQRWMHP|Kind=1|AlternatePart= 
+Variation434=Designator=R217|UniqueId=\GDJTJOPP\APHJHNRL\BUGBLNQE|Kind=1|AlternatePart= 
+Variation435=Designator=R215|UniqueId=\GDJTJOPP\APHJHNRL\UUFHSQUR|Kind=1|AlternatePart= 
+Variation436=Designator=R216|UniqueId=\GDJTJOPP\APHJHNRL\ESQOYZSK|Kind=1|AlternatePart= 
+Variation437=Designator=R212|UniqueId=\GDJTJOPP\APHJHNRL\XEJBGTVF|Kind=1|AlternatePart= 
+Variation438=Designator=R224|UniqueId=\ZWVYQITM\EFSQESMK|Kind=1|AlternatePart= 
+Variation439=Designator=T9C|UniqueId=\LNKYODNA\3EQJGKDAD\FVUIGIMR|Kind=1|AlternatePart= 
+Variation440=Designator=T6|UniqueId=\XNHGUPXE\ZKBMYZES|Kind=1|AlternatePart= 
+Variation441=Designator=T8|UniqueId=\EOKJBQKX\TDEUOQRF|Kind=1|AlternatePart= 
+Variation442=Designator=T10|UniqueId=\DSZVNOFL\JMWRQNLI\EPQRLAGS|Kind=1|AlternatePart= 
+Variation443=Designator=T12|UniqueId=\RDIXJSCV\JRXMCXSF|Kind=1|AlternatePart= 
+Variation444=Designator=T9B|UniqueId=\LNKYODNA\2EQJGKDAD\FVUIGIMR|Kind=1|AlternatePart= 
+Variation445=Designator=T13|UniqueId=\RDIXJSCV\MFHNXCXP|Kind=1|AlternatePart= 
+Variation446=Designator=T5|UniqueId=\PRYVHNCG\HWUDVIYJ|Kind=1|AlternatePart= 
+Variation447=Designator=T4|UniqueId=\PRYVHNCG\BIKDRGQW|Kind=1|AlternatePart= 
+Variation448=Designator=T9D|UniqueId=\LNKYODNA\4EQJGKDAD\FVUIGIMR|Kind=1|AlternatePart= 
+Variation449=Designator=T9A|UniqueId=\LNKYODNA\1EQJGKDAD\FVUIGIMR|Kind=1|AlternatePart= 
+Variation450=Designator=T14A|UniqueId=\LNKYODNA\GABJFTRH\1CKTLWLZK\MWNEVERD|Kind=1|AlternatePart= 
+Variation451=Designator=R232|UniqueId=\RDIXJSCV\XYEQHYRB|Kind=1|AlternatePart= 
+Variation452=Designator=T14B|UniqueId=\LNKYODNA\GABJFTRH\2CKTLWLZK\MWNEVERD|Kind=1|AlternatePart= 
+Variation453=Designator=R237|UniqueId=\RDIXJSCV\VMXGQDEM|Kind=1|AlternatePart= 
+Variation454=Designator=T11|UniqueId=\EOKJBQKX\WWPGQBGJ|Kind=1|AlternatePart= 
+Variation455=Designator=T14C|UniqueId=\LNKYODNA\GABJFTRH\3CKTLWLZK\MWNEVERD|Kind=1|AlternatePart= 
+Variation456=Designator=R231|UniqueId=\RDIXJSCV\TEYLPGBD|Kind=1|AlternatePart= 
+Variation457=Designator=TP2|UniqueId=\DSZVNOFL\JMWRQNLI\LXVAOOEF|Kind=1|AlternatePart= 
+Variation458=Designator=R234|UniqueId=\RDIXJSCV\WKUKMTCA|Kind=1|AlternatePart= 
+Variation459=Designator=R233|UniqueId=\RDIXJSCV\WUGUJNUM|Kind=1|AlternatePart= 
+Variation460=Designator=SW1|UniqueId=\DSZVNOFL\JMWRQNLI\UJOVRTRV|Kind=1|AlternatePart= 
+Variation461=Designator=T1|UniqueId=\DSZVNOFL\JMWRQNLI\MIEJDVRA|Kind=1|AlternatePart= 
+Variation462=Designator=TP3|UniqueId=\DSZVNOFL\JMWRQNLI\WNOIGNPV|Kind=1|AlternatePart= 
+Variation463=Designator=SW3|UniqueId=\DSZVNOFL\JMWRQNLI\SQIKQQLT|Kind=1|AlternatePart= 
+Variation464=Designator=TP7|UniqueId=\DSZVNOFL\JMWRQNLI\EHXJBMLT|Kind=1|AlternatePart= 
+Variation465=Designator=R236|UniqueId=\RDIXJSCV\KLYNXLRY|Kind=1|AlternatePart= 
+Variation466=Designator=TP9|UniqueId=\DSZVNOFL\JMWRQNLI\XNHQBRIY|Kind=1|AlternatePart= 
+Variation467=Designator=SW2|UniqueId=\DSZVNOFL\JMWRQNLI\MGJDGUKV|Kind=1|AlternatePart= 
+Variation468=Designator=TP5|UniqueId=\DSZVNOFL\JMWRQNLI\SUBYABIR|Kind=1|AlternatePart= 
+Variation469=Designator=TP10|UniqueId=\DSZVNOFL\JMWRQNLI\OYHXCKLB|Kind=1|AlternatePart= 
+Variation470=Designator=TP1|UniqueId=\DSZVNOFL\JMWRQNLI\GGOYGXSW|Kind=1|AlternatePart= 
+Variation471=Designator=SNAP1|UniqueId=\NVDDWSKI|Kind=1|AlternatePart= 
+Variation472=Designator=Serial1|UniqueId=\FVOBKLGU|Kind=1|AlternatePart= 
+Variation473=Designator=T14D|UniqueId=\LNKYODNA\GABJFTRH\4CKTLWLZK\MWNEVERD|Kind=1|AlternatePart= 
+Variation474=Designator=R240|UniqueId=\RDIXJSCV\HYAPWXBM|Kind=1|AlternatePart= 
+Variation475=Designator=R241|UniqueId=\RDIXJSCV\JXSRWVEE|Kind=1|AlternatePart= 
+Variation476=Designator=TP6|UniqueId=\DSZVNOFL\JMWRQNLI\MEFDCMTL|Kind=1|AlternatePart= 
+Variation477=Designator=TP4|UniqueId=\DSZVNOFL\JMWRQNLI\AOORWNKR|Kind=1|AlternatePart= 
+Variation478=Designator=TP11|UniqueId=\DSZVNOFL\JMWRQNLI\XEFDVWQV|Kind=1|AlternatePart= 
+Variation479=Designator=R235|UniqueId=\RDIXJSCV\PHLGUOGN|Kind=1|AlternatePart= 
+Variation480=Designator=TP8|UniqueId=\DSZVNOFL\JMWRQNLI\NEYMLTWB|Kind=1|AlternatePart= 
+Variation481=Designator=T2|UniqueId=\DSZVNOFL\JMWRQNLI\IABKOVEK|Kind=1|AlternatePart= 
+Variation482=Designator=TP12|UniqueId=\DSZVNOFL\JMWRQNLI\OPPYMENW|Kind=1|AlternatePart= 
+Variation483=Designator=T3|UniqueId=\DSZVNOFL\JMWRQNLI\DFBOKYTA|Kind=1|AlternatePart= 
+Variation484=Designator=TP13|UniqueId=\DSZVNOFL\JMWRQNLI\UIXXQUNS|Kind=1|AlternatePart= 
+Variation485=Designator=TP15|UniqueId=\DSZVNOFL\JMWRQNLI\AGFEVPDG|Kind=1|AlternatePart= 
+Variation486=Designator=TP14|UniqueId=\DSZVNOFL\JMWRQNLI\CUIPKLLW|Kind=1|AlternatePart= 
+Variation487=Designator=TP16|UniqueId=\DSZVNOFL\JMWRQNLI\PIBBLWGP|Kind=1|AlternatePart= 
+Variation488=Designator=T7|UniqueId=\XNHGUPXE\PQVXTHLK|Kind=1|AlternatePart= 
+Variation489=Designator=TP25|UniqueId=\DSZVNOFL\JMWRQNLI\SOSENLEI|Kind=1|AlternatePart= 
+Variation490=Designator=TP47C|UniqueId=\GDJTJOPP\3FUJJHQAH\JPXAUUSF|Kind=1|AlternatePart= 
+Variation491=Designator=TP47B|UniqueId=\GDJTJOPP\2FUJJHQAH\JPXAUUSF|Kind=1|AlternatePart= 
+Variation492=Designator=TP22|UniqueId=\DSZVNOFL\JMWRQNLI\XVKDVOPC|Kind=1|AlternatePart= 
+Variation493=Designator=TP49B|UniqueId=\GDJTJOPP\2FUJJHQAH\GIMHKGKD|Kind=1|AlternatePart= 
+Variation494=Designator=TP24|UniqueId=\DSZVNOFL\JMWRQNLI\OYEJTPBX|Kind=1|AlternatePart= 
+Variation495=Designator=TP51B|UniqueId=\GDJTJOPP\2FUJJHQAH\FDEEQIMX|Kind=1|AlternatePart= 
+Variation496=Designator=TP51A|UniqueId=\GDJTJOPP\1FUJJHQAH\FDEEQIMX|Kind=1|AlternatePart= 
+Variation497=Designator=TP23|UniqueId=\DSZVNOFL\JMWRQNLI\LCBUQMFD|Kind=1|AlternatePart= 
+Variation498=Designator=TP48B|UniqueId=\GDJTJOPP\2FUJJHQAH\ITFLSPML|Kind=1|AlternatePart= 
+Variation499=Designator=TP20|UniqueId=\DSZVNOFL\JMWRQNLI\SIFQLJTH|Kind=1|AlternatePart= 
+Variation500=Designator=TP51C|UniqueId=\GDJTJOPP\3FUJJHQAH\FDEEQIMX|Kind=1|AlternatePart= 
+Variation501=Designator=TP49C|UniqueId=\GDJTJOPP\3FUJJHQAH\GIMHKGKD|Kind=1|AlternatePart= 
+Variation502=Designator=TP46B|UniqueId=\GDJTJOPP\2FUJJHQAH\WEOGSJLC|Kind=1|AlternatePart= 
+Variation503=Designator=TP21|UniqueId=\DSZVNOFL\JMWRQNLI\HYXUNXDC|Kind=1|AlternatePart= 
+Variation504=Designator=TP46A|UniqueId=\GDJTJOPP\1FUJJHQAH\WEOGSJLC|Kind=1|AlternatePart= 
+Variation505=Designator=TP26|UniqueId=\DSZVNOFL\IFOIGUWA\QMMNXYTI|Kind=1|AlternatePart= 
+Variation506=Designator=TP27|UniqueId=\DSZVNOFL\IFOIGUWA\WGPGDCIT|Kind=1|AlternatePart= 
+Variation507=Designator=TP49A|UniqueId=\GDJTJOPP\1FUJJHQAH\GIMHKGKD|Kind=1|AlternatePart= 
+Variation508=Designator=TP48A|UniqueId=\GDJTJOPP\1FUJJHQAH\ITFLSPML|Kind=1|AlternatePart= 
+Variation509=Designator=TP30|UniqueId=\DSZVNOFL\IFOIGUWA\DFFUWAJF|Kind=1|AlternatePart= 
+Variation510=Designator=TP52A|UniqueId=\GDJTJOPP\1FUJJHQAH\GKNUAJPW|Kind=1|AlternatePart= 
+Variation511=Designator=TP52B|UniqueId=\GDJTJOPP\2FUJJHQAH\GKNUAJPW|Kind=1|AlternatePart= 
+Variation512=Designator=TP33|UniqueId=\GDJTJOPP\YQMNRFNE\OPLSQIBD|Kind=1|AlternatePart= 
+Variation513=Designator=TP50|UniqueId=\RDIXJSCV\XVXYTKSG|Kind=1|AlternatePart= 
+Variation514=Designator=TP45C|UniqueId=\GDJTJOPP\3FUJJHQAH\QNOJTVNY|Kind=1|AlternatePart= 
+Variation515=Designator=TP29|UniqueId=\DSZVNOFL\IFOIGUWA\NWIQKCOK|Kind=1|AlternatePart= 
+Variation516=Designator=TP52C|UniqueId=\GDJTJOPP\3FUJJHQAH\GKNUAJPW|Kind=1|AlternatePart= 
+Variation517=Designator=TP31|UniqueId=\DSZVNOFL\IFOIGUWA\SVUOOUUK|Kind=1|AlternatePart= 
+Variation518=Designator=TP19|UniqueId=\DSZVNOFL\JMWRQNLI\MRASHQXU|Kind=1|AlternatePart= 
+Variation519=Designator=TP54A|UniqueId=\GDJTJOPP\1FYUGHYFG\NGLXHLAD|Kind=1|AlternatePart= 
+Variation520=Designator=TP38|UniqueId=\GDJTJOPP\YQMNRFNE\IOAJXKVN|Kind=1|AlternatePart= 
+Variation521=Designator=TP55|UniqueId=\RDIXJSCV\CTKRHCTT|Kind=1|AlternatePart= 
+Variation522=Designator=TP42|UniqueId=\PRYVHNCG\GVWIYBDP|Kind=1|AlternatePart= 
+Variation523=Designator=TP53E|UniqueId=\GDJTJOPP\5FYUGHYFG\AKCIXPMK|Kind=1|AlternatePart= 
+Variation524=Designator=TP41|UniqueId=\GDJTJOPP\YQMNRFNE\JRLWYLMP|Kind=1|AlternatePart= 
+Variation525=Designator=TP54C|UniqueId=\GDJTJOPP\3FYUGHYFG\NGLXHLAD|Kind=1|AlternatePart= 
+Variation526=Designator=TP54B|UniqueId=\GDJTJOPP\2FYUGHYFG\NGLXHLAD|Kind=1|AlternatePart= 
+Variation527=Designator=TP43|UniqueId=\PRYVHNCG\UVIRPSDP|Kind=1|AlternatePart= 
+Variation528=Designator=TP56B|UniqueId=\GDJTJOPP\2FUJJHQAH\DGDFGSWU|Kind=1|AlternatePart= 
+Variation529=Designator=TP39|UniqueId=\GDJTJOPP\YQMNRFNE\BUFTFKKU|Kind=1|AlternatePart= 
+Variation530=Designator=TP57C|UniqueId=\GDJTJOPP\3FYUGHYFG\OEXMFMIR|Kind=1|AlternatePart= 
+Variation531=Designator=TP57B|UniqueId=\GDJTJOPP\2FYUGHYFG\OEXMFMIR|Kind=1|AlternatePart= 
+Variation532=Designator=TP28|UniqueId=\DSZVNOFL\IFOIGUWA\QWCUUHXE|Kind=1|AlternatePart= 
+Variation533=Designator=TP54E|UniqueId=\GDJTJOPP\5FYUGHYFG\NGLXHLAD|Kind=1|AlternatePart= 
+Variation534=Designator=TP37|UniqueId=\GDJTJOPP\YQMNRFNE\NVPCWHAV|Kind=1|AlternatePart= 
+Variation535=Designator=TP36|UniqueId=\GDJTJOPP\YQMNRFNE\MLHNHJXI|Kind=1|AlternatePart= 
+Variation536=Designator=TP57D|UniqueId=\GDJTJOPP\4FYUGHYFG\OEXMFMIR|Kind=1|AlternatePart= 
+Variation537=Designator=TP34|UniqueId=\GDJTJOPP\YQMNRFNE\BAFJOHMB|Kind=1|AlternatePart= 
+Variation538=Designator=TP56C|UniqueId=\GDJTJOPP\3FUJJHQAH\DGDFGSWU|Kind=1|AlternatePart= 
+Variation539=Designator=TP35|UniqueId=\GDJTJOPP\YQMNRFNE\HPDWCDKK|Kind=1|AlternatePart= 
+Variation540=Designator=TP53D|UniqueId=\GDJTJOPP\4FYUGHYFG\AKCIXPMK|Kind=1|AlternatePart= 
+Variation541=Designator=TP32|UniqueId=\DSZVNOFL\IFOIGUWA\SAKLBLTE|Kind=1|AlternatePart= 
+Variation542=Designator=TP53C|UniqueId=\GDJTJOPP\3FYUGHYFG\AKCIXPMK|Kind=1|AlternatePart= 
+Variation543=Designator=TP56A|UniqueId=\GDJTJOPP\1FUJJHQAH\DGDFGSWU|Kind=1|AlternatePart= 
+Variation544=Designator=TP44|UniqueId=\DSZVNOFL\JMWRQNLI\HGVNNQMJ|Kind=1|AlternatePart= 
+Variation545=Designator=TP45A|UniqueId=\GDJTJOPP\1FUJJHQAH\QNOJTVNY|Kind=1|AlternatePart= 
+Variation546=Designator=TP53B|UniqueId=\GDJTJOPP\2FYUGHYFG\AKCIXPMK|Kind=1|AlternatePart= 
+Variation547=Designator=TP40|UniqueId=\GDJTJOPP\YQMNRFNE\JVDYVWBU|Kind=1|AlternatePart= 
+Variation548=Designator=TP54D|UniqueId=\GDJTJOPP\4FYUGHYFG\NGLXHLAD|Kind=1|AlternatePart= 
+Variation549=Designator=TP53A|UniqueId=\GDJTJOPP\1FYUGHYFG\AKCIXPMK|Kind=1|AlternatePart= 
+Variation550=Designator=TP57E|UniqueId=\GDJTJOPP\5FYUGHYFG\OEXMFMIR|Kind=1|AlternatePart= 
+Variation551=Designator=TP17|UniqueId=\DSZVNOFL\JMWRQNLI\FRQHWURC|Kind=1|AlternatePart= 
+Variation552=Designator=TP45B|UniqueId=\GDJTJOPP\2FUJJHQAH\QNOJTVNY|Kind=1|AlternatePart= 
+Variation553=Designator=TP58A|UniqueId=\GDJTJOPP\1FYUGHYFG\NVMUVHWX|Kind=1|AlternatePart= 
+Variation554=Designator=TP18|UniqueId=\DSZVNOFL\JMWRQNLI\PCUIPEDG|Kind=1|AlternatePart= 
+Variation555=Designator=TP57A|UniqueId=\GDJTJOPP\1FYUGHYFG\OEXMFMIR|Kind=1|AlternatePart= 
+Variation556=Designator=TP58B|UniqueId=\GDJTJOPP\2FYUGHYFG\NVMUVHWX|Kind=1|AlternatePart= 
+Variation557=Designator=TP58D|UniqueId=\GDJTJOPP\4FYUGHYFG\NVMUVHWX|Kind=1|AlternatePart= 
+Variation558=Designator=TP59A|UniqueId=\GDJTJOPP\1FYUGHYFG\FFUQMULH|Kind=1|AlternatePart= 
+Variation559=Designator=TP47A|UniqueId=\GDJTJOPP\1FUJJHQAH\JPXAUUSF|Kind=1|AlternatePart= 
+Variation560=Designator=TP58C|UniqueId=\GDJTJOPP\3FYUGHYFG\NVMUVHWX|Kind=1|AlternatePart= 
+Variation561=Designator=TP48C|UniqueId=\GDJTJOPP\3FUJJHQAH\ITFLSPML|Kind=1|AlternatePart= 
+Variation562=Designator=TP58E|UniqueId=\GDJTJOPP\5FYUGHYFG\NVMUVHWX|Kind=1|AlternatePart= 
+Variation563=Designator=TP46C|UniqueId=\GDJTJOPP\3FUJJHQAH\WEOGSJLC|Kind=1|AlternatePart= 
+Variation564=Designator=U16|UniqueId=\GDJTJOPP\FCAPNQIM\VGMQUHYB|Kind=1|AlternatePart= 
+Variation565=Designator=U15|UniqueId=\GDJTJOPP\FCAPNQIM\FSXLLRNJ|Kind=1|AlternatePart= 
+Variation566=Designator=TP62C|UniqueId=\GDJTJOPP\3FYUGHYFG\IWMFASXF|Kind=1|AlternatePart= 
+Variation567=Designator=TP60A|UniqueId=\GDJTJOPP\1FYUGHYFG\CMQTITDH|Kind=1|AlternatePart= 
+Variation568=Designator=TP63C|UniqueId=\GDJTJOPP\3FYUGHYFG\VJDVJRIK|Kind=1|AlternatePart= 
+Variation569=Designator=TP60E|UniqueId=\GDJTJOPP\5FYUGHYFG\CMQTITDH|Kind=1|AlternatePart= 
+Variation570=Designator=TP64C|UniqueId=\GDJTJOPP\3FYUGHYFG\CNWSQBHT|Kind=1|AlternatePart= 
+Variation571=Designator=TP61D|UniqueId=\GDJTJOPP\4FYUGHYFG\XBRHJSPD|Kind=1|AlternatePart= 
+Variation572=Designator=TP63B|UniqueId=\GDJTJOPP\2FYUGHYFG\VJDVJRIK|Kind=1|AlternatePart= 
+Variation573=Designator=TP61C|UniqueId=\GDJTJOPP\3FYUGHYFG\XBRHJSPD|Kind=1|AlternatePart= 
+Variation574=Designator=TP63E|UniqueId=\GDJTJOPP\5FYUGHYFG\VJDVJRIK|Kind=1|AlternatePart= 
+Variation575=Designator=TP60C|UniqueId=\GDJTJOPP\3FYUGHYFG\CMQTITDH|Kind=1|AlternatePart= 
+Variation576=Designator=TP63D|UniqueId=\GDJTJOPP\4FYUGHYFG\VJDVJRIK|Kind=1|AlternatePart= 
+Variation577=Designator=TP61B|UniqueId=\GDJTJOPP\2FYUGHYFG\XBRHJSPD|Kind=1|AlternatePart= 
+Variation578=Designator=TP61E|UniqueId=\GDJTJOPP\5FYUGHYFG\XBRHJSPD|Kind=1|AlternatePart= 
+Variation579=Designator=TP64E|UniqueId=\GDJTJOPP\5FYUGHYFG\CNWSQBHT|Kind=1|AlternatePart= 
+Variation580=Designator=TP61A|UniqueId=\GDJTJOPP\1FYUGHYFG\XBRHJSPD|Kind=1|AlternatePart= 
+Variation581=Designator=TP65C|UniqueId=\GDJTJOPP\3FYUGHYFG\YTPNQYDX|Kind=1|AlternatePart= 
+Variation582=Designator=TP59E|UniqueId=\GDJTJOPP\5FYUGHYFG\FFUQMULH|Kind=1|AlternatePart= 
+Variation583=Designator=TP65B|UniqueId=\GDJTJOPP\2FYUGHYFG\YTPNQYDX|Kind=1|AlternatePart= 
+Variation584=Designator=TP64B|UniqueId=\GDJTJOPP\2FYUGHYFG\CNWSQBHT|Kind=1|AlternatePart= 
+Variation585=Designator=TP59D|UniqueId=\GDJTJOPP\4FYUGHYFG\FFUQMULH|Kind=1|AlternatePart= 
+Variation586=Designator=TP60D|UniqueId=\GDJTJOPP\4FYUGHYFG\CMQTITDH|Kind=1|AlternatePart= 
+Variation587=Designator=TP65D|UniqueId=\GDJTJOPP\4FYUGHYFG\YTPNQYDX|Kind=1|AlternatePart= 
+Variation588=Designator=TP59C|UniqueId=\GDJTJOPP\3FYUGHYFG\FFUQMULH|Kind=1|AlternatePart= 
+Variation589=Designator=TP65A|UniqueId=\GDJTJOPP\1FYUGHYFG\YTPNQYDX|Kind=1|AlternatePart= 
+Variation590=Designator=TP60B|UniqueId=\GDJTJOPP\2FYUGHYFG\CMQTITDH|Kind=1|AlternatePart= 
+Variation591=Designator=TP63A|UniqueId=\GDJTJOPP\1FYUGHYFG\VJDVJRIK|Kind=1|AlternatePart= 
+Variation592=Designator=TP62E|UniqueId=\GDJTJOPP\5FYUGHYFG\IWMFASXF|Kind=1|AlternatePart= 
+Variation593=Designator=TP59B|UniqueId=\GDJTJOPP\2FYUGHYFG\FFUQMULH|Kind=1|AlternatePart= 
+Variation594=Designator=TP64D|UniqueId=\GDJTJOPP\4FYUGHYFG\CNWSQBHT|Kind=1|AlternatePart= 
+Variation595=Designator=TP62A|UniqueId=\GDJTJOPP\1FYUGHYFG\IWMFASXF|Kind=1|AlternatePart= 
+Variation596=Designator=TP62D|UniqueId=\GDJTJOPP\4FYUGHYFG\IWMFASXF|Kind=1|AlternatePart= 
+Variation597=Designator=TP62B|UniqueId=\GDJTJOPP\2FYUGHYFG\IWMFASXF|Kind=1|AlternatePart= 
+Variation598=Designator=TP64A|UniqueId=\GDJTJOPP\1FYUGHYFG\CNWSQBHT|Kind=1|AlternatePart= 
+Variation599=Designator=TP66C|UniqueId=\GDJTJOPP\3FYUGHYFG\KVMJFALK|Kind=1|AlternatePart= 
+Variation600=Designator=TP66D|UniqueId=\GDJTJOPP\4FYUGHYFG\KVMJFALK|Kind=1|AlternatePart= 
+Variation601=Designator=TP66B|UniqueId=\GDJTJOPP\2FYUGHYFG\KVMJFALK|Kind=1|AlternatePart= 
+Variation602=Designator=TP66A|UniqueId=\GDJTJOPP\1FYUGHYFG\KVMJFALK|Kind=1|AlternatePart= 
+Variation603=Designator=TP65E|UniqueId=\GDJTJOPP\5FYUGHYFG\YTPNQYDX|Kind=1|AlternatePart= 
+Variation604=Designator=TP66E|UniqueId=\GDJTJOPP\5FYUGHYFG\KVMJFALK|Kind=1|AlternatePart= 
+Variation605=Designator=TP67D|UniqueId=\GDJTJOPP\4FYUGHYFG\WEIGFHAW|Kind=1|AlternatePart= 
+Variation606=Designator=TP70|UniqueId=\ZWVYQITM\BRSDICUC|Kind=1|AlternatePart= 
+Variation607=Designator=TP67C|UniqueId=\GDJTJOPP\3FYUGHYFG\WEIGFHAW|Kind=1|AlternatePart= 
+Variation608=Designator=TP68A|UniqueId=\LNKYODNA\CGKLFIVQ\BJDEMJUO|Kind=1|AlternatePart= 
+Variation609=Designator=TP67E|UniqueId=\GDJTJOPP\5FYUGHYFG\WEIGFHAW|Kind=1|AlternatePart= 
+Variation610=Designator=TP73|UniqueId=\GDJTJOPP\FCAPNQIM\DNSWHUBQ|Kind=1|AlternatePart= 
+Variation611=Designator=TP76|UniqueId=\RDIXJSCV\KSPFMROV|Kind=1|AlternatePart= 
+Variation612=Designator=TP69|UniqueId=\ZWVYQITM\OBLNWMKO|Kind=1|AlternatePart= 
+Variation613=Designator=TP75|UniqueId=\DSZVNOFL\PISDBFRV\IFRZHRRR|Kind=1|AlternatePart= 
+Variation614=Designator=TP77|UniqueId=\RDIXJSCV\PRNXVQHP|Kind=1|AlternatePart= 
+Variation615=Designator=TP74|UniqueId=\LNKYODNA\TVCGAKXK\ODKAVCQA|Kind=1|AlternatePart= 
+Variation616=Designator=TP67B|UniqueId=\GDJTJOPP\2FYUGHYFG\WEIGFHAW|Kind=1|AlternatePart= 
+Variation617=Designator=TP67A|UniqueId=\GDJTJOPP\1FYUGHYFG\WEIGFHAW|Kind=1|AlternatePart= 
+Variation618=Designator=TP72|UniqueId=\HFEOLWXN\UIAQGUTX|Kind=1|AlternatePart= 
+Variation619=Designator=TP71|UniqueId=\ZWVYQITM\NGQGEPJK|Kind=1|AlternatePart= 
+Variation620=Designator=TP68B|UniqueId=\LNKYODNA\EYVZQQPN\BJDEMJUO|Kind=1|AlternatePart= 
+Variation621=Designator=TP79A|UniqueId=\XNHGUPXE\XGOIVWES\HEKTVKPY|Kind=1|AlternatePart= 
+Variation622=Designator=TP78A|UniqueId=\XNHGUPXE\XGOIVWES\BLFWMUNL|Kind=1|AlternatePart= 
+Variation623=Designator=TP82C|UniqueId=\GDJTJOPP\3FYUGHYFG\TYUGLIUQ|Kind=1|AlternatePart= 
+Variation624=Designator=TP82B|UniqueId=\GDJTJOPP\2FYUGHYFG\TYUGLIUQ|Kind=1|AlternatePart= 
+Variation625=Designator=TP81D|UniqueId=\GDJTJOPP\4FYUGHYFG\FEVXLENM|Kind=1|AlternatePart= 
+Variation626=Designator=TP78B|UniqueId=\XNHGUPXE\LDBGVZWU\BLFWMUNL|Kind=1|AlternatePart= 
+Variation627=Designator=TP81E|UniqueId=\GDJTJOPP\5FYUGHYFG\FEVXLENM|Kind=1|AlternatePart= 
+Variation628=Designator=TP81A|UniqueId=\GDJTJOPP\1FYUGHYFG\FEVXLENM|Kind=1|AlternatePart= 
+Variation629=Designator=TP80|UniqueId=\LNKYODNA\TLNOSMBB\AIAVUNEI|Kind=1|AlternatePart= 
+Variation630=Designator=TP79B|UniqueId=\XNHGUPXE\LDBGVZWU\HEKTVKPY|Kind=1|AlternatePart= 
+Variation631=Designator=TP83|UniqueId=\GDJTJOPP\APHJHNRL\EDULJZTO|Kind=1|AlternatePart= 
+Variation632=Designator=TP84|UniqueId=\RDIXJSCV\YSZEZWCR|Kind=1|AlternatePart= 
+Variation633=Designator=TP82D|UniqueId=\GDJTJOPP\4FYUGHYFG\TYUGLIUQ|Kind=1|AlternatePart= 
+Variation634=Designator=TP81B|UniqueId=\GDJTJOPP\2FYUGHYFG\FEVXLENM|Kind=1|AlternatePart= 
+Variation635=Designator=TP85|UniqueId=\RDIXJSCV\OYCVWEYO|Kind=1|AlternatePart= 
+Variation636=Designator=TP82E|UniqueId=\GDJTJOPP\5FYUGHYFG\TYUGLIUQ|Kind=1|AlternatePart= 
+Variation637=Designator=U3|UniqueId=\PRYVHNCG\ITRAQLRY|Kind=1|AlternatePart= 
+Variation638=Designator=TP82A|UniqueId=\GDJTJOPP\1FYUGHYFG\TYUGLIUQ|Kind=1|AlternatePart= 
+Variation639=Designator=TP81C|UniqueId=\GDJTJOPP\3FYUGHYFG\FEVXLENM|Kind=1|AlternatePart= 
+Variation640=Designator=U1|UniqueId=\GDJTJOPP\APHJHNRL\UKZTUWKQ|Kind=1|AlternatePart= 
+Variation641=Designator=TP86|UniqueId=\RDIXJSCV\KGOILIZC|Kind=1|AlternatePart= 
+Variation642=Designator=TP87|UniqueId=\RDIXJSCV\KHYVNPVV|Kind=1|AlternatePart= 
+Variation643=Designator=U2|UniqueId=\PRYVHNCG\OBIIEKHB|Kind=1|AlternatePart= 
+Variation644=Designator=TP88|UniqueId=\RDIXJSCV\LKEDDRNX|Kind=1|AlternatePart= 
+Variation645=Designator=U28|UniqueId=\LNKYODNA\TLNOSMBB\MNPAEYUX|Kind=1|AlternatePart= 
+Variation646=Designator=U29|UniqueId=\LNKYODNA\TLNOSMBB\UWJRCMYY|Kind=1|AlternatePart= 
+Variation647=Designator=U8B|UniqueId=\LNKYODNA\EYVZQQPN\NYWQVXEQ|Kind=1|AlternatePart= 
+Variation648=Designator=U9A|UniqueId=\LNKYODNA\CGKLFIVQ\EHNJBTLZ|Kind=1|AlternatePart= 
+Variation649=Designator=U8A|UniqueId=\LNKYODNA\CGKLFIVQ\NYWQVXEQ|Kind=1|AlternatePart= 
+Variation650=Designator=U9B|UniqueId=\LNKYODNA\EYVZQQPN\EHNJBTLZ|Kind=1|AlternatePart= 
+Variation651=Designator=U5A|UniqueId=\GDJTJOPP\1FYUGHYFG\RKVNGAEE|Kind=1|AlternatePart= 
+Variation652=Designator=U6B|UniqueId=\LNKYODNA\EYVZQQPN\WKIKJAKV|Kind=1|AlternatePart= 
+Variation653=Designator=U6A|UniqueId=\LNKYODNA\CGKLFIVQ\WKIKJAKV|Kind=1|AlternatePart= 
+Variation654=Designator=U5C|UniqueId=\GDJTJOPP\3FYUGHYFG\RKVNGAEE|Kind=1|AlternatePart= 
+Variation655=Designator=U5E|UniqueId=\GDJTJOPP\5FYUGHYFG\RKVNGAEE|Kind=1|AlternatePart= 
+Variation656=Designator=U5B|UniqueId=\GDJTJOPP\2FYUGHYFG\RKVNGAEE|Kind=1|AlternatePart= 
+Variation657=Designator=U5D|UniqueId=\GDJTJOPP\4FYUGHYFG\RKVNGAEE|Kind=1|AlternatePart= 
+Variation658=Designator=C96B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\HRRAYPLX|Kind=1|AlternatePart= 
+Variation659=Designator=C98A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\BVDOCSUM|Kind=1|AlternatePart= 
+Variation660=Designator=C96A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\HRRAYPLX|Kind=1|AlternatePart= 
+Variation661=Designator=C97A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\PTTXBHHH|Kind=1|AlternatePart= 
+Variation662=Designator=C96C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\HRRAYPLX|Kind=1|AlternatePart= 
+Variation663=Designator=C99A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WAGQBJCC|Kind=1|AlternatePart= 
+Variation664=Designator=C101|UniqueId=\GDJTJOPP\WIMDJZWB\LOQTFNXQ|Kind=1|AlternatePart= 
+Variation665=Designator=C100|UniqueId=\GDJTJOPP\WIMDJZWB\QRNVQKXD|Kind=1|AlternatePart= 
+Variation666=Designator=C97C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\PTTXBHHH|Kind=1|AlternatePart= 
+Variation667=Designator=C102|UniqueId=\LNKYODNA\TLNOSMBB\GMCSRHNM|Kind=1|AlternatePart= 
+Variation668=Designator=C99B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WAGQBJCC|Kind=1|AlternatePart= 
+Variation669=Designator=C98C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\BVDOCSUM|Kind=1|AlternatePart= 
+Variation670=Designator=C98B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\BVDOCSUM|Kind=1|AlternatePart= 
+Variation671=Designator=C95B|UniqueId=\XNHGUPXE\LDBGVZWU\JKIERHBY|Kind=1|AlternatePart= 
+Variation672=Designator=C97B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\PTTXBHHH|Kind=1|AlternatePart= 
+Variation673=Designator=C103|UniqueId=\LNKYODNA\TLNOSMBB\IXXWUSFU|Kind=1|AlternatePart= 
+Variation674=Designator=C99C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WAGQBJCC|Kind=1|AlternatePart= 
+Variation675=Designator=C104|UniqueId=\LNKYODNA\TLNOSMBB\NWZJIKPE|Kind=1|AlternatePart= 
+Variation676=Designator=C106C|UniqueId=\LNKYODNA\GABJFTRH\3TFYSEMKL\YCOCAQGW|Kind=1|AlternatePart= 
+Variation677=Designator=C106H|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\WCAGGJYI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation678=Designator=C106B|UniqueId=\LNKYODNA\GABJFTRH\2TFYSEMKL\YCOCAQGW|Kind=1|AlternatePart= 
+Variation679=Designator=C106E|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\DCXBMXQO\YCOCAQGW|Kind=1|AlternatePart= 
+Variation680=Designator=C106D|UniqueId=\LNKYODNA\GABJFTRH\4TFYSEMKL\YCOCAQGW|Kind=1|AlternatePart= 
+Variation681=Designator=C106K|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\CXEBVJDI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation682=Designator=C106O|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\CXEBVJDI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation683=Designator=C106N|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\FXXMOWKT\YCOCAQGW|Kind=1|AlternatePart= 
+Variation684=Designator=C106G|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\CXEBVJDI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation685=Designator=C106M|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\DCXBMXQO\YCOCAQGW|Kind=1|AlternatePart= 
+Variation686=Designator=C106P|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\WCAGGJYI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation687=Designator=C106L|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\WCAGGJYI\YCOCAQGW|Kind=1|AlternatePart= 
+Variation688=Designator=C106A|UniqueId=\LNKYODNA\GABJFTRH\1TFYSEMKL\YCOCAQGW|Kind=1|AlternatePart= 
+Variation689=Designator=C106J|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\FXXMOWKT\YCOCAQGW|Kind=1|AlternatePart= 
+Variation690=Designator=C106I|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\DCXBMXQO\YCOCAQGW|Kind=1|AlternatePart= 
+Variation691=Designator=C105|UniqueId=\LNKYODNA\TLNOSMBB\EJGGSSKQ|Kind=1|AlternatePart= 
+Variation692=Designator=C106F|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\FXXMOWKT\YCOCAQGW|Kind=1|AlternatePart= 
+Variation693=Designator=C107|UniqueId=\EOKJBQKX\TGNPFKUP|Kind=1|AlternatePart= 
+Variation694=Designator=C111|UniqueId=\GDJTJOPP\CXRWOBTY\NZBRRTEB|Kind=1|AlternatePart= 
+Variation695=Designator=C116|UniqueId=\GDJTJOPP\APHJHNRL\WVTZHQXS|Kind=1|AlternatePart= 
+Variation696=Designator=C110|UniqueId=\GDJTJOPP\CXRWOBTY\CVLPEWLQ|Kind=1|AlternatePart= 
+Variation697=Designator=C113|UniqueId=\GDJTJOPP\APHJHNRL\TWQFFTEK|Kind=1|AlternatePart= 
+Variation698=Designator=C112|UniqueId=\GDJTJOPP\APHJHNRL\EAZLNMVU|Kind=1|AlternatePart= 
+Variation699=Designator=C119|UniqueId=\RDIXJSCV\NJATQGUD|Kind=1|AlternatePart= 
+Variation700=Designator=C122|UniqueId=\ZWVYQITM\WKSHAIVK|Kind=1|AlternatePart= 
+Variation701=Designator=C115|UniqueId=\GDJTJOPP\APHJHNRL\KICQJNMG|Kind=1|AlternatePart= 
+Variation702=Designator=C121|UniqueId=\EOKJBQKX\WWCGJOHG|Kind=1|AlternatePart= 
+Variation703=Designator=C123|UniqueId=\ZWVYQITM\AWVFAMJI|Kind=1|AlternatePart= 
+Variation704=Designator=C120|UniqueId=\RDIXJSCV\JSLKYNST|Kind=1|AlternatePart= 
+Variation705=Designator=C109|UniqueId=\RDIXJSCV\QOXHPKBP|Kind=1|AlternatePart= 
+Variation706=Designator=C118|UniqueId=\GDJTJOPP\CXRWOBTY\RBGVCCYT|Kind=1|AlternatePart= 
+Variation707=Designator=C117|UniqueId=\GDJTJOPP\CXRWOBTY\HPWDJXCO|Kind=1|AlternatePart= 
+Variation708=Designator=C108|UniqueId=\ZWVYQITM\LDZTUMNR|Kind=1|AlternatePart= 
+Variation709=Designator=C114|UniqueId=\GDJTJOPP\APHJHNRL\OKWTUOZU|Kind=1|AlternatePart= 
+Variation710=Designator=C124|UniqueId=\LNKYODNA\JUIEDOYU\KPYVUPPQ|Kind=1|AlternatePart= 
+Variation711=Designator=C125|UniqueId=\LNKYODNA\JUIEDOYU\AEWNWMXN|Kind=1|AlternatePart= 
+Variation712=Designator=C95A|UniqueId=\XNHGUPXE\XGOIVWES\JKIERHBY|Kind=1|AlternatePart= 
+Variation713=Designator=C129|UniqueId=\RDIXJSCV\LXNUERFH|Kind=1|AlternatePart= 
+Variation714=Designator=C134|UniqueId=\RDIXJSCV\NHGMUPJA|Kind=1|AlternatePart= 
+Variation715=Designator=C128|UniqueId=\RDIXJSCV\BYPFAHFI|Kind=1|AlternatePart= 
+Variation716=Designator=C131|UniqueId=\RDIXJSCV\HAONJUXM|Kind=1|AlternatePart= 
+Variation717=Designator=C130|UniqueId=\RDIXJSCV\BOJEGNVG|Kind=1|AlternatePart= 
+Variation718=Designator=C137|UniqueId=\RDIXJSCV\FEYQGDLC|Kind=1|AlternatePart= 
+Variation719=Designator=C141|UniqueId=\RDIXJSCV\KZGQNHIR|Kind=1|AlternatePart= 
+Variation720=Designator=C140|UniqueId=\RDIXJSCV\HPGREDBH|Kind=1|AlternatePart= 
+Variation721=Designator=C133|UniqueId=\RDIXJSCV\EVIJBVRB|Kind=1|AlternatePart= 
+Variation722=Designator=C142|UniqueId=\RDIXJSCV\WZZSJZHZ|Kind=1|AlternatePart= 
+Variation723=Designator=C138|UniqueId=\RDIXJSCV\ELYUHRPK|Kind=1|AlternatePart= 
+Variation724=Designator=C127|UniqueId=\RDIXJSCV\WMGUMASU|Kind=1|AlternatePart= 
+Variation725=Designator=C136|UniqueId=\RDIXJSCV\BRYDHRXX|Kind=1|AlternatePart= 
+Variation726=Designator=C135|UniqueId=\RDIXJSCV\EHFMYFVL|Kind=1|AlternatePart= 
+Variation727=Designator=C126|UniqueId=\RDIXJSCV\BHMSJVGJ|Kind=1|AlternatePart= 
+Variation728=Designator=C132|UniqueId=\RDIXJSCV\VFXAGEYP|Kind=1|AlternatePart= 
+Variation729=Designator=C143|UniqueId=\RDIXJSCV\ZFRKRAKA|Kind=1|AlternatePart= 
+Variation730=Designator=C139|UniqueId=\RDIXJSCV\IDQFTDBU|Kind=1|AlternatePart= 
+Variation731=Designator=C144|UniqueId=\RDIXJSCV\DHMCCNSF|Kind=1|AlternatePart= 
+Variation732=Designator=C145|UniqueId=\EOKJBQKX\MLGQHDPU|Kind=1|AlternatePart= 
+Variation733=Designator=C147|UniqueId=\EOKJBQKX\CPOIAQGA|Kind=1|AlternatePart= 
+Variation734=Designator=C146|UniqueId=\EOKJBQKX\NWRGCWQN|Kind=1|AlternatePart= 
+Variation735=Designator=C148|UniqueId=\RDIXJSCV\RZCGCNNH|Kind=1|AlternatePart= 
+Variation736=Designator=C149|UniqueId=\RDIXJSCV\ZOIIQYSR|Kind=1|AlternatePart= 
+Variation737=Designator=C37A|UniqueId=\LNKYODNA\CGKLFIVQ\FRUJYZOM|Kind=1|AlternatePart= 
+Variation738=Designator=C34B|UniqueId=\LNKYODNA\EYVZQQPN\HYHJZNNI|Kind=1|AlternatePart= 
+Variation739=Designator=C37B|UniqueId=\LNKYODNA\EYVZQQPN\FRUJYZOM|Kind=1|AlternatePart= 
+Variation740=Designator=C39A|UniqueId=\LNKYODNA\CGKLFIVQ\IAAEJYKZ|Kind=1|AlternatePart= 
+Variation741=Designator=C42|UniqueId=\ZWVYQITM\YDMEKIBT|Kind=1|AlternatePart= 
+Variation742=Designator=C38B|UniqueId=\LNKYODNA\EYVZQQPN\KEZBAVPR|Kind=1|AlternatePart= 
+Variation743=Designator=C40A|UniqueId=\LNKYODNA\CGKLFIVQ\JGUFOAGS|Kind=1|AlternatePart= 
+Variation744=Designator=C39B|UniqueId=\LNKYODNA\EYVZQQPN\IAAEJYKZ|Kind=1|AlternatePart= 
+Variation745=Designator=C45|UniqueId=\ZWVYQITM\GTKNGHWA|Kind=1|AlternatePart= 
+Variation746=Designator=C49|UniqueId=\ZWVYQITM\VZAMPRYD|Kind=1|AlternatePart= 
+Variation747=Designator=C48|UniqueId=\ZWVYQITM\SPBOLINY|Kind=1|AlternatePart= 
+Variation748=Designator=C41|UniqueId=\ZWVYQITM\TVWSIUBM|Kind=1|AlternatePart= 
+Variation749=Designator=C47|UniqueId=\ZWVYQITM\VBRRJEXN|Kind=1|AlternatePart= 
+Variation750=Designator=C50|UniqueId=\ZWVYQITM\ALJFGHLX|Kind=1|AlternatePart= 
+Variation751=Designator=C46|UniqueId=\ZWVYQITM\ULFOGTKA|Kind=1|AlternatePart= 
+Variation752=Designator=C38A|UniqueId=\LNKYODNA\CGKLFIVQ\KEZBAVPR|Kind=1|AlternatePart= 
+Variation753=Designator=C44|UniqueId=\ZWVYQITM\VJHGSDDV|Kind=1|AlternatePart= 
+Variation754=Designator=C43|UniqueId=\ZWVYQITM\YDKGEEPD|Kind=1|AlternatePart= 
+Variation755=Designator=C40B|UniqueId=\LNKYODNA\EYVZQQPN\JGUFOAGS|Kind=1|AlternatePart= 
+Variation756=Designator=C51|UniqueId=\ZWVYQITM\TVJYAOFO|Kind=1|AlternatePart= 
+Variation757=Designator=C52|UniqueId=\ZWVYQITM\KMDNJDBM|Kind=1|AlternatePart= 
+Variation758=Designator=C35A|UniqueId=\LNKYODNA\CGKLFIVQ\JLQZGIJR|Kind=1|AlternatePart= 
+Variation759=Designator=C53|UniqueId=\ZWVYQITM\QJIWHJER|Kind=1|AlternatePart= 
+Variation760=Designator=C35B|UniqueId=\LNKYODNA\EYVZQQPN\JLQZGIJR|Kind=1|AlternatePart= 
+Variation761=Designator=C54|UniqueId=\ZWVYQITM\OLXIQKYQ|Kind=1|AlternatePart= 
+Variation762=Designator=C36A|UniqueId=\LNKYODNA\CGKLFIVQ\LCIMFGCO|Kind=1|AlternatePart= 
+Variation763=Designator=C55|UniqueId=\ZWVYQITM\XBIXIQCY|Kind=1|AlternatePart= 
+Variation764=Designator=C36B|UniqueId=\LNKYODNA\EYVZQQPN\LCIMFGCO|Kind=1|AlternatePart= 
+Variation765=Designator=C56|UniqueId=\ZWVYQITM\QCTAGBEO|Kind=1|AlternatePart= 
+Variation766=Designator=C60|UniqueId=\ZWVYQITM\MDRYTLJJ|Kind=1|AlternatePart= 
+Variation767=Designator=C65|UniqueId=\ZWVYQITM\JOBPGCWW|Kind=1|AlternatePart= 
+Variation768=Designator=C59|UniqueId=\ZWVYQITM\TUCYAFKZ|Kind=1|AlternatePart= 
+Variation769=Designator=C62|UniqueId=\ZWVYQITM\GMKNPARV|Kind=1|AlternatePart= 
+Variation770=Designator=C61|UniqueId=\ZWVYQITM\JDAXMPKX|Kind=1|AlternatePart= 
+Variation771=Designator=C68|UniqueId=\ZWVYQITM\MOYUWACJ|Kind=1|AlternatePart= 
+Variation772=Designator=C72|UniqueId=\HFEOLWXN\VZFCPAHK|Kind=1|AlternatePart= 
+Variation773=Designator=C71|UniqueId=\HFEOLWXN\RUALDLAB|Kind=1|AlternatePart= 
+Variation774=Designator=C64|UniqueId=\ZWVYQITM\IYGHMXFT|Kind=1|AlternatePart= 
+Variation775=Designator=C73A|UniqueId=\KZVLZSMY\KIOBNQMV|Kind=1|AlternatePart= 
+Variation776=Designator=C69|UniqueId=\ZWVYQITM\VBAWJGDS|Kind=1|AlternatePart= 
+Variation777=Designator=C58|UniqueId=\ZWVYQITM\SLMKNQWP|Kind=1|AlternatePart= 
+Variation778=Designator=C67|UniqueId=\ZWVYQITM\UNPQJWSK|Kind=1|AlternatePart= 
+Variation779=Designator=C66|UniqueId=\ZWVYQITM\LVATQQHN|Kind=1|AlternatePart= 
+Variation780=Designator=C57|UniqueId=\ZWVYQITM\DNIQAQVR|Kind=1|AlternatePart= 
+Variation781=Designator=C63|UniqueId=\ZWVYQITM\IGATPKRK|Kind=1|AlternatePart= 
+Variation782=Designator=C73B|UniqueId=\KQNEXRBV\KIOBNQMV|Kind=1|AlternatePart= 
+Variation783=Designator=C70|UniqueId=\ZWVYQITM\XLUMMWNN|Kind=1|AlternatePart= 
+Variation784=Designator=C74A|UniqueId=\KZVLZSMY\LVHQBWQP|Kind=1|AlternatePart= 
+Variation785=Designator=C77|UniqueId=\LNKYODNA\TVCGAKXK\YNDYMDHM|Kind=1|AlternatePart= 
+Variation786=Designator=C82|UniqueId=\LNKYODNA\TVCGAKXK\BRMMSWVC|Kind=1|AlternatePart= 
+Variation787=Designator=C76|UniqueId=\GDJTJOPP\FCAPNQIM\TMXMLSCC|Kind=1|AlternatePart= 
+Variation788=Designator=C79|UniqueId=\LNKYODNA\TVCGAKXK\AOTERIEB|Kind=1|AlternatePart= 
+Variation789=Designator=C78|UniqueId=\LNKYODNA\TVCGAKXK\BRGHHDCN|Kind=1|AlternatePart= 
+Variation790=Designator=C85A|UniqueId=\KZVLZSMY\UPNHRCZL|Kind=1|AlternatePart= 
+Variation791=Designator=C87|UniqueId=\RDIXJSCV\APULDBGM|Kind=1|AlternatePart= 
+Variation792=Designator=C86B|UniqueId=\KQNEXRBV\ACBGDFUS|Kind=1|AlternatePart= 
+Variation793=Designator=C81|UniqueId=\LNKYODNA\TVCGAKXK\OJJWPTTH|Kind=1|AlternatePart= 
+Variation794=Designator=C86A|UniqueId=\KZVLZSMY\ACBGDFUS|Kind=1|AlternatePart= 
+Variation795=Designator=C88A|UniqueId=\XNHGUPXE\XGOIVWES\NPCSNCVD|Kind=1|AlternatePart= 
+Variation796=Designator=C85B|UniqueId=\KQNEXRBV\UPNHRCZL|Kind=1|AlternatePart= 
+Variation797=Designator=C75|UniqueId=\GDJTJOPP\FCAPNQIM\NUQZGYSW|Kind=1|AlternatePart= 
+Variation798=Designator=C84|UniqueId=\LNKYODNA\TVCGAKXK\VWQWKOBD|Kind=1|AlternatePart= 
+Variation799=Designator=C83|UniqueId=\LNKYODNA\TVCGAKXK\WAISJMSO|Kind=1|AlternatePart= 
+Variation800=Designator=C74B|UniqueId=\KQNEXRBV\LVHQBWQP|Kind=1|AlternatePart= 
+Variation801=Designator=C80|UniqueId=\LNKYODNA\TVCGAKXK\XDHBOIPL|Kind=1|AlternatePart= 
+Variation802=Designator=C88B|UniqueId=\XNHGUPXE\LDBGVZWU\NPCSNCVD|Kind=1|AlternatePart= 
+Variation803=Designator=C91B|UniqueId=\XNHGUPXE\LDBGVZWU\NAUVDVMQ|Kind=1|AlternatePart= 
+Variation804=Designator=C89B|UniqueId=\XNHGUPXE\LDBGVZWU\GTAGFVBL|Kind=1|AlternatePart= 
+Variation805=Designator=C90B|UniqueId=\XNHGUPXE\LDBGVZWU\OONTVLCR|Kind=1|AlternatePart= 
+Variation806=Designator=C90A|UniqueId=\XNHGUPXE\XGOIVWES\OONTVLCR|Kind=1|AlternatePart= 
+Variation807=Designator=C92B|UniqueId=\XNHGUPXE\LDBGVZWU\NGDVOUPR|Kind=1|AlternatePart= 
+Variation808=Designator=C93B|UniqueId=\XNHGUPXE\LDBGVZWU\BFMMRUCQ|Kind=1|AlternatePart= 
+Variation809=Designator=C91A|UniqueId=\XNHGUPXE\XGOIVWES\NAUVDVMQ|Kind=1|AlternatePart= 
+Variation810=Designator=C94A|UniqueId=\XNHGUPXE\XGOIVWES\HAKDGRKN|Kind=1|AlternatePart= 
+Variation811=Designator=C89A|UniqueId=\XNHGUPXE\XGOIVWES\GTAGFVBL|Kind=1|AlternatePart= 
+Variation812=Designator=C92A|UniqueId=\XNHGUPXE\XGOIVWES\NGDVOUPR|Kind=1|AlternatePart= 
+Variation813=Designator=C94B|UniqueId=\XNHGUPXE\LDBGVZWU\HAKDGRKN|Kind=1|AlternatePart= 
+Variation814=Designator=C93A|UniqueId=\XNHGUPXE\XGOIVWES\BFMMRUCQ|Kind=1|AlternatePart= 
+Variation815=Designator=C18|UniqueId=\PRYVHNCG\HVAPUOUE|Kind=1|AlternatePart= 
+Variation816=Designator=C17|UniqueId=\PRYVHNCG\PFROIRWM|Kind=1|AlternatePart= 
+Variation817=Designator=C12|UniqueId=\PRYVHNCG\RPCOOIYX|Kind=1|AlternatePart= 
+Variation818=Designator=C19|UniqueId=\PRYVHNCG\ACLIFILZ|Kind=1|AlternatePart= 
+Variation819=Designator=C15|UniqueId=\PRYVHNCG\RWXOYRUS|Kind=1|AlternatePart= 
+Variation820=Designator=C14|UniqueId=\PRYVHNCG\CZZFCCRI|Kind=1|AlternatePart= 
+Variation821=Designator=C13|UniqueId=\PRYVHNCG\WTXOQHMJ|Kind=1|AlternatePart= 
+Variation822=Designator=C11|UniqueId=\PRYVHNCG\XXPRTSCY|Kind=1|AlternatePart= 
+Variation823=Designator=C20|UniqueId=\PRYVHNCG\CKBOANQG|Kind=1|AlternatePart= 
+Variation824=Designator=C21|UniqueId=\PRYVHNCG\GROVGMNU|Kind=1|AlternatePart= 
+Variation825=Designator=C16|UniqueId=\PRYVHNCG\XXOICDXB|Kind=1|AlternatePart= 
+Variation826=Designator=C22A|UniqueId=\GDJTJOPP\1FYUGHYFG\OCFBESIN|Kind=1|AlternatePart= 
+Variation827=Designator=C22B|UniqueId=\GDJTJOPP\2FYUGHYFG\OCFBESIN|Kind=1|AlternatePart= 
+Variation828=Designator=C4|UniqueId=\PRYVHNCG\NILHJXPM|Kind=1|AlternatePart= 
+Variation829=Designator=C5|UniqueId=\PRYVHNCG\IRXXRFGX|Kind=1|AlternatePart= 
+Variation830=Designator=C22C|UniqueId=\GDJTJOPP\3FYUGHYFG\OCFBESIN|Kind=1|AlternatePart= 
+Variation831=Designator=C6|UniqueId=\PRYVHNCG\KYMISRJU|Kind=1|AlternatePart= 
+Variation832=Designator=C23B|UniqueId=\GDJTJOPP\2FYUGHYFG\IADKHINH|Kind=1|AlternatePart= 
+Variation833=Designator=C24B|UniqueId=\GDJTJOPP\2FYUGHYFG\AILJRRCD|Kind=1|AlternatePart= 
+Variation834=Designator=C23A|UniqueId=\GDJTJOPP\1FYUGHYFG\IADKHINH|Kind=1|AlternatePart= 
+Variation835=Designator=C23D|UniqueId=\GDJTJOPP\4FYUGHYFG\IADKHINH|Kind=1|AlternatePart= 
+Variation836=Designator=C23C|UniqueId=\GDJTJOPP\3FYUGHYFG\IADKHINH|Kind=1|AlternatePart= 
+Variation837=Designator=C24E|UniqueId=\GDJTJOPP\5FYUGHYFG\AILJRRCD|Kind=1|AlternatePart= 
+Variation838=Designator=C25D|UniqueId=\GDJTJOPP\4FYUGHYFG\BTTTNAXC|Kind=1|AlternatePart= 
+Variation839=Designator=C25C|UniqueId=\GDJTJOPP\3FYUGHYFG\BTTTNAXC|Kind=1|AlternatePart= 
+Variation840=Designator=C24A|UniqueId=\GDJTJOPP\1FYUGHYFG\AILJRRCD|Kind=1|AlternatePart= 
+Variation841=Designator=C25E|UniqueId=\GDJTJOPP\5FYUGHYFG\BTTTNAXC|Kind=1|AlternatePart= 
+Variation842=Designator=C25A|UniqueId=\GDJTJOPP\1FYUGHYFG\BTTTNAXC|Kind=1|AlternatePart= 
+Variation843=Designator=C22E|UniqueId=\GDJTJOPP\5FYUGHYFG\OCFBESIN|Kind=1|AlternatePart= 
+Variation844=Designator=C24D|UniqueId=\GDJTJOPP\4FYUGHYFG\AILJRRCD|Kind=1|AlternatePart= 
+Variation845=Designator=C24C|UniqueId=\GDJTJOPP\3FYUGHYFG\AILJRRCD|Kind=1|AlternatePart= 
+Variation846=Designator=C23E|UniqueId=\GDJTJOPP\5FYUGHYFG\IADKHINH|Kind=1|AlternatePart= 
+Variation847=Designator=C26A|UniqueId=\GDJTJOPP\1FYUGHYFG\MHTEULRT|Kind=1|AlternatePart= 
+Variation848=Designator=C26B|UniqueId=\GDJTJOPP\2FYUGHYFG\MHTEULRT|Kind=1|AlternatePart= 
+Variation849=Designator=C25B|UniqueId=\GDJTJOPP\2FYUGHYFG\BTTTNAXC|Kind=1|AlternatePart= 
+Variation850=Designator=C22D|UniqueId=\GDJTJOPP\4FYUGHYFG\OCFBESIN|Kind=1|AlternatePart= 
+Variation851=Designator=C7|UniqueId=\PRYVHNCG\CPMFGYIE|Kind=1|AlternatePart= 
+Variation852=Designator=C26C|UniqueId=\GDJTJOPP\3FYUGHYFG\MHTEULRT|Kind=1|AlternatePart= 
+Variation853=Designator=C26D|UniqueId=\GDJTJOPP\4FYUGHYFG\MHTEULRT|Kind=1|AlternatePart= 
+Variation854=Designator=C27B|UniqueId=\GDJTJOPP\2FYUGHYFG\KBWYJHQC|Kind=1|AlternatePart= 
+Variation855=Designator=C28B|UniqueId=\GDJTJOPP\2FYUGHYFG\KLQPPAWL|Kind=1|AlternatePart= 
+Variation856=Designator=C27A|UniqueId=\GDJTJOPP\1FYUGHYFG\KBWYJHQC|Kind=1|AlternatePart= 
+Variation857=Designator=C27D|UniqueId=\GDJTJOPP\4FYUGHYFG\KBWYJHQC|Kind=1|AlternatePart= 
+Variation858=Designator=C27C|UniqueId=\GDJTJOPP\3FYUGHYFG\KBWYJHQC|Kind=1|AlternatePart= 
+Variation859=Designator=C28E|UniqueId=\GDJTJOPP\5FYUGHYFG\KLQPPAWL|Kind=1|AlternatePart= 
+Variation860=Designator=C29D|UniqueId=\GDJTJOPP\4FYUGHYFG\GFYQBDNE|Kind=1|AlternatePart= 
+Variation861=Designator=C29C|UniqueId=\GDJTJOPP\3FYUGHYFG\GFYQBDNE|Kind=1|AlternatePart= 
+Variation862=Designator=C28A|UniqueId=\GDJTJOPP\1FYUGHYFG\KLQPPAWL|Kind=1|AlternatePart= 
+Variation863=Designator=C29B|UniqueId=\GDJTJOPP\2FYUGHYFG\GFYQBDNE|Kind=1|AlternatePart= 
+Variation864=Designator=C29E|UniqueId=\GDJTJOPP\5FYUGHYFG\GFYQBDNE|Kind=1|AlternatePart= 
+Variation865=Designator=C29A|UniqueId=\GDJTJOPP\1FYUGHYFG\GFYQBDNE|Kind=1|AlternatePart= 
+Variation866=Designator=C26E|UniqueId=\GDJTJOPP\5FYUGHYFG\MHTEULRT|Kind=1|AlternatePart= 
+Variation867=Designator=C28D|UniqueId=\GDJTJOPP\4FYUGHYFG\KLQPPAWL|Kind=1|AlternatePart= 
+Variation868=Designator=C28C|UniqueId=\GDJTJOPP\3FYUGHYFG\KLQPPAWL|Kind=1|AlternatePart= 
+Variation869=Designator=C27E|UniqueId=\GDJTJOPP\5FYUGHYFG\KBWYJHQC|Kind=1|AlternatePart= 
+Variation870=Designator=C30A|UniqueId=\GDJTJOPP\1FYUGHYFG\NMSFSBFH|Kind=1|AlternatePart= 
+Variation871=Designator=C30B|UniqueId=\GDJTJOPP\2FYUGHYFG\NMSFSBFH|Kind=1|AlternatePart= 
+Variation872=Designator=C8|UniqueId=\PRYVHNCG\ONFVMFZF|Kind=1|AlternatePart= 
+Variation873=Designator=C30C|UniqueId=\GDJTJOPP\3FYUGHYFG\NMSFSBFH|Kind=1|AlternatePart= 
+Variation874=Designator=C9|UniqueId=\PRYVHNCG\BTVUMMAX|Kind=1|AlternatePart= 
+Variation875=Designator=C31A|UniqueId=\GDJTJOPP\1FYUGHYFG\TEKDFJUT|Kind=1|AlternatePart= 
+Variation876=Designator=C32A|UniqueId=\GDJTJOPP\1FYUGHYFG\SBOTHMUP|Kind=1|AlternatePart= 
+Variation877=Designator=C30E|UniqueId=\GDJTJOPP\5FYUGHYFG\NMSFSBFH|Kind=1|AlternatePart= 
+Variation878=Designator=C31C|UniqueId=\GDJTJOPP\3FYUGHYFG\TEKDFJUT|Kind=1|AlternatePart= 
+Variation879=Designator=C31B|UniqueId=\GDJTJOPP\2FYUGHYFG\TEKDFJUT|Kind=1|AlternatePart= 
+Variation880=Designator=C32D|UniqueId=\GDJTJOPP\4FYUGHYFG\SBOTHMUP|Kind=1|AlternatePart= 
+Variation881=Designator=C33C|UniqueId=\GDJTJOPP\3FYUGHYFG\GXBVVIHT|Kind=1|AlternatePart= 
+Variation882=Designator=C33B|UniqueId=\GDJTJOPP\2FYUGHYFG\GXBVVIHT|Kind=1|AlternatePart= 
+Variation883=Designator=C31E|UniqueId=\GDJTJOPP\5FYUGHYFG\TEKDFJUT|Kind=1|AlternatePart= 
+Variation884=Designator=C33D|UniqueId=\GDJTJOPP\4FYUGHYFG\GXBVVIHT|Kind=1|AlternatePart= 
+Variation885=Designator=C32E|UniqueId=\GDJTJOPP\5FYUGHYFG\SBOTHMUP|Kind=1|AlternatePart= 
+Variation886=Designator=C30D|UniqueId=\GDJTJOPP\4FYUGHYFG\NMSFSBFH|Kind=1|AlternatePart= 
+Variation887=Designator=C32C|UniqueId=\GDJTJOPP\3FYUGHYFG\SBOTHMUP|Kind=1|AlternatePart= 
+Variation888=Designator=C32B|UniqueId=\GDJTJOPP\2FYUGHYFG\SBOTHMUP|Kind=1|AlternatePart= 
+Variation889=Designator=C31D|UniqueId=\GDJTJOPP\4FYUGHYFG\TEKDFJUT|Kind=1|AlternatePart= 
+Variation890=Designator=C33E|UniqueId=\GDJTJOPP\5FYUGHYFG\GXBVVIHT|Kind=1|AlternatePart= 
+Variation891=Designator=C34A|UniqueId=\LNKYODNA\CGKLFIVQ\HYHJZNNI|Kind=1|AlternatePart= 
+Variation892=Designator=C33A|UniqueId=\GDJTJOPP\1FYUGHYFG\GXBVVIHT|Kind=1|AlternatePart= 
+Variation893=Designator=X1|UniqueId=\GDJTJOPP\APHJHNRL\MYBOOWQH|Kind=1|AlternatePart= 
+Variation894=Designator=U33|UniqueId=\RDIXJSCV\VCVCKTNH|Kind=1|AlternatePart= 
+Variation895=Designator=U32|UniqueId=\GDJTJOPP\APHJHNRL\YZTYGAUY|Kind=1|AlternatePart= 
+Variation896=Designator=X3|UniqueId=\DSZVNOFL\GCJYMHKB|Kind=1|AlternatePart= 
+Variation897=Designator=X12|UniqueId=\LNKYODNA\TVCGAKXK\FMGLVJNF|Kind=1|AlternatePart= 
+Variation898=Designator=X10|UniqueId=\LNKYODNA\YHZFIOUU|Kind=1|AlternatePart= 
+Variation899=Designator=X8|UniqueId=\LNKYODNA\TIBSQQFG|Kind=1|AlternatePart= 
+Variation900=Designator=X7B|UniqueId=\LNKYODNA\EYVZQQPN\CVFUGQJZ|Kind=1|AlternatePart= 
+Variation901=Designator=X7A|UniqueId=\LNKYODNA\CGKLFIVQ\CVFUGQJZ|Kind=1|AlternatePart= 
+Variation902=Designator=X6E|UniqueId=\GDJTJOPP\5FYUGHYFG\BWINTQUE|Kind=1|AlternatePart= 
+Variation903=Designator=X6D|UniqueId=\GDJTJOPP\4FYUGHYFG\BWINTQUE|Kind=1|AlternatePart= 
+Variation904=Designator=X6C|UniqueId=\GDJTJOPP\3FYUGHYFG\BWINTQUE|Kind=1|AlternatePart= 
+Variation905=Designator=X6B|UniqueId=\GDJTJOPP\2FYUGHYFG\BWINTQUE|Kind=1|AlternatePart= 
+Variation906=Designator=X5C|UniqueId=\GDJTJOPP\3FUJJHQAH\XTWSAAVS|Kind=1|AlternatePart= 
+Variation907=Designator=X5B|UniqueId=\GDJTJOPP\2FUJJHQAH\XTWSAAVS|Kind=1|AlternatePart= 
+Variation908=Designator=X19|UniqueId=\LNKYODNA\TLNOSMBB\RUHBRUEY|Kind=1|AlternatePart= 
+Variation909=Designator=X18|UniqueId=\LNKYODNA\GABJFTRH\QXSCEKJG|Kind=1|AlternatePart= 
+Variation910=Designator=X17B|UniqueId=\KQNEXRBV\BFTVHNXP|Kind=1|AlternatePart= 
+Variation911=Designator=X17A|UniqueId=\KZVLZSMY\BFTVHNXP|Kind=1|AlternatePart= 
+Variation912=Designator=X16|UniqueId=\HFEOLWXN\QYXAZQTW|Kind=1|AlternatePart= 
+Variation913=Designator=X15|UniqueId=\EOKJBQKX\XPZYRPUK|Kind=1|AlternatePart= 
+Variation914=Designator=X14B|UniqueId=\EOKJBQKX\ZTXTPSBQ|Kind=1|AlternatePart= 
+Variation915=Designator=X14|UniqueId=\EOKJBQKX\WKUFVYRQ|Kind=1|AlternatePart= 
+Variation916=Designator=X13|UniqueId=\LNKYODNA\TLNOSMBB\ZDNFJIBA|Kind=1|AlternatePart= 
+Variation917=Designator=U13|UniqueId=\HFEOLWXN\HFNWAOHI|Kind=1|AlternatePart= 
+Variation918=Designator=C158|UniqueId=\RDIXJSCV\NPPPOWLX|Kind=1|AlternatePart= 
+Variation919=Designator=C153|UniqueId=\GDJTJOPP\WIMDJZWB\LGMCBQGX|Kind=1|AlternatePart= 
+Variation920=Designator=C159|UniqueId=\RDIXJSCV\ONVWPKZD|Kind=1|AlternatePart= 
+Variation921=Designator=C156|UniqueId=\GDJTJOPP\WIMDJZWB\CNFBRZVH|Kind=1|AlternatePart= 
+Variation922=Designator=C151|UniqueId=\RDIXJSCV\TFTCJSAW|Kind=1|AlternatePart= 
+Variation923=Designator=C155|UniqueId=\GDJTJOPP\WIMDJZWB\DDOSTQJT|Kind=1|AlternatePart= 
+Variation924=Designator=C154|UniqueId=\GDJTJOPP\WIMDJZWB\EYWCRCBX|Kind=1|AlternatePart= 
+Variation925=Designator=C150|UniqueId=\RDIXJSCV\MFUOZHKN|Kind=1|AlternatePart= 
+Variation926=Designator=C152|UniqueId=\RDIXJSCV\TTGVDNIZ|Kind=1|AlternatePart= 
+Variation927=Designator=C160|UniqueId=\GDJTJOPP\WIMDJZWB\FBIFZMML|Kind=1|AlternatePart= 
+Variation928=Designator=C157|UniqueId=\RDIXJSCV\MZSUYHDK|Kind=1|AlternatePart= 
+Variation929=Designator=C161|UniqueId=\GDJTJOPP\WIMDJZWB\ILNLUBGY|Kind=1|AlternatePart= 
+Variation930=Designator=D3|UniqueId=\DSZVNOFL\JMWRQNLI\HBQDDOML|Kind=1|AlternatePart= 
+Variation931=Designator=D4D|UniqueId=\GDJTJOPP\4FYUGHYFG\MEZBCUHZ|Kind=1|AlternatePart= 
+Variation932=Designator=D2|UniqueId=\DSZVNOFL\JMWRQNLI\NFCVDIVK|Kind=1|AlternatePart= 
+Variation933=Designator=D4A|UniqueId=\GDJTJOPP\1FYUGHYFG\MEZBCUHZ|Kind=1|AlternatePart= 
+Variation934=Designator=D5B|UniqueId=\LNKYODNA\EYVZQQPN\ISPMXPYG|Kind=1|AlternatePart= 
+Variation935=Designator=D7B|UniqueId=\LNKYODNA\EYVZQQPN\WCOIDRIK|Kind=1|AlternatePart= 
+Variation936=Designator=D7A|UniqueId=\LNKYODNA\CGKLFIVQ\WCOIDRIK|Kind=1|AlternatePart= 
+Variation937=Designator=D4C|UniqueId=\GDJTJOPP\3FYUGHYFG\MEZBCUHZ|Kind=1|AlternatePart= 
+Variation938=Designator=D6A|UniqueId=\LNKYODNA\CGKLFIVQ\VEEWSBDB|Kind=1|AlternatePart= 
+Variation939=Designator=D5A|UniqueId=\LNKYODNA\CGKLFIVQ\ISPMXPYG|Kind=1|AlternatePart= 
+Variation940=Designator=D4E|UniqueId=\GDJTJOPP\5FYUGHYFG\MEZBCUHZ|Kind=1|AlternatePart= 
+Variation941=Designator=D1|UniqueId=\DSZVNOFL\JMWRQNLI\SFFPBAFE|Kind=1|AlternatePart= 
+Variation942=Designator=D4B|UniqueId=\GDJTJOPP\2FYUGHYFG\MEZBCUHZ|Kind=1|AlternatePart= 
+Variation943=Designator=D6B|UniqueId=\LNKYODNA\EYVZQQPN\VEEWSBDB|Kind=1|AlternatePart= 
+Variation944=Designator=D10|UniqueId=\ZWVYQITM\NCFTKWWX|Kind=1|AlternatePart= 
+Variation945=Designator=D14|UniqueId=\LNKYODNA\TVCGAKXK\FTBVXJOO|Kind=1|AlternatePart= 
+Variation946=Designator=D17B|UniqueId=\XNHGUPXE\LDBGVZWU\AJZMCKMB|Kind=1|AlternatePart= 
+Variation947=Designator=D16|UniqueId=\XNHGUPXE\HCCJZVSC|Kind=1|AlternatePart= 
+Variation948=Designator=D15|UniqueId=\LNKYODNA\TVCGAKXK\TMHRLVQQ|Kind=1|AlternatePart= 
+Variation949=Designator=D20|UniqueId=\LNKYODNA\TLNOSMBB\OSGRYWHA|Kind=1|AlternatePart= 
+Variation950=Designator=D22|UniqueId=\EOKJBQKX\WOXIZWTZ|Kind=1|AlternatePart= 
+Variation951=Designator=D18|UniqueId=\XNHGUPXE\LHZXDSHS|Kind=1|AlternatePart= 
+Variation952=Designator=D19|UniqueId=\LNKYODNA\TLNOSMBB\TYCUFVVS|Kind=1|AlternatePart= 
+Variation953=Designator=L7|UniqueId=\ZWVYQITM\IJVACGOQ|Kind=1|AlternatePart= 
+Variation954=Designator=L6|UniqueId=\ZWVYQITM\TGIEFGDS|Kind=1|AlternatePart= 
+Variation955=Designator=L11B|UniqueId=\XNHGUPXE\LDBGVZWU\LTJNMKIQ|Kind=1|AlternatePart= 
+Variation956=Designator=D24A|UniqueId=\LNKYODNA\1EQJGKDAD\LNCAASAU|Kind=1|AlternatePart= 
+Variation957=Designator=D17A|UniqueId=\XNHGUPXE\XGOIVWES\AJZMCKMB|Kind=1|AlternatePart= 
+Variation958=Designator=L9|UniqueId=\RDIXJSCV\AJBHXAMK|Kind=1|AlternatePart= 
+Variation959=Designator=L2|UniqueId=\GDJTJOPP\APHJHNRL\ZPPYXMJX|Kind=1|AlternatePart= 
+Variation960=Designator=L5B|UniqueId=\LNKYODNA\EYVZQQPN\BCTUJOSR|Kind=1|AlternatePart= 
+Variation961=Designator=L5A|UniqueId=\LNKYODNA\CGKLFIVQ\BCTUJOSR|Kind=1|AlternatePart= 
+Variation962=Designator=D25|UniqueId=\DSZVNOFL\JMWRQNLI\DVJJPASU|Kind=1|AlternatePart= 
+Variation963=Designator=D11|UniqueId=\ZWVYQITM\LBMCXRUG|Kind=1|AlternatePart= 
+Variation964=Designator=D27A|UniqueId=\LNKYODNA\TLNOSMBB\VRLXMOEE\GHVTUNFS|Kind=1|AlternatePart= 
+Variation965=Designator=D27C|UniqueId=\LNKYODNA\TLNOSMBB\SACLFONO\GHVTUNFS|Kind=1|AlternatePart= 
+Variation966=Designator=D24B|UniqueId=\LNKYODNA\2EQJGKDAD\LNCAASAU|Kind=1|AlternatePart= 
+Variation967=Designator=F1|UniqueId=\EOKJBQKX\LUMFPQTM|Kind=1|AlternatePart= 
+Variation968=Designator=D12|UniqueId=\ZWVYQITM\IFUQOSMF|Kind=1|AlternatePart= 
+Variation969=Designator=D24C|UniqueId=\LNKYODNA\3EQJGKDAD\LNCAASAU|Kind=1|AlternatePart= 
+Variation970=Designator=J2|UniqueId=\DSZVNOFL\JMWRQNLI\CURVYMFC|Kind=1|AlternatePart= 
+Variation971=Designator=J1|UniqueId=\DSZVNOFL\PISDBFRV\ITOCBFVF|Kind=1|AlternatePart= 
+Variation972=Designator=D23|UniqueId=\EOKJBQKX\QYDHRTYL|Kind=1|AlternatePart= 
+Variation973=Designator=D21|UniqueId=\LNKYODNA\GABJFTRH\CPVHNLSH|Kind=1|AlternatePart= 
+Variation974=Designator=D24D|UniqueId=\LNKYODNA\4EQJGKDAD\LNCAASAU|Kind=1|AlternatePart= 
+Variation975=Designator=J4|UniqueId=\DSZVNOFL\UEKCIFFV\HXLRSYCV|Kind=1|AlternatePart= 
+Variation976=Designator=L1|UniqueId=\DSZVNOFL\IFOIGUWA\KNDMPQDQ|Kind=1|AlternatePart= 
+Variation977=Designator=D27B|UniqueId=\LNKYODNA\TLNOSMBB\EUZPSHAK\GHVTUNFS|Kind=1|AlternatePart= 
+Variation978=Designator=J3|UniqueId=\DSZVNOFL\IFOIGUWA\UQDBAHYV|Kind=1|AlternatePart= 
+Variation979=Designator=L12B|UniqueId=\XNHGUPXE\LDBGVZWU\KTUCYQYD|Kind=1|AlternatePart= 
+Variation980=Designator=L4|UniqueId=\PRYVHNCG\OZWKETRX|Kind=1|AlternatePart= 
+Variation981=Designator=L11A|UniqueId=\XNHGUPXE\XGOIVWES\LTJNMKIQ|Kind=1|AlternatePart= 
+Variation982=Designator=L10|UniqueId=\RDIXJSCV\ONASDQCA|Kind=1|AlternatePart= 
+Variation983=Designator=L3|UniqueId=\PRYVHNCG\ZEXYAAYO|Kind=1|AlternatePart= 
+Variation984=Designator=L8|UniqueId=\ZWVYQITM\HDICSKOT|Kind=1|AlternatePart= 
+Variation985=Designator=L12A|UniqueId=\XNHGUPXE\XGOIVWES\KTUCYQYD|Kind=1|AlternatePart= 
+Variation986=Designator=R7|UniqueId=\DSZVNOFL\JMWRQNLI\WGDKXOBD|Kind=1|AlternatePart= 
+Variation987=Designator=R29A|UniqueId=\LNKYODNA\GABJFTRH\1CKTLWLZK\CGVRJXWX|Kind=1|AlternatePart= 
+Variation988=Designator=R3|UniqueId=\DSZVNOFL\JMWRQNLI\UPOFLKAS|Kind=1|AlternatePart= 
+Variation989=Designator=R10|UniqueId=\DSZVNOFL\JMWRQNLI\SDDVJDJX|Kind=1|AlternatePart= 
+Variation990=Designator=PM1|UniqueId=\BOHGZBCD|Kind=1|AlternatePart= 
+Variation991=Designator=R14|UniqueId=\DSZVNOFL\JMWRQNLI\SFGSERGL|Kind=1|AlternatePart= 
+Variation992=Designator=PM2|UniqueId=\XGPNJSVZ|Kind=1|AlternatePart= 
+Variation993=Designator=R12|UniqueId=\DSZVNOFL\JMWRQNLI\NOACHEQE|Kind=1|AlternatePart= 
+Variation994=Designator=R20|UniqueId=\DSZVNOFL\JMWRQNLI\NILHXRJD|Kind=1|AlternatePart= 
+Variation995=Designator=PM4|UniqueId=\MJWCILIS|Kind=1|AlternatePart= 
+Variation996=Designator=R15|UniqueId=\DSZVNOFL\JMWRQNLI\YFVAWLAC|Kind=1|AlternatePart= 
+Variation997=Designator=R1|UniqueId=\RDIXJSCV\PHFHGUYK|Kind=1|AlternatePart= 
+Variation998=Designator=R18|UniqueId=\DSZVNOFL\JMWRQNLI\HDTPMYKN|Kind=1|AlternatePart= 
+Variation999=Designator=R4|UniqueId=\DSZVNOFL\JMWRQNLI\CQJEJJNQ|Kind=1|AlternatePart= 
+Variation1000=Designator=PM6|UniqueId=\XPMFHJTU|Kind=1|AlternatePart= 
+Variation1001=Designator=R2|UniqueId=\DSZVNOFL\JMWRQNLI\NIAXLIXA|Kind=1|AlternatePart= 
+Variation1002=Designator=R11|UniqueId=\DSZVNOFL\JMWRQNLI\IIJGWPYN|Kind=1|AlternatePart= 
+Variation1003=Designator=R21|UniqueId=\DSZVNOFL\JMWRQNLI\QNKJQECE|Kind=1|AlternatePart= 
+Variation1004=Designator=R22|UniqueId=\DSZVNOFL\JMWRQNLI\UQEJYXDS|Kind=1|AlternatePart= 
+Variation1005=Designator=R8|UniqueId=\DSZVNOFL\JMWRQNLI\RMRPPMYY|Kind=1|AlternatePart= 
+Variation1006=Designator=R24|UniqueId=\DSZVNOFL\JMWRQNLI\BGYXOJTW|Kind=1|AlternatePart= 
+Variation1007=Designator=R23|UniqueId=\DSZVNOFL\JMWRQNLI\FPETEMEY|Kind=1|AlternatePart= 
+Variation1008=Designator=R6|UniqueId=\DSZVNOFL\JMWRQNLI\FXKUVEVT|Kind=1|AlternatePart= 
+Variation1009=Designator=R25|UniqueId=\DSZVNOFL\JMWRQNLI\LMAKKDPQ|Kind=1|AlternatePart= 
+Variation1010=Designator=R28B|UniqueId=\LNKYODNA\GABJFTRH\2CKTLWLZK\BPRVTNTI|Kind=1|AlternatePart= 
+Variation1011=Designator=R9|UniqueId=\DSZVNOFL\JMWRQNLI\TQYONBET|Kind=1|AlternatePart= 
+Variation1012=Designator=PM5|UniqueId=\TOBTCHRT|Kind=1|AlternatePart= 
+Variation1013=Designator=R28C|UniqueId=\LNKYODNA\GABJFTRH\3CKTLWLZK\BPRVTNTI|Kind=1|AlternatePart= 
+Variation1014=Designator=R28D|UniqueId=\LNKYODNA\GABJFTRH\4CKTLWLZK\BPRVTNTI|Kind=1|AlternatePart= 
+Variation1015=Designator=R28A|UniqueId=\LNKYODNA\GABJFTRH\1CKTLWLZK\BPRVTNTI|Kind=1|AlternatePart= 
+Variation1016=Designator=R5|UniqueId=\DSZVNOFL\JMWRQNLI\SFIPPRBB|Kind=1|AlternatePart= 
+Variation1017=Designator=R16|UniqueId=\DSZVNOFL\JMWRQNLI\TEITEXVK|Kind=1|AlternatePart= 
+Variation1018=Designator=PM3|UniqueId=\MXNRGGDT|Kind=1|AlternatePart= 
+Variation1019=Designator=R17|UniqueId=\DSZVNOFL\JMWRQNLI\TBVXYLOI|Kind=1|AlternatePart= 
+Variation1020=Designator=R13|UniqueId=\DSZVNOFL\JMWRQNLI\BRMPRCUS|Kind=1|AlternatePart= 
+Variation1021=Designator=X5A|UniqueId=\GDJTJOPP\1FUJJHQAH\XTWSAAVS|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_CarrierBoard\BOM\BOM_UZ_CarrierBoard_Rev05 - Mechanical Test.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Pick Place\PickPlace_UZ_CarrierBoard_Rev05 - Mechanical Test.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Pick Place\PickPlace_UZ_CarrierBoard_Rev05 - Mechanical Test.txt
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for UZ_CarrierBoard\NC Drill\UZ_CarrierBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.G3
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.G4
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for UZ_CarrierBoard\NC Drill\UZ_CarrierBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for UZ_CarrierBoard\Gerber\UZ_CarrierBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for UZ_CarrierBoard\NC Drill\UZ_CarrierBoard.TXT
+DItemRevisionGUID=
+
 [Parameter1]
-Name=AuthorParam
-Value=A. Geiger & E. Liegmann
+Name=
+Value=
 
 [Parameter2]
-Name=Project
-Value=UZ_CarrierBoard
+Name=ProjectRevision
+Value=05 - Mechanical Test
 
 [Parameter3]
 Name=ProjectDate
-Value=03/2021
+Value=07/2024
 
 [Parameter4]
-Name=ProjectRevision
-Value=04
+Name=Project
+Value=UZ_CarrierBoard
+
+[Parameter5]
+Name=AuthorParam
+Value=Martin & Eyke
 
 [Configuration1]
 Name=Default Configuration
@@ -6265,12 +7386,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=OKI B432(PS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -6961,6 +8112,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -7190,6 +8343,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

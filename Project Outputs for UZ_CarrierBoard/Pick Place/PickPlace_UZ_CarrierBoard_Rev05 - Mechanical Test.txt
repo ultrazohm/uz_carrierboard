@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UZ_CarrierBoard\Pick Place\PickPlace_UZ_CarrierBoard_Rev05 - Mechanical Test.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16.07.24
+Time:       21:28
+Revision:   f4dd6744dedd5a6ccf731090a12374331c2923aa
+Variant:    Rev05_Mech_Test
+Units used: mm
+
+Designator Comment             Layer    Footprint         Center-X(mm) Center-Y(mm) Rotation Description                                                              
+X5A        HTEC8-140-01-L-DV-K TopLayer HTEC8-140-XX-X-DV 22.7600      13.4532      180      "Headers & Wire Housings 0.80 mm Rugged High-Speed Edge Card Connectors" 
+X6A        HTEC8-150-01-L-DV-K TopLayer HTEC8-150-XX-X-DV 76.5600      13.4532      180      "HTEC8-150-01-L-DV-K mating connector for card layout"                   

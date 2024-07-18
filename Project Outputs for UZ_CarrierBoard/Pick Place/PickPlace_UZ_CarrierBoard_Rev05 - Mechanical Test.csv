@@ -1,14 +1,14 @@
 Altium Designer Pick and Place Locations
-C:\Users\ga92wum\git\UltraZohm\PCB\UZ_carrier_board\Project Outputs for UZ_CarrierBoard\Pick Place\PickPlace_UZ_CarrierBoard_Rev05 - Mechanical Test.csv
+C:\altium\uz_carrierboard\Project Outputs for UZ_CarrierBoard\Pick Place\PickPlace_UZ_CarrierBoard_Rev05 - Mechanical Test.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       16.07.24
-Time:       21:44
-Revision:   f4dd6744dedd5a6ccf731090a12374331c2923aa
+Date:       18.07.24
+Time:       13:49
+Revision:   d372f6a3046a8825dc51c7ee47053b68dedf0742
 Variant:    Rev05_Mech_Test
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"X6A","HTEC8-150-01-L-DV-K","TopLayer","HTEC8-150-XX-X-DV","76.5600","13.4532","180","HTEC8-150-01-L-DV-K mating connector for card layout"
+"X6A","HTEC8-150-01-L-DV-K","TopLayer","HTEC8-150-XX-X-DV","76.5600","13.7266","180","HTEC8-150-01-L-DV-K mating connector for card layout"

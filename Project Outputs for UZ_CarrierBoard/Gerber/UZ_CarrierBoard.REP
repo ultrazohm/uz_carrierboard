@@ -2,177 +2,6 @@
 FileName = UZ_CarrierBoard.GBR
 AutoAperture = True
 *************************************************************
-Generating : PCB-Outline
-      File : UZ_CarrierBoard.GM6
-
-    Adding Layer      : PCB-Outline
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : UZ_CarrierBoard.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D98
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-*************************************************************
-
-*************************************************************
-Generating : L02_GND
-      File : UZ_CarrierBoard.G1
-
-    Adding Layer      : L02_GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D62
-    D104
-    D105
-    D106
-    D107
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : L03_Sig
-      File : UZ_CarrierBoard.G2
-
-    Adding Layer      : L03_Sig
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D16
-    D18
-    D20
-    D62
-    D104
-    D105
-    D107
-*************************************************************
-
-*************************************************************
-Generating : L04_Sig
-      File : UZ_CarrierBoard.G3
-
-    Adding Layer      : L04_Sig
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D16
-    D19
-    D20
-    D62
-    D97
-    D104
-    D105
-    D106
-    D107
-    D111
-    D112
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : UZ_CarrierBoard.GBP
 
@@ -211,60 +40,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : UZ_CarrierBoard.GBO
+Generating : Bottom Solder
+      File : UZ_CarrierBoard.GBS
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D20
-    D21
-    D25
-    D26
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Dim-Top
-      File : UZ_CarrierBoard.GM1
-
-    Adding Layer      : Dim-Top
-
-
-Used DCodes :
-    D11
-    D127
-*************************************************************
-
-*************************************************************
-Generating : L05_VCC
-      File : UZ_CarrierBoard.G4
-
-    Adding Layer      : L05_VCC
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D16
-    D19
-    D62
-    D107
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : UZ_CarrierBoard.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -272,22 +51,12 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D12
-    D15
-    D16
-    D18
-    D19
-    D20
-    D26
     D27
     D28
     D32
     D44
-    D56
     D62
     D64
-    D78
     D79
     D83
     D85
@@ -296,7 +65,10 @@ Used DCodes :
     D89
     D90
     D93
+    D97
     D98
+    D99
+    D103
     D104
     D105
     D106
@@ -313,121 +85,10 @@ Used DCodes :
     D117
     D118
     D119
-    D120
     D121
     D122
     D123
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : UZ_CarrierBoard.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : UZ_CarrierBoard.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
+    D124
 *************************************************************
 
 *************************************************************
@@ -528,12 +189,12 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : UZ_CarrierBoard.GBS
+Generating : Top Paste
+      File : UZ_CarrierBoard.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -541,10 +202,264 @@ Generating : Bottom Solder
 Used DCodes :
     D27
     D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UZ_CarrierBoard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : L03_Sig
+      File : UZ_CarrierBoard.G2
+
+    Adding Layer      : L03_Sig
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D18
+    D20
+    D62
+    D104
+    D105
+    D107
+*************************************************************
+
+*************************************************************
+Generating : L02_GND
+      File : UZ_CarrierBoard.G1
+
+    Adding Layer      : L02_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D104
+    D105
+    D106
+    D107
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : UZ_CarrierBoard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D98
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UZ_CarrierBoard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+    D16
+    D18
+    D19
+    D20
+    D26
+    D27
+    D28
     D32
     D44
+    D56
     D62
     D64
+    D78
     D79
     D83
     D85
@@ -553,10 +468,7 @@ Used DCodes :
     D89
     D90
     D93
-    D97
     D98
-    D99
-    D103
     D104
     D105
     D106
@@ -573,9 +485,97 @@ Used DCodes :
     D117
     D118
     D119
+    D120
     D121
     D122
     D123
-    D124
+*************************************************************
+
+*************************************************************
+Generating : PCB-Outline
+      File : UZ_CarrierBoard.GM6
+
+    Adding Layer      : PCB-Outline
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Dim-Top
+      File : UZ_CarrierBoard.GM1
+
+    Adding Layer      : Dim-Top
+
+
+Used DCodes :
+    D11
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_CarrierBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D20
+    D21
+    D25
+    D26
+    D126
+*************************************************************
+
+*************************************************************
+Generating : L05_VCC
+      File : UZ_CarrierBoard.G4
+
+    Adding Layer      : L05_VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D19
+    D62
+    D107
+    D109
+*************************************************************
+
+*************************************************************
+Generating : L04_Sig
+      File : UZ_CarrierBoard.G3
+
+    Adding Layer      : L04_Sig
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D19
+    D20
+    D62
+    D97
+    D104
+    D105
+    D106
+    D107
+    D111
+    D112
 *************************************************************
 

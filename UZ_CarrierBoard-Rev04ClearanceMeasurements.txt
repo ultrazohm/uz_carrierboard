@@ -1,0 +1,14 @@
+Hole-to-copper clearance per layer (w/ reference):
+- L1
+  - Small(?) holes: 0.2mm (X4-MH1 and -S1, X2-11)
+  - Vias: 0.2mm (at signal) and 0.25mm (at power)
+  - Mounting holes: 1mm (hole at 25.2mm, 125.5mm)
+- L2: Cf. L1
+- L3
+  - Small(?) holes: 0.25mm
+  - Vias: 0.25mm and 0.3mm, respectively (cf. L1)
+  - Mounting holes: 1mm
+  - NB: Rarther large track-to-polygon clearance!
+- L4: Cf. L1
+- L5: Cf. L3
+- L6: Cf. L1

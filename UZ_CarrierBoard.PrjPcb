@@ -2935,11 +2935,11 @@ Value=UZ_CarrierBoard
 
 [Parameter3]
 Name=ProjectDate
-Value=03/2021
+Value=06/2024
 
 [Parameter4]
 Name=ProjectRevision
-Value=04
+Value=05prt
 
 [Configuration1]
 Name=Default Configuration

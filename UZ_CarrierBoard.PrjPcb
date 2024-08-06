@@ -38,8 +38,8 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
+CrossRefSheetStyle=0
+CrossRefLocationStyle=0
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -2692,7 +2692,7 @@ UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
 Description=Rev05
 AllowFabrication=0
 ParameterCount=0
-VariationCount=40
+VariationCount=50
 Variation1=Designator=R75A|UniqueId=\GDJTJOPP\1FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
 Variation2=Designator=R75B|UniqueId=\GDJTJOPP\2FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
 Variation3=Designator=R75C|UniqueId=\GDJTJOPP\3FYUGHYFG\IYXGQQSO|Kind=1|AlternatePart= 
@@ -2923,6 +2923,16 @@ ParamVariation94=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator94=U4E
 ParamVariation95=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator95=U4E
+Variation41=Designator=R?A|UniqueId=\GDJTJOPP\1FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation42=Designator=R?A|UniqueId=\GDJTJOPP\1FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation43=Designator=R?B|UniqueId=\GDJTJOPP\2FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation44=Designator=R?C|UniqueId=\GDJTJOPP\3FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation45=Designator=R?C|UniqueId=\GDJTJOPP\3FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation46=Designator=R?D|UniqueId=\GDJTJOPP\4FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation47=Designator=R?D|UniqueId=\GDJTJOPP\4FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation48=Designator=R?E|UniqueId=\GDJTJOPP\5FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation49=Designator=R?E|UniqueId=\GDJTJOPP\5FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation50=Designator=R?E|UniqueId=\GDJTJOPP\5FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
 ParamVariationCount=95
 
 [Parameter1]
@@ -3095,22 +3105,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=OKI B432(PS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -3203,6 +3203,12 @@ OutputDocumentPath14=
 OutputVariantName14=[No Variations]
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PDF3D MBA
+OutputName15=PDF3D MBA
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -3636,6 +3642,16 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+OutputType11=MBAExportPARASOLID
+OutputName11=Export PARASOLID
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MBAExportSTEP
+OutputName12=Export STEP
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -3785,8 +3801,6 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
-Type137=1
-Type138=1
 
 [Difference Levels]
 Type1=1
@@ -4016,8 +4030,6 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
-Type152=1
-Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -4377,9 +4389,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=TE.DbLib/A_R_1608_0603
-ComponentDesignItemID0=26111
-ComponentSymbolReference0=RES
+ComponentLibraryIdentifier0=TE.DbLib/A_DIODE
+ComponentDesignItemID0=29999
+ComponentSymbolReference0=SCHOTTKY
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -4407,24 +4419,26 @@ ParameterName4=Description
 ParameterUpdate4=1
 ParameterName5=Extra
 ParameterUpdate5=1
-ParameterName6=HelpURL
+ParameterName6=H-ART
 ParameterUpdate6=1
-ParameterName7=Library Reference
+ParameterName7=HelpURL
 ParameterUpdate7=1
-ParameterName8=Mixed
+ParameterName8=Library Reference
 ParameterUpdate8=1
-ParameterName9=Preferred
+ParameterName9=Mixed
 ParameterUpdate9=1
-ParameterName10=Technology
+ParameterName10=Storage-Temperature
 ParameterUpdate10=1
-ParameterName11=Tolerance
+ParameterName11=Temperature-Range
 ParameterUpdate11=1
 ParameterName12=Value
 ParameterUpdate12=1
+ParameterName13=Voltage
+ParameterUpdate13=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RESC1608X55N_V
+ModelName0=SOD3715X145N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

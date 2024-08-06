@@ -1,0 +1,3 @@
+DIG_S3C={Shared:DIG_S3C_Shared},{ofCh1:DIG_S3C_OneCh},{ofCh2:DIG_S3C_OneCh},{ofCh3:DIG_S3C_OneCh},{ofCh4:DIG_S3C_OneCh},{ofCh5:DIG_S3C_OneCh}
+DIG_S3C_OneCh=ChRdy,Spare0
+DIG_S3C_Shared=CarrierRdy,ChErr_OD,Spare[1..0]

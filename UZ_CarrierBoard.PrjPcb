@@ -1121,6 +1121,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
 
+[Document64]
+DocumentPath=Power_Protection_DigitalAndAnalogInterfaces.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=49
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IQWKXYXK
+
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard

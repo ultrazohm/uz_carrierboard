@@ -1,1 +1,7 @@
+ANL_S3C=CarrierReady,SlotOK[1..3]
+FrontpanelIO=FlexMIO27_DP-DTX,FlexMIO28_DP-HPD,FlexMIO29_DP-DOE,FlexMIO30_DP-DRX,FlexMIO52_PCIe-R\S\T\,{isoSigs:isoFlexIOs},{isoCtrl:isoIOsCtrl},ExternalSTOP
+I2C=SCL,SDA
+isoFlexIOs=FlexIO01,FlexIO02,FlexIO03,FlexIO04,FlexIO05
+isoIOsCtrl=R\S\T\,I\N\T\
 JTAG_S3C=TCK,TDI,TDO,TMS,ENB
+S3C_PWRMON=PG_VIN,P\P\_VIN

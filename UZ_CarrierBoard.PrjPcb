@@ -452,7 +452,7 @@ AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -1132,7 +1132,7 @@ AnnotateOrder=49
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -2987,20 +2987,20 @@ Variation50=Designator=R?E|UniqueId=\GDJTJOPP\5FYUGHYFG\IRVFPFWS|Kind=1|Alternat
 ParamVariationCount=95
 
 [Parameter1]
-Name=AuthorParam
-Value=A. Geiger & E. Liegmann
+Name=ProjectRevision
+Value=05prt
 
 [Parameter2]
-Name=Project
-Value=UZ_CarrierBoard
-
-[Parameter3]
 Name=ProjectDate
 Value=06/2024
 
+[Parameter3]
+Name=Project
+Value=UZ_CarrierBoard
+
 [Parameter4]
-Name=ProjectRevision
-Value=05prt
+Name=AuthorParam
+Value=A. Geiger & E. Liegmann
 
 [Configuration1]
 Name=Default Configuration

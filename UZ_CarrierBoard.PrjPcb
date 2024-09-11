@@ -452,7 +452,7 @@ AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -612,23 +612,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=Pilot_Line.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=34
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VUQONSMN
-
-[Document35]
 DocumentPath=Board2Board.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=Signal_Distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=J3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=Power_Supply_1V8.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -696,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRUMMABL
 
-[Document39]
+[Document38]
 DocumentPath=Trenz_Outputs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=J2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=SD_Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=ETH-PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=J1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=GTH.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -798,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEIJRMZE
 
-[Document45]
+[Document44]
 DocumentPath=LevelShifting.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -815,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEPEWSEJ
 
-[Document46]
+[Document45]
 DocumentPath=GTH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -832,7 +815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=J4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -849,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=FrontPanel.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -866,7 +849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWODMOIV
 
-[Document49]
+[Document48]
 DocumentPath=Library\UltraZOhm_CarrierBoard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -883,7 +866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANHXDAYL
 
-[Document50]
+[Document49]
 DocumentPath=GTR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -900,7 +883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=XMOD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -917,7 +900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -934,7 +917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=isoJTAG.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -951,7 +934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDSZNSWM
 
-[Document54]
+[Document53]
 DocumentPath=isoJTAG-FTDI.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -968,7 +951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZXHCYPLQ
 
-[Document55]
+[Document54]
 DocumentPath=isoJTAG-FTDI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -985,7 +968,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=isoJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1002,7 +985,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=isoJTAG-Isolation.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1019,7 +1002,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDJRIZAW
 
-[Document58]
+[Document57]
 DocumentPath=isoJTAG-Isolation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1036,7 +1019,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=I2C0_Mux.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1053,7 +1036,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=XMOD_Frontpanel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1070,7 +1053,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=S3C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1087,7 +1070,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=DIG_S3C_MultiChannelFunnel.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1104,7 +1087,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOYCFJWQ
 
-[Document63]
+[Document62]
 DocumentPath=DIG_S3C_MultiChannelFunnel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1121,7 +1104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=Block_Diagram_Safety.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1137,6 +1120,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
+
+[Document64]
+DocumentPath=Power_Protection_DigitalAndAnalogInterfaces.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=49
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IQWKXYXK
 
 [ProjectVariant1]
 UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
@@ -2987,20 +2987,20 @@ Variation50=Designator=R?E|UniqueId=\GDJTJOPP\5FYUGHYFG\IRVFPFWS|Kind=1|Alternat
 ParamVariationCount=95
 
 [Parameter1]
-Name=AuthorParam
-Value=A. Geiger & E. Liegmann
+Name=ProjectRevision
+Value=05prt
 
 [Parameter2]
-Name=Project
-Value=UZ_CarrierBoard
-
-[Parameter3]
 Name=ProjectDate
 Value=06/2024
 
+[Parameter3]
+Name=Project
+Value=UZ_CarrierBoard
+
 [Parameter4]
-Name=ProjectRevision
-Value=05prt
+Name=AuthorParam
+Value=A. Geiger & E. Liegmann
 
 [Configuration1]
 Name=Default Configuration

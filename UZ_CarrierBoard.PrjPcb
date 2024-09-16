@@ -1313,7 +1313,7 @@ UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
+VariationCount=14
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1321,14 +1321,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R210
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -1378,7 +1377,7 @@ UniqueID=B0644C3E-A894-4079-A321-638D395E5463
 Description=B
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=17
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1386,14 +1385,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator1=U10
 ParamVariation2=ParameterName=AN|VariantValue=30863
@@ -1426,7 +1424,7 @@ ParamVariation15=ParameterName=Pin Info|VariantValue=
 ParamDesignator15=U10
 ParamVariation16=ParameterName=Simulation|VariantValue= 
 ParamDesignator16=U10
-Variation16=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator17=U11
 ParamVariation18=ParameterName=AN|VariantValue=30863
@@ -1459,7 +1457,7 @@ ParamVariation31=ParameterName=Pin Info|VariantValue=
 ParamDesignator31=U11
 ParamVariation32=ParameterName=Simulation|VariantValue= 
 ParamDesignator32=U11
-Variation17=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator33=U12
 ParamVariation34=ParameterName=AN|VariantValue=30863
@@ -1492,7 +1490,7 @@ ParamVariation47=ParameterName=Pin Info|VariantValue=
 ParamDesignator47=U12
 ParamVariation48=ParameterName=Simulation|VariantValue= 
 ParamDesignator48=U12
-Variation18=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation49=ParameterName=Comment|VariantValue==Value
 ParamDesignator49=R210
 ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
@@ -1542,7 +1540,7 @@ UniqueID=412DDEC4-E638-4BD2-BB0C-7E37E9052667
 Description=C
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=17
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1550,14 +1548,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator1=U10
 ParamVariation2=ParameterName=AN|VariantValue=30863
@@ -1590,7 +1587,7 @@ ParamVariation15=ParameterName=Pin Info|VariantValue=
 ParamDesignator15=U10
 ParamVariation16=ParameterName=Simulation|VariantValue= 
 ParamDesignator16=U10
-Variation16=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator17=U11
 ParamVariation18=ParameterName=AN|VariantValue=30863
@@ -1623,7 +1620,7 @@ ParamVariation31=ParameterName=Pin Info|VariantValue=
 ParamDesignator31=U11
 ParamVariation32=ParameterName=Simulation|VariantValue= 
 ParamDesignator32=U11
-Variation17=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator33=U12
 ParamVariation34=ParameterName=AN|VariantValue=30863
@@ -1656,7 +1653,7 @@ ParamVariation47=ParameterName=Pin Info|VariantValue=
 ParamDesignator47=U12
 ParamVariation48=ParameterName=Simulation|VariantValue= 
 ParamDesignator48=U12
-Variation18=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation49=ParameterName=Comment|VariantValue==Value
 ParamDesignator49=R210
 ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
@@ -1706,7 +1703,7 @@ UniqueID=72CBA8BF-1787-4EE4-BF96-7F94AD38BFE8
 Description=S001
 AllowFabrication=0
 ParameterCount=0
-VariationCount=23
+VariationCount=22
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1714,14 +1711,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator1=U10
 ParamVariation2=ParameterName=AN|VariantValue=30863
@@ -1754,7 +1750,7 @@ ParamVariation15=ParameterName=Pin Info|VariantValue=
 ParamDesignator15=U10
 ParamVariation16=ParameterName=Simulation|VariantValue= 
 ParamDesignator16=U10
-Variation16=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator17=U11
 ParamVariation18=ParameterName=AN|VariantValue=30863
@@ -1787,7 +1783,7 @@ ParamVariation31=ParameterName=Pin Info|VariantValue=
 ParamDesignator31=U11
 ParamVariation32=ParameterName=Simulation|VariantValue= 
 ParamDesignator32=U11
-Variation17=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator33=U12
 ParamVariation34=ParameterName=AN|VariantValue=30863
@@ -1820,7 +1816,7 @@ ParamVariation47=ParameterName=Pin Info|VariantValue=
 ParamDesignator47=U12
 ParamVariation48=ParameterName=Simulation|VariantValue= 
 ParamDesignator48=U12
-Variation18=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation17=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation49=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator49=U4A
 ParamVariation50=ParameterName=AN|VariantValue=31885
@@ -1859,7 +1855,7 @@ ParamVariation66=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator66=U4A
 ParamVariation67=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator67=U4A
-Variation19=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation18=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation68=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator68=U4B
 ParamVariation69=ParameterName=AN|VariantValue=31885
@@ -1898,7 +1894,7 @@ ParamVariation85=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator85=U4B
 ParamVariation86=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator86=U4B
-Variation20=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation19=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation87=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator87=U4C
 ParamVariation88=ParameterName=AN|VariantValue=31885
@@ -1937,7 +1933,7 @@ ParamVariation104=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator104=U4C
 ParamVariation105=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator105=U4C
-Variation21=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation20=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation106=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator106=U4D
 ParamVariation107=ParameterName=AN|VariantValue=31885
@@ -1976,7 +1972,7 @@ ParamVariation123=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator123=U4D
 ParamVariation124=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator124=U4D
-Variation22=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation21=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation125=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator125=U4E
 ParamVariation126=ParameterName=AN|VariantValue=31885
@@ -2015,7 +2011,7 @@ ParamVariation142=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator142=U4E
 ParamVariation143=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator143=U4E
-Variation23=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation22=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation144=ParameterName=Comment|VariantValue==Value
 ParamDesignator144=R210
 ParamVariation145=ParameterName=Component Kind|VariantValue=Standard
@@ -2065,7 +2061,7 @@ UniqueID=4AC7C0EB-12FE-41D1-8ECD-56B7DA787FAB
 Description=S002
 AllowFabrication=0
 ParameterCount=0
-VariationCount=23
+VariationCount=22
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -2073,14 +2069,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator1=U4A
 ParamVariation2=ParameterName=AN|VariantValue=31885
@@ -2119,7 +2114,7 @@ ParamVariation18=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator18=U4A
 ParamVariation19=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator19=U4A
-Variation16=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation15=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation20=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator20=U4B
 ParamVariation21=ParameterName=AN|VariantValue=31885
@@ -2158,7 +2153,7 @@ ParamVariation37=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator37=U4B
 ParamVariation38=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator38=U4B
-Variation17=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation16=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation39=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator39=U4C
 ParamVariation40=ParameterName=AN|VariantValue=31885
@@ -2197,7 +2192,7 @@ ParamVariation56=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator56=U4C
 ParamVariation57=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator57=U4C
-Variation18=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation17=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation58=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator58=U4D
 ParamVariation59=ParameterName=AN|VariantValue=31885
@@ -2236,7 +2231,7 @@ ParamVariation75=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator75=U4D
 ParamVariation76=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator76=U4D
-Variation19=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation18=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation77=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator77=U4E
 ParamVariation78=ParameterName=AN|VariantValue=31885
@@ -2275,7 +2270,7 @@ ParamVariation94=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator94=U4E
 ParamVariation95=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator95=U4E
-Variation20=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation19=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation96=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator96=U10
 ParamVariation97=ParameterName=AN|VariantValue=30863
@@ -2310,7 +2305,7 @@ ParamVariation111=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator111=U10
 ParamVariation112=ParameterName=Simulation|VariantValue= 
 ParamDesignator112=U10
-Variation21=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation20=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation113=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator113=U11
 ParamVariation114=ParameterName=AN|VariantValue=30863
@@ -2345,7 +2340,7 @@ ParamVariation128=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator128=U11
 ParamVariation129=ParameterName=Simulation|VariantValue= 
 ParamDesignator129=U11
-Variation22=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation21=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation130=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator130=U12
 ParamVariation131=ParameterName=AN|VariantValue=30863
@@ -2380,7 +2375,7 @@ ParamVariation145=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator145=U12
 ParamVariation146=ParameterName=Simulation|VariantValue= 
 ParamDesignator146=U12
-Variation23=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation22=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation147=ParameterName=Comment|VariantValue==Value
 ParamDesignator147=R210
 ParamVariation148=ParameterName=Component Kind|VariantValue=Standard
@@ -2430,7 +2425,7 @@ UniqueID=95454976-79B8-4E66-9AF1-267D6CA64A86
 Description=S003
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=21
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -2438,14 +2433,13 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator1=U4A
 ParamVariation2=ParameterName=AN|VariantValue=31885
@@ -2484,7 +2478,7 @@ ParamVariation18=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator18=U4A
 ParamVariation19=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator19=U4A
-Variation16=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation15=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation20=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator20=U4B
 ParamVariation21=ParameterName=AN|VariantValue=31885
@@ -2523,7 +2517,7 @@ ParamVariation37=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator37=U4B
 ParamVariation38=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator38=U4B
-Variation17=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation16=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation39=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator39=U4C
 ParamVariation40=ParameterName=AN|VariantValue=31885
@@ -2562,7 +2556,7 @@ ParamVariation56=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator56=U4C
 ParamVariation57=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator57=U4C
-Variation18=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation17=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation58=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator58=U4D
 ParamVariation59=ParameterName=AN|VariantValue=31885
@@ -2601,7 +2595,7 @@ ParamVariation75=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator75=U4D
 ParamVariation76=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator76=U4D
-Variation19=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
+Variation18=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
 ParamVariation77=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
 ParamDesignator77=U4E
 ParamVariation78=ParameterName=AN|VariantValue=31885
@@ -2640,7 +2634,7 @@ ParamVariation94=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
 ParamDesignator94=U4E
 ParamVariation95=ParameterName=Trenz-Stock|VariantValue=Yes
 ParamDesignator95=U4E
-Variation20=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation19=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation96=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator96=U10
 ParamVariation97=ParameterName=AN|VariantValue=30863
@@ -2675,7 +2669,7 @@ ParamVariation111=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator111=U10
 ParamVariation112=ParameterName=Simulation|VariantValue= 
 ParamDesignator112=U10
-Variation21=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation20=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation113=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator113=U11
 ParamVariation114=ParameterName=AN|VariantValue=30863
@@ -2710,7 +2704,7 @@ ParamVariation128=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator128=U11
 ParamVariation129=ParameterName=Simulation|VariantValue= 
 ParamDesignator129=U11
-Variation22=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+Variation21=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
 ParamVariation130=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
 ParamDesignator130=U12
 ParamVariation131=ParameterName=AN|VariantValue=30863
@@ -2752,7 +2746,7 @@ UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
 Description=Rev05
 AllowFabrication=0
 ParameterCount=0
-VariationCount=36
+VariationCount=43
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -2760,15 +2754,14 @@ Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart=
 Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
 Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
 Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R97H|UniqueId=\HFEOLWXN\RTXOFCDV|Kind=1|AlternatePart= 
-Variation9=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation10=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation11=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation12=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation13=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=R200C|UniqueId=\SSLHFLSR\PCBBJJMR\SAWAFHVG|Kind=1|AlternatePart= 
-Variation16=Designator=R203C|UniqueId=\SSLHFLSR\PCBBJJMR\CHHBYINB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
+Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
+Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
+Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
+Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
+Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
+Variation14=Designator=R200C|UniqueId=\SSLHFLSR\PCBBJJMR\SAWAFHVG|Kind=1|AlternatePart= 
+Variation15=Designator=R203C|UniqueId=\SSLHFLSR\PCBBJJMR\CHHBYINB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R203C
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -2811,26 +2804,34 @@ ParamVariation20=ParameterName=Tolerance|VariantValue=1 %
 ParamDesignator20=R203C
 ParamVariation21=ParameterName=Value|VariantValue=0R
 ParamDesignator21=R203C
-Variation17=Designator=R1A|UniqueId=\GDJTJOPP\1FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
-Variation18=Designator=R29A|UniqueId=\GDJTJOPP\1FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
-Variation19=Designator=R28B|UniqueId=\GDJTJOPP\2FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
-Variation20=Designator=R1C|UniqueId=\GDJTJOPP\3FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
-Variation21=Designator=R28C|UniqueId=\GDJTJOPP\3FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
-Variation22=Designator=R29D|UniqueId=\GDJTJOPP\4FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
-Variation23=Designator=R28D|UniqueId=\GDJTJOPP\4FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
-Variation24=Designator=R1E|UniqueId=\GDJTJOPP\5FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
-Variation25=Designator=R29E|UniqueId=\GDJTJOPP\5FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
-Variation26=Designator=R28E|UniqueId=\GDJTJOPP\5FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
-Variation27=Designator=X15|UniqueId=\EOKJBQKX\XPZYRPUK|Kind=1|AlternatePart= 
-Variation28=Designator=R32A|UniqueId=\GDJTJOPP\1FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation29=Designator=R32B|UniqueId=\GDJTJOPP\2FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation30=Designator=R32C|UniqueId=\GDJTJOPP\3FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation31=Designator=R32D|UniqueId=\GDJTJOPP\1FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation32=Designator=R32E|UniqueId=\GDJTJOPP\2FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation33=Designator=R32F|UniqueId=\GDJTJOPP\3FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation34=Designator=R32G|UniqueId=\GDJTJOPP\4FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation35=Designator=R32H|UniqueId=\GDJTJOPP\5FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation36=Designator=R16|UniqueId=\DSZVNOFL\JMWRQNLI\TEITEXVK|Kind=1|AlternatePart= 
+Variation16=Designator=R1A|UniqueId=\GDJTJOPP\1FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation17=Designator=R29A|UniqueId=\GDJTJOPP\1FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation18=Designator=R28B|UniqueId=\GDJTJOPP\2FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation19=Designator=R1C|UniqueId=\GDJTJOPP\3FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation20=Designator=R28C|UniqueId=\GDJTJOPP\3FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation21=Designator=R29D|UniqueId=\GDJTJOPP\4FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation22=Designator=R28D|UniqueId=\GDJTJOPP\4FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation23=Designator=R1E|UniqueId=\GDJTJOPP\5FYUGHYFG\ITEGTCWI|Kind=1|AlternatePart= 
+Variation24=Designator=R29E|UniqueId=\GDJTJOPP\5FYUGHYFG\BKILPUPJ|Kind=1|AlternatePart= 
+Variation25=Designator=R28E|UniqueId=\GDJTJOPP\5FYUGHYFG\IRVFPFWS|Kind=1|AlternatePart= 
+Variation26=Designator=X15|UniqueId=\EOKJBQKX\XPZYRPUK|Kind=1|AlternatePart= 
+Variation27=Designator=R32A|UniqueId=\GDJTJOPP\1FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation28=Designator=R32B|UniqueId=\GDJTJOPP\2FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation29=Designator=R32C|UniqueId=\GDJTJOPP\3FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation30=Designator=R32D|UniqueId=\GDJTJOPP\1FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation31=Designator=R32E|UniqueId=\GDJTJOPP\2FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation32=Designator=R32F|UniqueId=\GDJTJOPP\3FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation33=Designator=R32G|UniqueId=\GDJTJOPP\4FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation34=Designator=R32H|UniqueId=\GDJTJOPP\5FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation35=Designator=R16|UniqueId=\DSZVNOFL\JMWRQNLI\TEITEXVK|Kind=1|AlternatePart= 
+Variation36=Designator=R109|UniqueId=\EOKJBQKX\ESCLERNO|Kind=1|AlternatePart= 
+Variation37=Designator=R44|UniqueId=\QANTEKJU\LGYYRUHI\FUOQGZWL|Kind=1|AlternatePart= 
+Variation38=Designator=R117|UniqueId=\LNKYODNA\HUNLJWZT\PDODVVTN|Kind=1|AlternatePart= 
+Variation39=Designator=R114|UniqueId=\LNKYODNA\HUNLJWZT\RUEDULEJ|Kind=1|AlternatePart= 
+Variation40=Designator=R119|UniqueId=\LNKYODNA\HUNLJWZT\CPELPGFC|Kind=1|AlternatePart= 
+Variation41=Designator=R70|UniqueId=\GDJTJOPP\CSSULTYB|Kind=1|AlternatePart= 
+Variation42=Designator=R71|UniqueId=\GDJTJOPP\IQJPDFUT|Kind=1|AlternatePart= 
+Variation43=Designator=R72|UniqueId=\GDJTJOPP\JRSMLWXY|Kind=1|AlternatePart= 
 ParamVariationCount=21
 
 [Parameter1]

@@ -1686,7 +1686,7 @@ UniqueID=72CBA8BF-1787-4EE4-BF96-7F94AD38BFE8
 Description=S001
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=17
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1799,252 +1799,57 @@ ParamVariation47=ParameterName=Pin Info|VariantValue=
 ParamDesignator47=U12
 ParamVariation48=ParameterName=Simulation|VariantValue= 
 ParamDesignator48=U12
-Variation17=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation49=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator49=U4A
-ParamVariation50=ParameterName=AN|VariantValue=31885
-ParamDesignator50=U4A
-ParamVariation51=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator51=U4A
-ParamVariation52=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator52=U4A
-ParamVariation53=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator53=U4A
-ParamVariation54=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator54=U4A
-ParamVariation55=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator55=U4A
-ParamVariation56=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator56=U4A
-ParamVariation57=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator57=U4A
-ParamVariation58=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator58=U4A
-ParamVariation59=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator59=U4A
-ParamVariation60=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator60=U4A
-ParamVariation61=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator61=U4A
-ParamVariation62=ParameterName=PCB3D|VariantValue= 
-ParamDesignator62=U4A
-ParamVariation63=ParameterName=Pin Info|VariantValue= 
-ParamDesignator63=U4A
-ParamVariation64=ParameterName=Simulation|VariantValue= 
-ParamDesignator64=U4A
-ParamVariation65=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator65=U4A
-ParamVariation66=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator66=U4A
-ParamVariation67=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator67=U4A
-Variation18=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation68=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator68=U4B
-ParamVariation69=ParameterName=AN|VariantValue=31885
-ParamDesignator69=U4B
-ParamVariation70=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator70=U4B
-ParamVariation71=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator71=U4B
-ParamVariation72=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator72=U4B
-ParamVariation73=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator73=U4B
-ParamVariation74=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator74=U4B
-ParamVariation75=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator75=U4B
-ParamVariation76=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator76=U4B
-ParamVariation77=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator77=U4B
-ParamVariation78=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator78=U4B
-ParamVariation79=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator79=U4B
-ParamVariation80=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator80=U4B
-ParamVariation81=ParameterName=PCB3D|VariantValue= 
-ParamDesignator81=U4B
-ParamVariation82=ParameterName=Pin Info|VariantValue= 
-ParamDesignator82=U4B
-ParamVariation83=ParameterName=Simulation|VariantValue= 
-ParamDesignator83=U4B
-ParamVariation84=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator84=U4B
-ParamVariation85=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator85=U4B
-ParamVariation86=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator86=U4B
-Variation19=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation87=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator87=U4C
-ParamVariation88=ParameterName=AN|VariantValue=31885
-ParamDesignator88=U4C
-ParamVariation89=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator89=U4C
-ParamVariation90=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator90=U4C
-ParamVariation91=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator91=U4C
-ParamVariation92=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator92=U4C
-ParamVariation93=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator93=U4C
-ParamVariation94=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator94=U4C
-ParamVariation95=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator95=U4C
-ParamVariation96=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator96=U4C
-ParamVariation97=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator97=U4C
-ParamVariation98=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator98=U4C
-ParamVariation99=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator99=U4C
-ParamVariation100=ParameterName=PCB3D|VariantValue= 
-ParamDesignator100=U4C
-ParamVariation101=ParameterName=Pin Info|VariantValue= 
-ParamDesignator101=U4C
-ParamVariation102=ParameterName=Simulation|VariantValue= 
-ParamDesignator102=U4C
-ParamVariation103=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator103=U4C
-ParamVariation104=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator104=U4C
-ParamVariation105=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator105=U4C
-Variation20=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation106=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator106=U4D
-ParamVariation107=ParameterName=AN|VariantValue=31885
-ParamDesignator107=U4D
-ParamVariation108=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator108=U4D
-ParamVariation109=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator109=U4D
-ParamVariation110=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator110=U4D
-ParamVariation111=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator111=U4D
-ParamVariation112=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator112=U4D
-ParamVariation113=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator113=U4D
-ParamVariation114=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator114=U4D
-ParamVariation115=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator115=U4D
-ParamVariation116=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator116=U4D
-ParamVariation117=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator117=U4D
-ParamVariation118=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator118=U4D
-ParamVariation119=ParameterName=PCB3D|VariantValue= 
-ParamDesignator119=U4D
-ParamVariation120=ParameterName=Pin Info|VariantValue= 
-ParamDesignator120=U4D
-ParamVariation121=ParameterName=Simulation|VariantValue= 
-ParamDesignator121=U4D
-ParamVariation122=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator122=U4D
-ParamVariation123=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator123=U4D
-ParamVariation124=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator124=U4D
-Variation21=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation125=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator125=U4E
-ParamVariation126=ParameterName=AN|VariantValue=31885
-ParamDesignator126=U4E
-ParamVariation127=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator127=U4E
-ParamVariation128=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator128=U4E
-ParamVariation129=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator129=U4E
-ParamVariation130=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator130=U4E
-ParamVariation131=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator131=U4E
-ParamVariation132=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator132=U4E
-ParamVariation133=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator133=U4E
-ParamVariation134=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator134=U4E
-ParamVariation135=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator135=U4E
-ParamVariation136=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator136=U4E
-ParamVariation137=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator137=U4E
-ParamVariation138=ParameterName=PCB3D|VariantValue= 
-ParamDesignator138=U4E
-ParamVariation139=ParameterName=Pin Info|VariantValue= 
-ParamDesignator139=U4E
-ParamVariation140=ParameterName=Simulation|VariantValue= 
-ParamDesignator140=U4E
-ParamVariation141=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator141=U4E
-ParamVariation142=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator142=U4E
-ParamVariation143=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator143=U4E
-Variation22=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation144=ParameterName=Comment|VariantValue==Value
-ParamDesignator144=R210
-ParamVariation145=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator145=R210
-ParamVariation146=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator146=R210
-ParamVariation147=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator147=R210
-ParamVariation148=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator148=R210
-ParamVariation149=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator149=R210
-ParamVariation150=ParameterName=Device Package|VariantValue=0603
-ParamDesignator150=R210
-ParamVariation151=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator151=R210
-ParamVariation152=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator152=R210
-ParamVariation153=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator153=R210
-ParamVariation154=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator154=R210
-ParamVariation155=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator155=R210
-ParamVariation156=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator156=R210
-ParamVariation157=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator157=R210
-ParamVariation158=ParameterName=PartID|VariantValue=581
-ParamDesignator158=R210
-ParamVariation159=ParameterName=PCB3D|VariantValue= 
-ParamDesignator159=R210
-ParamVariation160=ParameterName=Pin Info|VariantValue= 
-ParamDesignator160=R210
-ParamVariation161=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator161=R210
-ParamVariation162=ParameterName=Simulation|VariantValue= 
-ParamDesignator162=R210
-ParamVariation163=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator163=R210
-ParamVariation164=ParameterName=Value|VariantValue=0R
-ParamDesignator164=R210
-ParamVariationCount=164
+Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation49=ParameterName=Comment|VariantValue==Value
+ParamDesignator49=R210
+ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator50=R210
+ParamVariation51=ParameterName=Created from|VariantValue=UZgenTool
+ParamDesignator51=R210
+ParamVariation52=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
+ParamDesignator52=R210
+ParamVariation53=ParameterName=Database Table Name|VariantValue=R_generic
+ParamDesignator53=R210
+ParamVariation54=ParameterName=Description|VariantValue=Generic resistor
+ParamDesignator54=R210
+ParamVariation55=ParameterName=Device Package|VariantValue=0603
+ParamDesignator55=R210
+ParamVariation56=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator56=R210
+ParamVariation57=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator57=R210
+ParamVariation58=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
+ParamDesignator58=R210
+ParamVariation59=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
+ParamDesignator59=R210
+ParamVariation60=ParameterName=Manufacturer|VariantValue=UZgen
+ParamDesignator60=R210
+ParamVariation61=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
+ParamDesignator61=R210
+ParamVariation62=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator62=R210
+ParamVariation63=ParameterName=PartID|VariantValue=581
+ParamDesignator63=R210
+ParamVariation64=ParameterName=PCB3D|VariantValue= 
+ParamDesignator64=R210
+ParamVariation65=ParameterName=Pin Info|VariantValue= 
+ParamDesignator65=R210
+ParamVariation66=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator66=R210
+ParamVariation67=ParameterName=Simulation|VariantValue= 
+ParamDesignator67=R210
+ParamVariation68=ParameterName=Tolerance|VariantValue=1 %
+ParamDesignator68=R210
+ParamVariation69=ParameterName=Value|VariantValue=0R
+ParamDesignator69=R210
+ParamVariationCount=69
 
 [ProjectVariant5]
 UniqueID=4AC7C0EB-12FE-41D1-8ECD-56B7DA787FAB
 Description=S002
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=17
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -2058,357 +1863,162 @@ Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|Alternate
 Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
 Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
 Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator1=U4A
-ParamVariation2=ParameterName=AN|VariantValue=31885
-ParamDesignator2=U4A
-ParamVariation3=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator3=U4A
+Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator1=U10
+ParamVariation2=ParameterName=AN|VariantValue=30863
+ParamDesignator2=U10
+ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator3=U10
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U4A
+ParamDesignator4=U10
 ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U4A
-ParamVariation6=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator6=U4A
-ParamVariation7=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator7=U4A
-ParamVariation8=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator8=U4A
-ParamVariation9=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator9=U4A
-ParamVariation10=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator10=U4A
+ParamDesignator5=U10
+ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator6=U10
+ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator7=U10
+ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator8=U10
+ParamVariation9=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator9=U10
+ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator10=U10
 ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U4A
-ParamVariation12=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator12=U4A
+ParamDesignator11=U10
+ParamVariation12=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator12=U10
 ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U4A
+ParamDesignator13=U10
 ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U4A
+ParamDesignator14=U10
 ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U4A
-ParamVariation16=ParameterName=Simulation|VariantValue= 
-ParamDesignator16=U4A
-ParamVariation17=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator17=U4A
-ParamVariation18=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator18=U4A
-ParamVariation19=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator19=U4A
-Variation15=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation20=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator20=U4B
-ParamVariation21=ParameterName=AN|VariantValue=31885
-ParamDesignator21=U4B
-ParamVariation22=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator22=U4B
-ParamVariation23=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator23=U4B
-ParamVariation24=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator24=U4B
-ParamVariation25=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator25=U4B
-ParamVariation26=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator26=U4B
-ParamVariation27=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator27=U4B
-ParamVariation28=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator28=U4B
-ParamVariation29=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator29=U4B
-ParamVariation30=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator30=U4B
-ParamVariation31=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator31=U4B
-ParamVariation32=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator32=U4B
-ParamVariation33=ParameterName=PCB3D|VariantValue= 
-ParamDesignator33=U4B
-ParamVariation34=ParameterName=Pin Info|VariantValue= 
-ParamDesignator34=U4B
-ParamVariation35=ParameterName=Simulation|VariantValue= 
-ParamDesignator35=U4B
-ParamVariation36=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator36=U4B
-ParamVariation37=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator37=U4B
-ParamVariation38=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator38=U4B
-Variation16=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation39=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator39=U4C
-ParamVariation40=ParameterName=AN|VariantValue=31885
-ParamDesignator40=U4C
-ParamVariation41=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator41=U4C
-ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator42=U4C
-ParamVariation43=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator43=U4C
-ParamVariation44=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator44=U4C
-ParamVariation45=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator45=U4C
-ParamVariation46=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator46=U4C
-ParamVariation47=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator47=U4C
-ParamVariation48=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator48=U4C
-ParamVariation49=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator49=U4C
-ParamVariation50=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator50=U4C
-ParamVariation51=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator51=U4C
-ParamVariation52=ParameterName=PCB3D|VariantValue= 
-ParamDesignator52=U4C
-ParamVariation53=ParameterName=Pin Info|VariantValue= 
-ParamDesignator53=U4C
-ParamVariation54=ParameterName=Simulation|VariantValue= 
-ParamDesignator54=U4C
-ParamVariation55=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator55=U4C
-ParamVariation56=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator56=U4C
-ParamVariation57=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator57=U4C
-Variation17=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation58=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator58=U4D
-ParamVariation59=ParameterName=AN|VariantValue=31885
-ParamDesignator59=U4D
-ParamVariation60=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator60=U4D
-ParamVariation61=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator61=U4D
-ParamVariation62=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator62=U4D
-ParamVariation63=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator63=U4D
-ParamVariation64=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator64=U4D
-ParamVariation65=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator65=U4D
-ParamVariation66=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator66=U4D
-ParamVariation67=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator67=U4D
-ParamVariation68=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator68=U4D
-ParamVariation69=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator69=U4D
-ParamVariation70=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator70=U4D
-ParamVariation71=ParameterName=PCB3D|VariantValue= 
-ParamDesignator71=U4D
-ParamVariation72=ParameterName=Pin Info|VariantValue= 
-ParamDesignator72=U4D
-ParamVariation73=ParameterName=Simulation|VariantValue= 
-ParamDesignator73=U4D
-ParamVariation74=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator74=U4D
-ParamVariation75=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator75=U4D
-ParamVariation76=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator76=U4D
-Variation18=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation77=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator77=U4E
-ParamVariation78=ParameterName=AN|VariantValue=31885
-ParamDesignator78=U4E
-ParamVariation79=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator79=U4E
-ParamVariation80=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator80=U4E
-ParamVariation81=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator81=U4E
-ParamVariation82=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator82=U4E
-ParamVariation83=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator83=U4E
-ParamVariation84=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator84=U4E
-ParamVariation85=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator85=U4E
-ParamVariation86=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator86=U4E
-ParamVariation87=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator87=U4E
-ParamVariation88=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator88=U4E
-ParamVariation89=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator89=U4E
-ParamVariation90=ParameterName=PCB3D|VariantValue= 
-ParamDesignator90=U4E
-ParamVariation91=ParameterName=Pin Info|VariantValue= 
-ParamDesignator91=U4E
-ParamVariation92=ParameterName=Simulation|VariantValue= 
-ParamDesignator92=U4E
-ParamVariation93=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator93=U4E
-ParamVariation94=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator94=U4E
-ParamVariation95=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator95=U4E
-Variation19=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation96=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator96=U10
-ParamVariation97=ParameterName=AN|VariantValue=30863
-ParamDesignator97=U10
-ParamVariation98=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator98=U10
-ParamVariation99=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator99=U10
-ParamVariation100=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator100=U10
-ParamVariation101=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator101=U10
-ParamVariation102=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator102=U10
-ParamVariation103=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator103=U10
-ParamVariation104=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator104=U10
-ParamVariation105=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator105=U10
-ParamVariation106=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator106=U10
-ParamVariation107=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator107=U10
-ParamVariation108=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator108=U10
-ParamVariation109=ParameterName=PCB3D|VariantValue= 
-ParamDesignator109=U10
-ParamVariation110=ParameterName=Pin Info|VariantValue= 
-ParamDesignator110=U10
-ParamVariation111=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator111=U10
-ParamVariation112=ParameterName=Simulation|VariantValue= 
-ParamDesignator112=U10
-Variation20=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation113=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator113=U11
-ParamVariation114=ParameterName=AN|VariantValue=30863
-ParamDesignator114=U11
-ParamVariation115=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator115=U11
-ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator116=U11
-ParamVariation117=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator117=U11
-ParamVariation118=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator118=U11
-ParamVariation119=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator119=U11
-ParamVariation120=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator120=U11
-ParamVariation121=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator121=U11
-ParamVariation122=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator122=U11
-ParamVariation123=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator123=U11
-ParamVariation124=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator124=U11
-ParamVariation125=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator125=U11
-ParamVariation126=ParameterName=PCB3D|VariantValue= 
-ParamDesignator126=U11
-ParamVariation127=ParameterName=Pin Info|VariantValue= 
-ParamDesignator127=U11
-ParamVariation128=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator128=U11
-ParamVariation129=ParameterName=Simulation|VariantValue= 
-ParamDesignator129=U11
-Variation21=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation130=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator130=U12
-ParamVariation131=ParameterName=AN|VariantValue=30863
-ParamDesignator131=U12
-ParamVariation132=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator132=U12
-ParamVariation133=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator133=U12
-ParamVariation134=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator134=U12
-ParamVariation135=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator135=U12
-ParamVariation136=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator136=U12
-ParamVariation137=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator137=U12
-ParamVariation138=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator138=U12
-ParamVariation139=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator139=U12
-ParamVariation140=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator140=U12
-ParamVariation141=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator141=U12
-ParamVariation142=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator142=U12
-ParamVariation143=ParameterName=PCB3D|VariantValue= 
-ParamDesignator143=U12
-ParamVariation144=ParameterName=Pin Info|VariantValue= 
-ParamDesignator144=U12
-ParamVariation145=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator145=U12
-ParamVariation146=ParameterName=Simulation|VariantValue= 
-ParamDesignator146=U12
-Variation22=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation147=ParameterName=Comment|VariantValue==Value
-ParamDesignator147=R210
-ParamVariation148=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator148=R210
-ParamVariation149=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator149=R210
-ParamVariation150=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator150=R210
-ParamVariation151=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator151=R210
-ParamVariation152=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator152=R210
-ParamVariation153=ParameterName=Device Package|VariantValue=0603
-ParamDesignator153=R210
-ParamVariation154=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator154=R210
-ParamVariation155=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator155=R210
-ParamVariation156=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator156=R210
-ParamVariation157=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator157=R210
-ParamVariation158=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator158=R210
-ParamVariation159=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator159=R210
-ParamVariation160=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator160=R210
-ParamVariation161=ParameterName=PartID|VariantValue=581
-ParamDesignator161=R210
-ParamVariation162=ParameterName=PCB3D|VariantValue= 
-ParamDesignator162=R210
-ParamVariation163=ParameterName=Pin Info|VariantValue= 
-ParamDesignator163=R210
-ParamVariation164=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator164=R210
-ParamVariation165=ParameterName=Simulation|VariantValue= 
-ParamDesignator165=R210
-ParamVariation166=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator166=R210
-ParamVariation167=ParameterName=Value|VariantValue=0R
-ParamDesignator167=R210
-ParamVariationCount=167
+ParamDesignator15=U10
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=U10
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=U10
+Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator18=U11
+ParamVariation19=ParameterName=AN|VariantValue=30863
+ParamDesignator19=U11
+ParamVariation20=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator20=U11
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=U11
+ParamVariation22=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator22=U11
+ParamVariation23=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator23=U11
+ParamVariation24=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator24=U11
+ParamVariation25=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator25=U11
+ParamVariation26=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator26=U11
+ParamVariation27=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator27=U11
+ParamVariation28=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator28=U11
+ParamVariation29=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator29=U11
+ParamVariation30=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator30=U11
+ParamVariation31=ParameterName=PCB3D|VariantValue= 
+ParamDesignator31=U11
+ParamVariation32=ParameterName=Pin Info|VariantValue= 
+ParamDesignator32=U11
+ParamVariation33=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator33=U11
+ParamVariation34=ParameterName=Simulation|VariantValue= 
+ParamDesignator34=U11
+Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation35=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator35=U12
+ParamVariation36=ParameterName=AN|VariantValue=30863
+ParamDesignator36=U12
+ParamVariation37=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator37=U12
+ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator38=U12
+ParamVariation39=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator39=U12
+ParamVariation40=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator40=U12
+ParamVariation41=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator41=U12
+ParamVariation42=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator42=U12
+ParamVariation43=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator43=U12
+ParamVariation44=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator44=U12
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=U12
+ParamVariation46=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator46=U12
+ParamVariation47=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator47=U12
+ParamVariation48=ParameterName=PCB3D|VariantValue= 
+ParamDesignator48=U12
+ParamVariation49=ParameterName=Pin Info|VariantValue= 
+ParamDesignator49=U12
+ParamVariation50=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator50=U12
+ParamVariation51=ParameterName=Simulation|VariantValue= 
+ParamDesignator51=U12
+Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation52=ParameterName=Comment|VariantValue==Value
+ParamDesignator52=R210
+ParamVariation53=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator53=R210
+ParamVariation54=ParameterName=Created from|VariantValue=UZgenTool
+ParamDesignator54=R210
+ParamVariation55=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
+ParamDesignator55=R210
+ParamVariation56=ParameterName=Database Table Name|VariantValue=R_generic
+ParamDesignator56=R210
+ParamVariation57=ParameterName=Description|VariantValue=Generic resistor
+ParamDesignator57=R210
+ParamVariation58=ParameterName=Device Package|VariantValue=0603
+ParamDesignator58=R210
+ParamVariation59=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator59=R210
+ParamVariation60=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator60=R210
+ParamVariation61=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
+ParamDesignator61=R210
+ParamVariation62=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
+ParamDesignator62=R210
+ParamVariation63=ParameterName=Manufacturer|VariantValue=UZgen
+ParamDesignator63=R210
+ParamVariation64=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
+ParamDesignator64=R210
+ParamVariation65=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator65=R210
+ParamVariation66=ParameterName=PartID|VariantValue=581
+ParamDesignator66=R210
+ParamVariation67=ParameterName=PCB3D|VariantValue= 
+ParamDesignator67=R210
+ParamVariation68=ParameterName=Pin Info|VariantValue= 
+ParamDesignator68=R210
+ParamVariation69=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator69=R210
+ParamVariation70=ParameterName=Simulation|VariantValue= 
+ParamDesignator70=R210
+ParamVariation71=ParameterName=Tolerance|VariantValue=1 %
+ParamDesignator71=R210
+ParamVariation72=ParameterName=Value|VariantValue=0R
+ParamDesignator72=R210
+ParamVariationCount=72
 
 [ProjectVariant6]
 UniqueID=95454976-79B8-4E66-9AF1-267D6CA64A86
 Description=S003
 AllowFabrication=0
 ParameterCount=0
-VariationCount=21
+VariationCount=16
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -2422,307 +2032,112 @@ Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|Alternate
 Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
 Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
 Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U4A|UniqueId=\GDJTJOPP\1FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator1=U4A
-ParamVariation2=ParameterName=AN|VariantValue=31885
-ParamDesignator2=U4A
-ParamVariation3=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator3=U4A
+Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator1=U10
+ParamVariation2=ParameterName=AN|VariantValue=30863
+ParamDesignator2=U10
+ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator3=U10
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U4A
+ParamDesignator4=U10
 ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U4A
-ParamVariation6=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator6=U4A
-ParamVariation7=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator7=U4A
-ParamVariation8=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator8=U4A
-ParamVariation9=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator9=U4A
-ParamVariation10=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator10=U4A
+ParamDesignator5=U10
+ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator6=U10
+ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator7=U10
+ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator8=U10
+ParamVariation9=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator9=U10
+ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator10=U10
 ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U4A
-ParamVariation12=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator12=U4A
+ParamDesignator11=U10
+ParamVariation12=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator12=U10
 ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U4A
+ParamDesignator13=U10
 ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U4A
+ParamDesignator14=U10
 ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U4A
-ParamVariation16=ParameterName=Simulation|VariantValue= 
-ParamDesignator16=U4A
-ParamVariation17=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator17=U4A
-ParamVariation18=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator18=U4A
-ParamVariation19=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator19=U4A
-Variation15=Designator=U4B|UniqueId=\GDJTJOPP\2FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation20=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator20=U4B
-ParamVariation21=ParameterName=AN|VariantValue=31885
-ParamDesignator21=U4B
-ParamVariation22=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator22=U4B
-ParamVariation23=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator23=U4B
-ParamVariation24=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator24=U4B
-ParamVariation25=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator25=U4B
-ParamVariation26=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator26=U4B
-ParamVariation27=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator27=U4B
-ParamVariation28=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator28=U4B
-ParamVariation29=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator29=U4B
-ParamVariation30=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator30=U4B
-ParamVariation31=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator31=U4B
-ParamVariation32=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator32=U4B
-ParamVariation33=ParameterName=PCB3D|VariantValue= 
-ParamDesignator33=U4B
-ParamVariation34=ParameterName=Pin Info|VariantValue= 
-ParamDesignator34=U4B
-ParamVariation35=ParameterName=Simulation|VariantValue= 
-ParamDesignator35=U4B
-ParamVariation36=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator36=U4B
-ParamVariation37=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator37=U4B
-ParamVariation38=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator38=U4B
-Variation16=Designator=U4C|UniqueId=\GDJTJOPP\3FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation39=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator39=U4C
-ParamVariation40=ParameterName=AN|VariantValue=31885
-ParamDesignator40=U4C
-ParamVariation41=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator41=U4C
-ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator42=U4C
-ParamVariation43=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator43=U4C
-ParamVariation44=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator44=U4C
-ParamVariation45=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator45=U4C
-ParamVariation46=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator46=U4C
-ParamVariation47=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator47=U4C
-ParamVariation48=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator48=U4C
-ParamVariation49=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator49=U4C
-ParamVariation50=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator50=U4C
-ParamVariation51=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator51=U4C
-ParamVariation52=ParameterName=PCB3D|VariantValue= 
-ParamDesignator52=U4C
-ParamVariation53=ParameterName=Pin Info|VariantValue= 
-ParamDesignator53=U4C
-ParamVariation54=ParameterName=Simulation|VariantValue= 
-ParamDesignator54=U4C
-ParamVariation55=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator55=U4C
-ParamVariation56=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator56=U4C
-ParamVariation57=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator57=U4C
-Variation17=Designator=U4D|UniqueId=\GDJTJOPP\4FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation58=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator58=U4D
-ParamVariation59=ParameterName=AN|VariantValue=31885
-ParamDesignator59=U4D
-ParamVariation60=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator60=U4D
-ParamVariation61=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator61=U4D
-ParamVariation62=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator62=U4D
-ParamVariation63=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator63=U4D
-ParamVariation64=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator64=U4D
-ParamVariation65=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator65=U4D
-ParamVariation66=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator66=U4D
-ParamVariation67=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator67=U4D
-ParamVariation68=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator68=U4D
-ParamVariation69=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator69=U4D
-ParamVariation70=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator70=U4D
-ParamVariation71=ParameterName=PCB3D|VariantValue= 
-ParamDesignator71=U4D
-ParamVariation72=ParameterName=Pin Info|VariantValue= 
-ParamDesignator72=U4D
-ParamVariation73=ParameterName=Simulation|VariantValue= 
-ParamDesignator73=U4D
-ParamVariation74=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator74=U4D
-ParamVariation75=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator75=U4D
-ParamVariation76=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator76=U4D
-Variation18=Designator=U4E|UniqueId=\GDJTJOPP\5FYUGHYFG\AHACKSWD|Kind=2|AlternatePart=(cs) LC4256V-75TN100C|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=LC4064-4128-4256-T100|AltLibLink_DesignItemID=31885|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=QFP50P1600X1600X160-100N|AltLibLink_IsSameFootprint=True
-ParamVariation77=ParameterName=Comment|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator77=U4E
-ParamVariation78=ParameterName=AN|VariantValue=31885
-ParamDesignator78=U4E
-ParamVariation79=ParameterName=Case|VariantValue=TQFP100
-ParamDesignator79=U4E
-ParamVariation80=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator80=U4E
-ParamVariation81=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator81=U4E
-ParamVariation82=ParameterName=Description|VariantValue=(cs) LC4256V-75TN100C
-ParamDesignator82=U4E
-ParamVariation83=ParameterName=Extra|VariantValue=Customer 53430 / TEC0194
-ParamDesignator83=U4E
-ParamVariation84=ParameterName=Footprint|VariantValue=QFP50P1600X1600X160-100N
-ParamDesignator84=U4E
-ParamVariation85=ParameterName=H-ART|VariantValue=LC4256V-75TN100C
-ParamDesignator85=U4E
-ParamVariation86=ParameterName=HelpURL|VariantValue=b:\AD\adlib\datasheet\Lattice\ispMACH-4000\
-ParamDesignator86=U4E
-ParamVariation87=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator87=U4E
-ParamVariation88=ParameterName=Library Reference|VariantValue=31885
-ParamDesignator88=U4E
-ParamVariation89=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator89=U4E
-ParamVariation90=ParameterName=PCB3D|VariantValue= 
-ParamDesignator90=U4E
-ParamVariation91=ParameterName=Pin Info|VariantValue= 
-ParamDesignator91=U4E
-ParamVariation92=ParameterName=Simulation|VariantValue= 
-ParamDesignator92=U4E
-ParamVariation93=ParameterName=Storage-Temperature|VariantValue=-65/+150 (Abs)
-ParamDesignator93=U4E
-ParamVariation94=ParameterName=Temperature-Range|VariantValue=0/+90 (Tj)
-ParamDesignator94=U4E
-ParamVariation95=ParameterName=Trenz-Stock|VariantValue=Yes
-ParamDesignator95=U4E
-Variation19=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation96=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator96=U10
-ParamVariation97=ParameterName=AN|VariantValue=30863
-ParamDesignator97=U10
-ParamVariation98=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator98=U10
-ParamVariation99=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator99=U10
-ParamVariation100=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator100=U10
-ParamVariation101=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator101=U10
-ParamVariation102=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator102=U10
-ParamVariation103=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator103=U10
-ParamVariation104=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator104=U10
-ParamVariation105=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator105=U10
-ParamVariation106=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator106=U10
-ParamVariation107=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator107=U10
-ParamVariation108=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator108=U10
-ParamVariation109=ParameterName=PCB3D|VariantValue= 
-ParamDesignator109=U10
-ParamVariation110=ParameterName=Pin Info|VariantValue= 
-ParamDesignator110=U10
-ParamVariation111=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator111=U10
-ParamVariation112=ParameterName=Simulation|VariantValue= 
-ParamDesignator112=U10
-Variation20=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation113=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator113=U11
-ParamVariation114=ParameterName=AN|VariantValue=30863
-ParamDesignator114=U11
-ParamVariation115=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator115=U11
-ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator116=U11
-ParamVariation117=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator117=U11
-ParamVariation118=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator118=U11
-ParamVariation119=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator119=U11
-ParamVariation120=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator120=U11
-ParamVariation121=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator121=U11
-ParamVariation122=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator122=U11
-ParamVariation123=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator123=U11
-ParamVariation124=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator124=U11
-ParamVariation125=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator125=U11
-ParamVariation126=ParameterName=PCB3D|VariantValue= 
-ParamDesignator126=U11
-ParamVariation127=ParameterName=Pin Info|VariantValue= 
-ParamDesignator127=U11
-ParamVariation128=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator128=U11
-ParamVariation129=ParameterName=Simulation|VariantValue= 
-ParamDesignator129=U11
-Variation21=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation130=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator130=U12
-ParamVariation131=ParameterName=AN|VariantValue=30863
-ParamDesignator131=U12
-ParamVariation132=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator132=U12
-ParamVariation133=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator133=U12
-ParamVariation134=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator134=U12
-ParamVariation135=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator135=U12
-ParamVariation136=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator136=U12
-ParamVariation137=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator137=U12
-ParamVariation138=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator138=U12
-ParamVariation139=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator139=U12
-ParamVariation140=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator140=U12
-ParamVariation141=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator141=U12
-ParamVariation142=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator142=U12
-ParamVariation143=ParameterName=PCB3D|VariantValue= 
-ParamDesignator143=U12
-ParamVariation144=ParameterName=Pin Info|VariantValue= 
-ParamDesignator144=U12
-ParamVariation145=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator145=U12
-ParamVariation146=ParameterName=Simulation|VariantValue= 
-ParamDesignator146=U12
-ParamVariationCount=146
+ParamDesignator15=U10
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=U10
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=U10
+Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator18=U11
+ParamVariation19=ParameterName=AN|VariantValue=30863
+ParamDesignator19=U11
+ParamVariation20=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator20=U11
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=U11
+ParamVariation22=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator22=U11
+ParamVariation23=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator23=U11
+ParamVariation24=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator24=U11
+ParamVariation25=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator25=U11
+ParamVariation26=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator26=U11
+ParamVariation27=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator27=U11
+ParamVariation28=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator28=U11
+ParamVariation29=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator29=U11
+ParamVariation30=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator30=U11
+ParamVariation31=ParameterName=PCB3D|VariantValue= 
+ParamDesignator31=U11
+ParamVariation32=ParameterName=Pin Info|VariantValue= 
+ParamDesignator32=U11
+ParamVariation33=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator33=U11
+ParamVariation34=ParameterName=Simulation|VariantValue= 
+ParamDesignator34=U11
+Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
+ParamVariation35=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
+ParamDesignator35=U12
+ParamVariation36=ParameterName=AN|VariantValue=30863
+ParamDesignator36=U12
+ParamVariation37=ParameterName=Case|VariantValue=TO263-7EP
+ParamDesignator37=U12
+ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator38=U12
+ParamVariation39=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
+ParamDesignator39=U12
+ParamVariation40=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
+ParamDesignator40=U12
+ParamVariation41=ParameterName=Extra|VariantValue=TUM / TEC0194
+ParamDesignator41=U12
+ParamVariation42=ParameterName=Footprint|VariantValue=7TO-PMOD
+ParamDesignator42=U12
+ParamVariation43=ParameterName=H-ART|VariantValue=171050601
+ParamDesignator43=U12
+ParamVariation44=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
+ParamDesignator44=U12
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=U12
+ParamVariation46=ParameterName=Library Reference|VariantValue=30863
+ParamDesignator46=U12
+ParamVariation47=ParameterName=Mixed|VariantValue=SMT
+ParamDesignator47=U12
+ParamVariation48=ParameterName=PCB3D|VariantValue= 
+ParamDesignator48=U12
+ParamVariation49=ParameterName=Pin Info|VariantValue= 
+ParamDesignator49=U12
+ParamVariation50=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator50=U12
+ParamVariation51=ParameterName=Simulation|VariantValue= 
+ParamDesignator51=U12
+ParamVariationCount=51
 
 [ProjectVariant7]
 UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2

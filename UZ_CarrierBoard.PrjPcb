@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RFGENXFE
 
 [Document2]
-DocumentPath=Board2Board.SchDoc
+DocumentPath=SoM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MSNHAMKW
 
 [Document3]
-DocumentPath=J1.SchDoc
+DocumentPath=J1-3xGTHQ_R+B66.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NUAMKYFW
 
 [Document4]
-DocumentPath=J2.SchDoc
+DocumentPath=J2-1xGTHQ_L+1xGTHCLK+GTRQ+2xGTRCLK+4xPLLCLK+CFG+STAT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -119,7 +119,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KSXBHDHT
 
 [Document5]
-DocumentPath=J3.SchDoc
+DocumentPath=J3-3xGTHCLK+1xPLLCLK+MIO+B47+B48.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,7 +136,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDPPLJUW
 
 [Document6]
-DocumentPath=J4.SchDoc
+DocumentPath=J4-B64+B65.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FJFMXGSG
 
 [Document13]
-DocumentPath=XMOD_Frontpanel.SchDoc
+DocumentPath=Frontpanel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -346,7 +346,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=85
+AnnotateOrder=75
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -363,7 +363,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=80
+AnnotateOrder=70
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -425,7 +425,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=XMOD.SchDoc
+DocumentPath=User_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -448,7 +448,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=97
+AnnotateOrder=85
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -465,7 +465,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=98
+AnnotateOrder=86
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -578,7 +578,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=Board2Board.Harness
+DocumentPath=SoM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -612,7 +612,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=J3.Harness
+DocumentPath=J3-3xGTHCLK+1xPLLCLK+MIO+B47+B48.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -663,7 +663,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=J2.Harness
+DocumentPath=J2-1xGTHQ_L+1xGTHCLK+GTRQ+2xGTRCLK+4xPLLCLK+CFG+STAT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -714,7 +714,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=J1.Harness
+DocumentPath=J1-3xGTHQ_R+B66.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -737,7 +737,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=90
+AnnotateOrder=80
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -935,7 +935,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document53]
-DocumentPath=XMOD_Frontpanel.Harness
+DocumentPath=Frontpanel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1088,7 +1088,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TTXIKYXG
 
 [Document62]
-DocumentPath=XMOD_Thermal.SchDoc
+DocumentPath=Thermal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1105,7 +1105,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KMVMEOQS
 
 [Document63]
-DocumentPath=XMOD_Thermal.Harness
+DocumentPath=Thermal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1275,7 +1275,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
 
 [Document73]
-DocumentPath=Power_Protection_DigitalAndAnalogInterfaces.SchDoc
+DocumentPath=Power_Protection_VIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1332,7 +1332,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=99
+AnnotateOrder=87
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1

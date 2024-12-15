@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev05
+CurrentVariant=Rev05Batch00
 
 [Preferences]
 PrefsVaultGUID=
@@ -374,23 +374,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FLIJIXSU
 
 [Document20]
-DocumentPath=OutputJob.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
 DocumentPath=UZ_CarrierBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DICHLHHP
 
-[Document22]
+[Document21]
 DocumentPath=UZ_CarrierBoard.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=User_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCCWYQIO
 
-[Document24]
+[Document23]
 DocumentPath=Backpanel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZESTTWGY
 
-[Document25]
+[Document24]
 DocumentPath=Backpanel_GigIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPPQPYHI
 
-[Document26]
+[Document25]
 DocumentPath=Block_Diagram.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -492,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPDNBIMX
 
-[Document27]
+[Document26]
 DocumentPath=Library\Samtec.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=Library\Samtec.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQBBAUAL
 
-[Document29]
+[Document28]
 DocumentPath=Library\UltraZOhm_CarrierBoard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMIWXWPB
 
-[Document30]
+[Document29]
 DocumentPath=Project Outputs for UltraZOhm_CarrierBoard\Rev. 3\Library\UltraZOhm_CarrierBoard_V3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=UZ_CarrierBoard.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=SoM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=Signal_Distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=J3-3xGTHCLK+1xPLLCLK+MIO+B47+B48.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,7 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=Power_Supply_TPS54260.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,24 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRUMMABL
 
-[Document36]
-DocumentPath=Trenz_Outputs.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document37]
+[Document35]
 DocumentPath=J2-1xGTHQ_L+1xGTHCLK+GTRQ+2xGTRCLK+4xPLLCLK+CFG+STAT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document36]
 DocumentPath=SD_Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document37]
 DocumentPath=ETH-PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document38]
 DocumentPath=J1-3xGTHQ_R+B66.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document39]
 DocumentPath=GTH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEIJRMZE
 
-[Document42]
+[Document40]
 DocumentPath=GTH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document41]
 DocumentPath=Library\UltraZOhm_CarrierBoard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANHXDAYL
 
-[Document44]
+[Document42]
 DocumentPath=GTR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document43]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document44]
 DocumentPath=isoJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -832,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDSZNSWM
 
-[Document47]
+[Document45]
 DocumentPath=isoJTAG-FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -849,7 +815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZXHCYPLQ
 
-[Document48]
+[Document46]
 DocumentPath=isoJTAG-FTDI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -866,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document47]
 DocumentPath=isoJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -883,7 +849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=isoJTAG-Isolation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -900,7 +866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDJRIZAW
 
-[Document51]
+[Document49]
 DocumentPath=isoJTAG-Isolation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -917,7 +883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=I2C0_Mux.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -934,7 +900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=Frontpanel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -951,7 +917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document52]
 DocumentPath=S3C_SupplyAndMonitoring.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -968,7 +934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=Power_Monitoring_TPS3803.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -985,7 +951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEECNEDB
 
-[Document56]
+[Document54]
 DocumentPath=S3C_IOs3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1002,7 +968,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLJBPXCV
 
-[Document57]
+[Document55]
 DocumentPath=S3C_IOs1V8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1019,7 +985,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHIVEANZ
 
-[Document58]
+[Document56]
 DocumentPath=S3C_MuxJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1036,7 +1002,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGRAAJOA
 
-[Document59]
+[Document57]
 DocumentPath=S3C_MuxJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1053,7 +1019,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document58]
 DocumentPath=S3C_IOs3V3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1070,7 +1036,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document59]
 DocumentPath=J2_RefClkAndRTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1087,7 +1053,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTXIKYXG
 
-[Document62]
+[Document60]
 DocumentPath=Thermal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1104,7 +1070,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMVMEOQS
 
-[Document63]
+[Document61]
 DocumentPath=Thermal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1121,7 +1087,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document62]
 DocumentPath=S3C_SplitSPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1138,7 +1104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLVSJJVY
 
-[Document65]
+[Document63]
 DocumentPath=S3C_SplitSPI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1155,7 +1121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document64]
 DocumentPath=S3C_IOs1V8.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1172,7 +1138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document65]
 DocumentPath=I2C_Subsystems.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1189,7 +1155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document66]
 DocumentPath=S3C_FrontpanelInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1206,7 +1172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKVBQUOI
 
-[Document69]
+[Document67]
 DocumentPath=S3C_FrontpanelInterface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1223,7 +1189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document68]
 DocumentPath=DIG_S3C_MultiChannelFunnel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1240,7 +1206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOYCFJWQ
 
-[Document71]
+[Document69]
 DocumentPath=DIG_S3C_MultiChannelFunnel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1257,7 +1223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document70]
 DocumentPath=Block_Diagram_Safety.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1274,7 +1240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
 
-[Document73]
+[Document71]
 DocumentPath=Power_Protection_VIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1291,7 +1257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQWKXYXK
 
-[Document74]
+[Document72]
 DocumentPath=Digital_Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1308,7 +1274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document73]
 DocumentPath=Backpanel_GigIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1325,7 +1291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document74]
 DocumentPath=Backpanel_SwapMGT4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1342,7 +1308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFXBRETQ
 
-[Document77]
+[Document75]
 DocumentPath=Backpanel_SwapMGT4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1359,7 +1325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document76]
 DocumentPath=Backpanel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1377,856 +1343,8 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=983A413E-FB43-4B8B-A869-26F7EC62A39E
-Description=Standard
-AllowFabrication=0
-ParameterCount=0
-VariationCount=14
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R210
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=R210
-ParamVariation3=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator3=R210
-ParamVariation4=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator4=R210
-ParamVariation5=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator5=R210
-ParamVariation6=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator6=R210
-ParamVariation7=ParameterName=Device Package|VariantValue=0603
-ParamDesignator7=R210
-ParamVariation8=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator8=R210
-ParamVariation9=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator9=R210
-ParamVariation10=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator10=R210
-ParamVariation11=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator11=R210
-ParamVariation12=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator12=R210
-ParamVariation13=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator13=R210
-ParamVariation14=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator14=R210
-ParamVariation15=ParameterName=PartID|VariantValue=581
-ParamDesignator15=R210
-ParamVariation16=ParameterName=PCB3D|VariantValue= 
-ParamDesignator16=R210
-ParamVariation17=ParameterName=Pin Info|VariantValue= 
-ParamDesignator17=R210
-ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator18=R210
-ParamVariation19=ParameterName=Simulation|VariantValue= 
-ParamDesignator19=R210
-ParamVariation20=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator20=R210
-ParamVariation21=ParameterName=Value|VariantValue=0R
-ParamDesignator21=R210
-ParamVariationCount=21
-
-[ProjectVariant2]
-UniqueID=B0644C3E-A894-4079-A321-638D395E5463
-Description=B
-AllowFabrication=0
-ParameterCount=0
-VariationCount=17
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator1=U10
-ParamVariation2=ParameterName=AN|VariantValue=30863
-ParamDesignator2=U10
-ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator3=U10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U10
-ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U10
-ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator6=U10
-ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator7=U10
-ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator8=U10
-ParamVariation9=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator9=U10
-ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator10=U10
-ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U10
-ParamVariation12=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator12=U10
-ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U10
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U10
-ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U10
-ParamVariation16=ParameterName=Simulation|VariantValue= 
-ParamDesignator16=U10
-Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator17=U11
-ParamVariation18=ParameterName=AN|VariantValue=30863
-ParamDesignator18=U11
-ParamVariation19=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator19=U11
-ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator20=U11
-ParamVariation21=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator21=U11
-ParamVariation22=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator22=U11
-ParamVariation23=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator23=U11
-ParamVariation24=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator24=U11
-ParamVariation25=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator25=U11
-ParamVariation26=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator26=U11
-ParamVariation27=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator27=U11
-ParamVariation28=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator28=U11
-ParamVariation29=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator29=U11
-ParamVariation30=ParameterName=PCB3D|VariantValue= 
-ParamDesignator30=U11
-ParamVariation31=ParameterName=Pin Info|VariantValue= 
-ParamDesignator31=U11
-ParamVariation32=ParameterName=Simulation|VariantValue= 
-ParamDesignator32=U11
-Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator33=U12
-ParamVariation34=ParameterName=AN|VariantValue=30863
-ParamDesignator34=U12
-ParamVariation35=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator35=U12
-ParamVariation36=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator36=U12
-ParamVariation37=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator37=U12
-ParamVariation38=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator38=U12
-ParamVariation39=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator39=U12
-ParamVariation40=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator40=U12
-ParamVariation41=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator41=U12
-ParamVariation42=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator42=U12
-ParamVariation43=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator43=U12
-ParamVariation44=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator44=U12
-ParamVariation45=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator45=U12
-ParamVariation46=ParameterName=PCB3D|VariantValue= 
-ParamDesignator46=U12
-ParamVariation47=ParameterName=Pin Info|VariantValue= 
-ParamDesignator47=U12
-ParamVariation48=ParameterName=Simulation|VariantValue= 
-ParamDesignator48=U12
-Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation49=ParameterName=Comment|VariantValue==Value
-ParamDesignator49=R210
-ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator50=R210
-ParamVariation51=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator51=R210
-ParamVariation52=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator52=R210
-ParamVariation53=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator53=R210
-ParamVariation54=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator54=R210
-ParamVariation55=ParameterName=Device Package|VariantValue=0603
-ParamDesignator55=R210
-ParamVariation56=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator56=R210
-ParamVariation57=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator57=R210
-ParamVariation58=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator58=R210
-ParamVariation59=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator59=R210
-ParamVariation60=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator60=R210
-ParamVariation61=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator61=R210
-ParamVariation62=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator62=R210
-ParamVariation63=ParameterName=PartID|VariantValue=581
-ParamDesignator63=R210
-ParamVariation64=ParameterName=PCB3D|VariantValue= 
-ParamDesignator64=R210
-ParamVariation65=ParameterName=Pin Info|VariantValue= 
-ParamDesignator65=R210
-ParamVariation66=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator66=R210
-ParamVariation67=ParameterName=Simulation|VariantValue= 
-ParamDesignator67=R210
-ParamVariation68=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator68=R210
-ParamVariation69=ParameterName=Value|VariantValue=0R
-ParamDesignator69=R210
-ParamVariationCount=69
-
-[ProjectVariant3]
-UniqueID=412DDEC4-E638-4BD2-BB0C-7E37E9052667
-Description=C
-AllowFabrication=0
-ParameterCount=0
-VariationCount=17
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator1=U10
-ParamVariation2=ParameterName=AN|VariantValue=30863
-ParamDesignator2=U10
-ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator3=U10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U10
-ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U10
-ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator6=U10
-ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator7=U10
-ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator8=U10
-ParamVariation9=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator9=U10
-ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator10=U10
-ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U10
-ParamVariation12=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator12=U10
-ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U10
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U10
-ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U10
-ParamVariation16=ParameterName=Simulation|VariantValue= 
-ParamDesignator16=U10
-Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator17=U11
-ParamVariation18=ParameterName=AN|VariantValue=30863
-ParamDesignator18=U11
-ParamVariation19=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator19=U11
-ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator20=U11
-ParamVariation21=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator21=U11
-ParamVariation22=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator22=U11
-ParamVariation23=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator23=U11
-ParamVariation24=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator24=U11
-ParamVariation25=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator25=U11
-ParamVariation26=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator26=U11
-ParamVariation27=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator27=U11
-ParamVariation28=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator28=U11
-ParamVariation29=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator29=U11
-ParamVariation30=ParameterName=PCB3D|VariantValue= 
-ParamDesignator30=U11
-ParamVariation31=ParameterName=Pin Info|VariantValue= 
-ParamDesignator31=U11
-ParamVariation32=ParameterName=Simulation|VariantValue= 
-ParamDesignator32=U11
-Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator33=U12
-ParamVariation34=ParameterName=AN|VariantValue=30863
-ParamDesignator34=U12
-ParamVariation35=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator35=U12
-ParamVariation36=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator36=U12
-ParamVariation37=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator37=U12
-ParamVariation38=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator38=U12
-ParamVariation39=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator39=U12
-ParamVariation40=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator40=U12
-ParamVariation41=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator41=U12
-ParamVariation42=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator42=U12
-ParamVariation43=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator43=U12
-ParamVariation44=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator44=U12
-ParamVariation45=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator45=U12
-ParamVariation46=ParameterName=PCB3D|VariantValue= 
-ParamDesignator46=U12
-ParamVariation47=ParameterName=Pin Info|VariantValue= 
-ParamDesignator47=U12
-ParamVariation48=ParameterName=Simulation|VariantValue= 
-ParamDesignator48=U12
-Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation49=ParameterName=Comment|VariantValue==Value
-ParamDesignator49=R210
-ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator50=R210
-ParamVariation51=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator51=R210
-ParamVariation52=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator52=R210
-ParamVariation53=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator53=R210
-ParamVariation54=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator54=R210
-ParamVariation55=ParameterName=Device Package|VariantValue=0603
-ParamDesignator55=R210
-ParamVariation56=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator56=R210
-ParamVariation57=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator57=R210
-ParamVariation58=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator58=R210
-ParamVariation59=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator59=R210
-ParamVariation60=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator60=R210
-ParamVariation61=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator61=R210
-ParamVariation62=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator62=R210
-ParamVariation63=ParameterName=PartID|VariantValue=581
-ParamDesignator63=R210
-ParamVariation64=ParameterName=PCB3D|VariantValue= 
-ParamDesignator64=R210
-ParamVariation65=ParameterName=Pin Info|VariantValue= 
-ParamDesignator65=R210
-ParamVariation66=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator66=R210
-ParamVariation67=ParameterName=Simulation|VariantValue= 
-ParamDesignator67=R210
-ParamVariation68=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator68=R210
-ParamVariation69=ParameterName=Value|VariantValue=0R
-ParamDesignator69=R210
-ParamVariationCount=69
-
-[ProjectVariant4]
-UniqueID=72CBA8BF-1787-4EE4-BF96-7F94AD38BFE8
-Description=S001
-AllowFabrication=0
-ParameterCount=0
-VariationCount=17
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator1=U10
-ParamVariation2=ParameterName=AN|VariantValue=30863
-ParamDesignator2=U10
-ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator3=U10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U10
-ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U10
-ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator6=U10
-ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator7=U10
-ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator8=U10
-ParamVariation9=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator9=U10
-ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator10=U10
-ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U10
-ParamVariation12=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator12=U10
-ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U10
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U10
-ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U10
-ParamVariation16=ParameterName=Simulation|VariantValue= 
-ParamDesignator16=U10
-Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation17=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator17=U11
-ParamVariation18=ParameterName=AN|VariantValue=30863
-ParamDesignator18=U11
-ParamVariation19=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator19=U11
-ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator20=U11
-ParamVariation21=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator21=U11
-ParamVariation22=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator22=U11
-ParamVariation23=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator23=U11
-ParamVariation24=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator24=U11
-ParamVariation25=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator25=U11
-ParamVariation26=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator26=U11
-ParamVariation27=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator27=U11
-ParamVariation28=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator28=U11
-ParamVariation29=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator29=U11
-ParamVariation30=ParameterName=PCB3D|VariantValue= 
-ParamDesignator30=U11
-ParamVariation31=ParameterName=Pin Info|VariantValue= 
-ParamDesignator31=U11
-ParamVariation32=ParameterName=Simulation|VariantValue= 
-ParamDesignator32=U11
-Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference=WE-DCDC-171050601|AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation33=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator33=U12
-ParamVariation34=ParameterName=AN|VariantValue=30863
-ParamDesignator34=U12
-ParamVariation35=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator35=U12
-ParamVariation36=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator36=U12
-ParamVariation37=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator37=U12
-ParamVariation38=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator38=U12
-ParamVariation39=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator39=U12
-ParamVariation40=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator40=U12
-ParamVariation41=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator41=U12
-ParamVariation42=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator42=U12
-ParamVariation43=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator43=U12
-ParamVariation44=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator44=U12
-ParamVariation45=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator45=U12
-ParamVariation46=ParameterName=PCB3D|VariantValue= 
-ParamDesignator46=U12
-ParamVariation47=ParameterName=Pin Info|VariantValue= 
-ParamDesignator47=U12
-ParamVariation48=ParameterName=Simulation|VariantValue= 
-ParamDesignator48=U12
-Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation49=ParameterName=Comment|VariantValue==Value
-ParamDesignator49=R210
-ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator50=R210
-ParamVariation51=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator51=R210
-ParamVariation52=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator52=R210
-ParamVariation53=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator53=R210
-ParamVariation54=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator54=R210
-ParamVariation55=ParameterName=Device Package|VariantValue=0603
-ParamDesignator55=R210
-ParamVariation56=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator56=R210
-ParamVariation57=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator57=R210
-ParamVariation58=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator58=R210
-ParamVariation59=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator59=R210
-ParamVariation60=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator60=R210
-ParamVariation61=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator61=R210
-ParamVariation62=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator62=R210
-ParamVariation63=ParameterName=PartID|VariantValue=581
-ParamDesignator63=R210
-ParamVariation64=ParameterName=PCB3D|VariantValue= 
-ParamDesignator64=R210
-ParamVariation65=ParameterName=Pin Info|VariantValue= 
-ParamDesignator65=R210
-ParamVariation66=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator66=R210
-ParamVariation67=ParameterName=Simulation|VariantValue= 
-ParamDesignator67=R210
-ParamVariation68=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator68=R210
-ParamVariation69=ParameterName=Value|VariantValue=0R
-ParamDesignator69=R210
-ParamVariationCount=69
-
-[ProjectVariant5]
-UniqueID=4AC7C0EB-12FE-41D1-8ECD-56B7DA787FAB
-Description=S002
-AllowFabrication=0
-ParameterCount=0
-VariationCount=17
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator1=U10
-ParamVariation2=ParameterName=AN|VariantValue=30863
-ParamDesignator2=U10
-ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator3=U10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U10
-ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U10
-ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator6=U10
-ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator7=U10
-ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator8=U10
-ParamVariation9=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator9=U10
-ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator10=U10
-ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U10
-ParamVariation12=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator12=U10
-ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U10
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U10
-ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U10
-ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator16=U10
-ParamVariation17=ParameterName=Simulation|VariantValue= 
-ParamDesignator17=U10
-Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator18=U11
-ParamVariation19=ParameterName=AN|VariantValue=30863
-ParamDesignator19=U11
-ParamVariation20=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator20=U11
-ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator21=U11
-ParamVariation22=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator22=U11
-ParamVariation23=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator23=U11
-ParamVariation24=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator24=U11
-ParamVariation25=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator25=U11
-ParamVariation26=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator26=U11
-ParamVariation27=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator27=U11
-ParamVariation28=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator28=U11
-ParamVariation29=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator29=U11
-ParamVariation30=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator30=U11
-ParamVariation31=ParameterName=PCB3D|VariantValue= 
-ParamDesignator31=U11
-ParamVariation32=ParameterName=Pin Info|VariantValue= 
-ParamDesignator32=U11
-ParamVariation33=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator33=U11
-ParamVariation34=ParameterName=Simulation|VariantValue= 
-ParamDesignator34=U11
-Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator35=U12
-ParamVariation36=ParameterName=AN|VariantValue=30863
-ParamDesignator36=U12
-ParamVariation37=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator37=U12
-ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator38=U12
-ParamVariation39=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator39=U12
-ParamVariation40=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator40=U12
-ParamVariation41=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator41=U12
-ParamVariation42=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator42=U12
-ParamVariation43=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator43=U12
-ParamVariation44=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator44=U12
-ParamVariation45=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator45=U12
-ParamVariation46=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator46=U12
-ParamVariation47=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator47=U12
-ParamVariation48=ParameterName=PCB3D|VariantValue= 
-ParamDesignator48=U12
-ParamVariation49=ParameterName=Pin Info|VariantValue= 
-ParamDesignator49=U12
-ParamVariation50=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator50=U12
-ParamVariation51=ParameterName=Simulation|VariantValue= 
-ParamDesignator51=U12
-Variation17=Designator=R210|UniqueId=\PRYVHNCG\SRGQWFTK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation52=ParameterName=Comment|VariantValue==Value
-ParamDesignator52=R210
-ParamVariation53=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator53=R210
-ParamVariation54=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator54=R210
-ParamVariation55=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator55=R210
-ParamVariation56=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator56=R210
-ParamVariation57=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator57=R210
-ParamVariation58=ParameterName=Device Package|VariantValue=0603
-ParamDesignator58=R210
-ParamVariation59=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator59=R210
-ParamVariation60=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator60=R210
-ParamVariation61=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator61=R210
-ParamVariation62=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator62=R210
-ParamVariation63=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator63=R210
-ParamVariation64=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator64=R210
-ParamVariation65=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator65=R210
-ParamVariation66=ParameterName=PartID|VariantValue=581
-ParamDesignator66=R210
-ParamVariation67=ParameterName=PCB3D|VariantValue= 
-ParamDesignator67=R210
-ParamVariation68=ParameterName=Pin Info|VariantValue= 
-ParamDesignator68=R210
-ParamVariation69=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator69=R210
-ParamVariation70=ParameterName=Simulation|VariantValue= 
-ParamDesignator70=R210
-ParamVariation71=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator71=R210
-ParamVariation72=ParameterName=Value|VariantValue=0R
-ParamDesignator72=R210
-ParamVariationCount=72
-
-[ProjectVariant6]
-UniqueID=95454976-79B8-4E66-9AF1-267D6CA64A86
-Description=S003
-AllowFabrication=0
-ParameterCount=0
-VariationCount=16
-Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
-Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
-Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
-Variation4=Designator=R221|UniqueId=\ZWVYQITM\LGOSEZVH|Kind=1|AlternatePart= 
-Variation5=Designator=R223|UniqueId=\ZWVYQITM\JXBIWDAY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\ZWVYQITM\VQIKTBYX|Kind=1|AlternatePart= 
-Variation7=Designator=R96|UniqueId=\ZWVYQITM\VWGLMNYP|Kind=1|AlternatePart= 
-Variation8=Designator=R48L|UniqueId=\PRYVHNCG\MFQIOTNT|Kind=1|AlternatePart= 
-Variation9=Designator=R139Y|UniqueId=\XNHGUPXE\RIGXVJCL|Kind=1|AlternatePart= 
-Variation10=Designator=R26|UniqueId=\DSZVNOFL\UEKCIFFV\TKHCMRHN|Kind=1|AlternatePart= 
-Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|AlternatePart= 
-Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
-Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
-Variation14=Designator=U10|UniqueId=\ZWVYQITM\EGGJOIID|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator1=U10
-ParamVariation2=ParameterName=AN|VariantValue=30863
-ParamDesignator2=U10
-ParamVariation3=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator3=U10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=U10
-ParamVariation5=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator5=U10
-ParamVariation6=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator6=U10
-ParamVariation7=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator7=U10
-ParamVariation8=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator8=U10
-ParamVariation9=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator9=U10
-ParamVariation10=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator10=U10
-ParamVariation11=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator11=U10
-ParamVariation12=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator12=U10
-ParamVariation13=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator13=U10
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=U10
-ParamVariation15=ParameterName=Pin Info|VariantValue= 
-ParamDesignator15=U10
-ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator16=U10
-ParamVariation17=ParameterName=Simulation|VariantValue= 
-ParamDesignator17=U10
-Variation15=Designator=U11|UniqueId=\ZWVYQITM\NVWDZHWC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation18=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator18=U11
-ParamVariation19=ParameterName=AN|VariantValue=30863
-ParamDesignator19=U11
-ParamVariation20=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator20=U11
-ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator21=U11
-ParamVariation22=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator22=U11
-ParamVariation23=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator23=U11
-ParamVariation24=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator24=U11
-ParamVariation25=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator25=U11
-ParamVariation26=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator26=U11
-ParamVariation27=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator27=U11
-ParamVariation28=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator28=U11
-ParamVariation29=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator29=U11
-ParamVariation30=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator30=U11
-ParamVariation31=ParameterName=PCB3D|VariantValue= 
-ParamDesignator31=U11
-ParamVariation32=ParameterName=Pin Info|VariantValue= 
-ParamDesignator32=U11
-ParamVariation33=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator33=U11
-ParamVariation34=ParameterName=Simulation|VariantValue= 
-ParamDesignator34=U11
-Variation16=Designator=U12|UniqueId=\ZWVYQITM\QRBYYKVC|Kind=2|AlternatePart=[Cust.Supply] 171050601|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=B:\AD\adlib\dbww\TE.DbLib/CUST_SUPPLY|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=30863|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TE.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=CUST_SUPPLY|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=7TO-PMOD|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=Comment|VariantValue=[Cust.Supply] 171050601
-ParamDesignator35=U12
-ParamVariation36=ParameterName=AN|VariantValue=30863
-ParamDesignator36=U12
-ParamVariation37=ParameterName=Case|VariantValue=TO263-7EP
-ParamDesignator37=U12
-ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator38=U12
-ParamVariation39=ParameterName=Database Table Name|VariantValue=CUST_SUPPLY
-ParamDesignator39=U12
-ParamVariation40=ParameterName=Description|VariantValue=[Cust.Supply] 171050601
-ParamDesignator40=U12
-ParamVariation41=ParameterName=Extra|VariantValue=TUM / TEC0194
-ParamDesignator41=U12
-ParamVariation42=ParameterName=Footprint|VariantValue=7TO-PMOD
-ParamDesignator42=U12
-ParamVariation43=ParameterName=H-ART|VariantValue=171050601
-ParamDesignator43=U12
-ParamVariation44=ParameterName=HelpURL|VariantValue=B:\AD\adlib\datasheet\171050601
-ParamDesignator44=U12
-ParamVariation45=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator45=U12
-ParamVariation46=ParameterName=Library Reference|VariantValue=30863
-ParamDesignator46=U12
-ParamVariation47=ParameterName=Mixed|VariantValue=SMT
-ParamDesignator47=U12
-ParamVariation48=ParameterName=PCB3D|VariantValue= 
-ParamDesignator48=U12
-ParamVariation49=ParameterName=Pin Info|VariantValue= 
-ParamDesignator49=U12
-ParamVariation50=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator50=U12
-ParamVariation51=ParameterName=Simulation|VariantValue= 
-ParamDesignator51=U12
-ParamVariationCount=51
-
-[ProjectVariant7]
 UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
-Description=Rev05
+Description=Rev05Batch00
 AllowFabrication=0
 ParameterCount=0
 VariationCount=37
@@ -2410,7 +1528,7 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=Rev05
+SCH_VariantName=Rev05Batch00
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0

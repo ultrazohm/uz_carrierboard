@@ -1347,7 +1347,7 @@ UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
 Description=Rev05Batch00
 AllowFabrication=0
 ParameterCount=0
-VariationCount=37
+VariationCount=35
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1362,114 +1362,28 @@ Variation11=Designator=R27|UniqueId=\DSZVNOFL\UEKCIFFV\QMMNAFHK|Kind=1|Alternate
 Variation12=Designator=R200A|UniqueId=\XNHGUPXE\XGOIVWES\SAWAFHVG|Kind=1|AlternatePart= 
 Variation13=Designator=R200B|UniqueId=\XNHGUPXE\LDBGVZWU\SAWAFHVG|Kind=1|AlternatePart= 
 Variation14=Designator=R200C|UniqueId=\SSLHFLSR\PCBBJJMR\SAWAFHVG|Kind=1|AlternatePart= 
-Variation15=Designator=R203C|UniqueId=\SSLHFLSR\PCBBJJMR\CHHBYINB|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_0R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R203C
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=R203C
-ParamVariation3=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator3=R203C
-ParamVariation4=ParameterName=Created On|VariantValue=08/07/2024 14:34:30
-ParamDesignator4=R203C
-ParamVariation5=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator5=R203C
-ParamVariation6=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator6=R203C
-ParamVariation7=ParameterName=Device Package|VariantValue=0603
-ParamDesignator7=R203C
-ParamVariation8=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator8=R203C
-ParamVariation9=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator9=R203C
-ParamVariation10=ParameterName=Last Updated|VariantValue=08/07/2024 14:34:30
-ParamDesignator10=R203C
-ParamVariation11=ParameterName=Library Reference|VariantValue=UZgen_R_0603_0R
-ParamDesignator11=R203C
-ParamVariation12=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator12=R203C
-ParamVariation13=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_0R
-ParamDesignator13=R203C
-ParamVariation14=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator14=R203C
-ParamVariation15=ParameterName=PartID|VariantValue=581
-ParamDesignator15=R203C
-ParamVariation16=ParameterName=PCB3D|VariantValue= 
-ParamDesignator16=R203C
-ParamVariation17=ParameterName=Pin Info|VariantValue= 
-ParamDesignator17=R203C
-ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator18=R203C
-ParamVariation19=ParameterName=Simulation|VariantValue= 
-ParamDesignator19=R203C
-ParamVariation20=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator20=R203C
-ParamVariation21=ParameterName=Value|VariantValue=0R
-ParamDesignator21=R203C
-Variation16=Designator=X15|UniqueId=\EOKJBQKX\XPZYRPUK|Kind=1|AlternatePart= 
-Variation17=Designator=R32C|UniqueId=\GDJTJOPP\1FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation18=Designator=R32D|UniqueId=\GDJTJOPP\2FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation19=Designator=R32E|UniqueId=\GDJTJOPP\3FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
-Variation20=Designator=R32F|UniqueId=\GDJTJOPP\1FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation21=Designator=R32G|UniqueId=\GDJTJOPP\2FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation22=Designator=R32H|UniqueId=\GDJTJOPP\3FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation23=Designator=R32I|UniqueId=\GDJTJOPP\4FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation24=Designator=R32J|UniqueId=\GDJTJOPP\5FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
-Variation25=Designator=R16|UniqueId=\DSZVNOFL\JMWRQNLI\TEITEXVK|Kind=1|AlternatePart= 
-Variation26=Designator=R109|UniqueId=\EOKJBQKX\ESCLERNO|Kind=1|AlternatePart= 
-Variation27=Designator=R44|UniqueId=\QANTEKJU\LGYYRUHI\FUOQGZWL|Kind=1|AlternatePart= 
-Variation28=Designator=R117|UniqueId=\LNKYODNA\HUNLJWZT\PDODVVTN|Kind=1|AlternatePart= 
-Variation29=Designator=R70|UniqueId=\GDJTJOPP\CSSULTYB|Kind=1|AlternatePart= 
-Variation30=Designator=R71|UniqueId=\GDJTJOPP\IQJPDFUT|Kind=1|AlternatePart= 
-Variation31=Designator=R72|UniqueId=\GDJTJOPP\JRSMLWXY|Kind=1|AlternatePart= 
-Variation32=Designator=R37|UniqueId=\DAFFKOFX\MHXGMFFM|Kind=1|AlternatePart= 
-Variation33=Designator=R38|UniqueId=\DAFFKOFX\RSJOBMYB|Kind=1|AlternatePart= 
-Variation34=Designator=R200D|UniqueId=\LNKYODNA\HUNLJWZT\XKDJNAWY\SAWAFHVG|Kind=1|AlternatePart= 
-Variation35=Designator=R145D|UniqueId=\LNKYODNA\HUNLJWZT\XKDJNAWY\JQGNWKFM|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\UltraZohm\Documents\altium\altium_libraries\user.DbLib/R_generic|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=UZgen_R_0603_200k|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=R_generic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
-ParamVariation22=ParameterName=Comment|VariantValue==Value
-ParamDesignator22=R145D
-ParamVariation23=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator23=R145D
-ParamVariation24=ParameterName=Created from|VariantValue=UZgenTool
-ParamDesignator24=R145D
-ParamVariation25=ParameterName=Created On|VariantValue=02/07/2024 17:29:50
-ParamDesignator25=R145D
-ParamVariation26=ParameterName=Database Table Name|VariantValue=R_generic
-ParamDesignator26=R145D
-ParamVariation27=ParameterName=Description|VariantValue=Generic resistor
-ParamDesignator27=R145D
-ParamVariation28=ParameterName=Device Package|VariantValue=0603
-ParamDesignator28=R145D
-ParamVariation29=ParameterName=Footprint|VariantValue=R_0603_TE
-ParamDesignator29=R145D
-ParamVariation30=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator30=R145D
-ParamVariation31=ParameterName=Last Updated|VariantValue=02/07/2024 17:29:50
-ParamDesignator31=R145D
-ParamVariation32=ParameterName=Library Reference|VariantValue=UZgen_R_0603_200k
-ParamDesignator32=R145D
-ParamVariation33=ParameterName=Manufacturer|VariantValue=UZgen
-ParamDesignator33=R145D
-ParamVariation34=ParameterName=Manufacturer Part Number|VariantValue=UZgen_R_0603_200k
-ParamDesignator34=R145D
-ParamVariation35=ParameterName=Mounting Type|VariantValue=SMD
-ParamDesignator35=R145D
-ParamVariation36=ParameterName=PartID|VariantValue=275
-ParamDesignator36=R145D
-ParamVariation37=ParameterName=PCB3D|VariantValue= 
-ParamDesignator37=R145D
-ParamVariation38=ParameterName=Pin Info|VariantValue= 
-ParamDesignator38=R145D
-ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator39=R145D
-ParamVariation40=ParameterName=Simulation|VariantValue= 
-ParamDesignator40=R145D
-ParamVariation41=ParameterName=Tolerance|VariantValue=1 %
-ParamDesignator41=R145D
-ParamVariation42=ParameterName=Value|VariantValue=200k
-ParamDesignator42=R145D
-Variation36=Designator=R32A|UniqueId=\JWCDCHPX\YAEBDDWS\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
-Variation37=Designator=R32B|UniqueId=\JWCDCHPX\ACLWVJDA\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
-ParamVariationCount=42
+Variation15=Designator=X15|UniqueId=\EOKJBQKX\XPZYRPUK|Kind=1|AlternatePart= 
+Variation16=Designator=R32C|UniqueId=\GDJTJOPP\1FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation17=Designator=R32D|UniqueId=\GDJTJOPP\2FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation18=Designator=R32E|UniqueId=\GDJTJOPP\3FUJJHQAH\TOFLAPLC\QCBKKTEE|Kind=1|AlternatePart= 
+Variation19=Designator=R32F|UniqueId=\GDJTJOPP\1FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation20=Designator=R32G|UniqueId=\GDJTJOPP\2FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation21=Designator=R32H|UniqueId=\GDJTJOPP\3FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation22=Designator=R32I|UniqueId=\GDJTJOPP\4FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation23=Designator=R32J|UniqueId=\GDJTJOPP\5FYUGHYFG\OILMNODA\QCBKKTEE|Kind=1|AlternatePart= 
+Variation24=Designator=R16|UniqueId=\DSZVNOFL\JMWRQNLI\TEITEXVK|Kind=1|AlternatePart= 
+Variation25=Designator=R109|UniqueId=\EOKJBQKX\ESCLERNO|Kind=1|AlternatePart= 
+Variation26=Designator=R44|UniqueId=\QANTEKJU\LGYYRUHI\FUOQGZWL|Kind=1|AlternatePart= 
+Variation27=Designator=R117|UniqueId=\LNKYODNA\HUNLJWZT\PDODVVTN|Kind=1|AlternatePart= 
+Variation28=Designator=R70|UniqueId=\GDJTJOPP\CSSULTYB|Kind=1|AlternatePart= 
+Variation29=Designator=R71|UniqueId=\GDJTJOPP\IQJPDFUT|Kind=1|AlternatePart= 
+Variation30=Designator=R72|UniqueId=\GDJTJOPP\JRSMLWXY|Kind=1|AlternatePart= 
+Variation31=Designator=R37|UniqueId=\DAFFKOFX\MHXGMFFM|Kind=1|AlternatePart= 
+Variation32=Designator=R38|UniqueId=\DAFFKOFX\RSJOBMYB|Kind=1|AlternatePart= 
+Variation33=Designator=R200D|UniqueId=\LNKYODNA\HUNLJWZT\XKDJNAWY\SAWAFHVG|Kind=1|AlternatePart= 
+Variation34=Designator=R32A|UniqueId=\JWCDCHPX\YAEBDDWS\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
+Variation35=Designator=R32B|UniqueId=\JWCDCHPX\ACLWVJDA\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter1]
 Name=AuthorParam

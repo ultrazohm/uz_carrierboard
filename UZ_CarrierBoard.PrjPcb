@@ -612,7 +612,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=Power_Supply_TPS54260.SchDoc
+DocumentPath=altium_subsheets\Power_Supply_TPS54260.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

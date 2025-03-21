@@ -782,7 +782,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=isoDebug.SchDoc
+DocumentPath=altium_subsheets\isoDebug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -799,7 +799,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CDSZNSWM
 
 [Document45]
-DocumentPath=isoDebug-FTDI.SchDoc
+DocumentPath=altium_subsheets\isoDebug-FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -816,7 +816,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZXHCYPLQ
 
 [Document46]
-DocumentPath=isoDebug-FTDI.Harness
+DocumentPath=altium_subsheets\isoDebug-FTDI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -833,7 +833,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=isoDebug.Harness
+DocumentPath=altium_subsheets\isoDebug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -935,7 +935,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document53]
-DocumentPath=Power_Monitoring_TPS3803.SchDoc
+DocumentPath=altium_subsheets\Power_Monitoring_TPS3803.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -986,7 +986,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IHIVEANZ
 
 [Document56]
-DocumentPath=S3C_MuxJTAG.SchDoc
+DocumentPath=altium_subsheets\S3C_MuxJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1003,7 +1003,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LGRAAJOA
 
 [Document57]
-DocumentPath=S3C_MuxJTAG.Harness
+DocumentPath=altium_subsheets\S3C_MuxJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1054,7 +1054,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TTXIKYXG
 
 [Document60]
-DocumentPath=Thermal.SchDoc
+DocumentPath=altium_subsheets\Thermal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1071,7 +1071,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KMVMEOQS
 
 [Document61]
-DocumentPath=Thermal.Harness
+DocumentPath=altium_subsheets\Thermal.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

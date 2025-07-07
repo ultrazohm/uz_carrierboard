@@ -986,7 +986,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IHIVEANZ
 
 [Document56]
-DocumentPath=altium_subsheets\S3C_MuxJTAG.SchDoc
+DocumentPath=altium_subsheets\SxC_MuxJTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1003,7 +1003,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LGRAAJOA
 
 [Document57]
-DocumentPath=altium_subsheets\S3C_MuxJTAG.Harness
+DocumentPath=altium_subsheets\SxC_MuxJTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1403,6 +1403,10 @@ Value=05
 [Parameter5]
 Name=Website
 Value=www.ultrazohm.com
+
+[Parameter6]
+Name=SubSheets_SheetTotal
+Value=40
 
 [Configuration1]
 Name=Default Configuration

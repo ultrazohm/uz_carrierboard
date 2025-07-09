@@ -20,3 +20,29 @@ Project\ Logs*/
 **/*.ldb
 
 # End of https://www.gitignore.io/api/altium
+
+Backpanel.Harness
+Backpanel_GigIO.Harness
+Backpanel_SwapMGT4.Harness
+DIG_S3C_MultiChannelFunnel.Harness
+Digital_Interface.Harness
+ETH-PHY.Harness
+ETH-PHY_SGMII_TI.Harness
+Frontpanel.Harness
+GTH.Harness
+GTR.Harness
+I2C0_Mux.Harness
+I2C_Subsystems.Harness
+J1-3xGTHQ_R+B66.Harness
+J2-1xGTHQ_L+1xGTHCLK+GTRQ+2xGTRCLK+4xPLLCLK+CFG+STAT.Harness
+J3-3xGTHCLK+1xPLLCLK+MIO+B47+B48.Harness
+LevelShiftingExtGPIO.Harness
+S3C_FrontpanelInterface.Harness
+S3C_IOs1V8.Harness
+S3C_IOs3V3.Harness
+S3C_SplitSPI.Harness
+S3C_SupplyAndMonitoring.Harness
+SD_Card.Harness
+Signal_Distribution.Harness
+SoM.Harness
+isoDebug-Isolation.Harness

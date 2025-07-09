@@ -1408,6 +1408,10 @@ Value=www.ultrazohm.com
 Name=SubSheets_SheetTotal
 Value=40
 
+[Parameter7]
+Name=Organization
+Value=UltraZohm
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

@@ -1,2 +1,0 @@
-DIG_S3C={Shared:DIG_S3C_Shared},{SlotD1:DIG_S3C_OneCh},{SlotD2:DIG_S3C_OneCh},{SlotD3:DIG_S3C_OneCh},{SlotD4:DIG_S3C_OneCh},{SlotD5:DIG_S3C_OneCh}
-DIG_S3C_OneCh=SlotOE,ReqOE,SlotOK

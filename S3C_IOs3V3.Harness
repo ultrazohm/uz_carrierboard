@@ -1,6 +1,0 @@
-FrontpanelIO={isoSigs:isoFlexIOs},{isoCtrl:isoIOsCtrl},ExternalSTOP,FlexMIO28_DP-HPD,FlexMIO27_DP-DTX,FlexMIO30_DP-DRX,FlexMIO29_DP-DOE,FlexMIO52_PCIe-R\S\T\
-I2C=SCL,SDA
-isoFlexIOs=FlexIO05,FlexIO04,FlexIO03,FlexIO02,FlexIO01
-isoIOsCtrl=R\S\T\,I\N\T\
-JTAG_S3C=TDO,TDI,TCK,TMS,ENB
-S3C_PWRMON=PG_VIN,P\P\_VIN

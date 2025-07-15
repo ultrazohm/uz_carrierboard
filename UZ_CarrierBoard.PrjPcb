@@ -1241,7 +1241,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
 
 [Document71]
-DocumentPath=Power_Protection_VIN.SchDoc
+DocumentPath=Rail_Protection_BP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1341,6 +1341,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document77]
+DocumentPath=Rail_Protection_AD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBANADPA
 
 [ProjectVariant1]
 UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2

@@ -37,6 +37,7 @@ J1-3xGTHQ_R+B66.Harness
 J2-1xGTHQ_L+1xGTHCLK+GTRQ+2xGTRCLK+4xPLLCLK+CFG+STAT.Harness
 J3-3xGTHCLK+1xPLLCLK+MIO+B47+B48.Harness
 LevelShiftingExtGPIO.Harness
+Rail_Shutdown_AD.Harness
 S3C_FrontpanelInterface.Harness
 S3C_IOs1V8.Harness
 S3C_IOs3V3.Harness

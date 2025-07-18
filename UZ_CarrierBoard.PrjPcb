@@ -1207,6 +1207,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document69]
+DocumentPath=ANL_P54_Buffer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=97
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RQHMRPCA
+
+[Document70]
 DocumentPath=DIG_S3C_MultiChannelFunnel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1223,7 +1240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOYCFJWQ
 
-[Document70]
+[Document71]
 DocumentPath=DIG_S3C_MultiChannelFunnel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1240,7 +1257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document72]
 DocumentPath=Block_Diagram_Safety.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1257,7 +1274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBXQEQXW
 
-[Document72]
+[Document73]
 DocumentPath=Rail_Protection_BP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1274,7 +1291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQWKXYXK
 
-[Document73]
+[Document74]
 DocumentPath=Digital_Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1291,7 +1308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document75]
 DocumentPath=Backpanel_GigIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1308,7 +1325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document76]
 DocumentPath=Backpanel_SwapMGT4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1325,7 +1342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFXBRETQ
 
-[Document76]
+[Document77]
 DocumentPath=Backpanel_SwapMGT4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1342,7 +1359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document78]
 DocumentPath=Backpanel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1359,7 +1376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document79]
 DocumentPath=Rail_Protection_AD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1376,7 +1393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBANADPA
 
-[Document79]
+[Document80]
 DocumentPath=Rail_Shutdown_AD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

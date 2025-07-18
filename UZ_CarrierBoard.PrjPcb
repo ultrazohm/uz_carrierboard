@@ -1398,7 +1398,7 @@ UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
 Description=Rev05Batch00
 AllowFabrication=0
 ParameterCount=0
-VariationCount=34
+VariationCount=35
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
 Variation3=Designator=R19|UniqueId=\DSZVNOFL\JMWRQNLI\MXISNUIC|Kind=1|AlternatePart= 
@@ -1433,6 +1433,7 @@ Variation31=Designator=R38|UniqueId=\DAFFKOFX\RSJOBMYB|Kind=1|AlternatePart=
 Variation32=Designator=R200D|UniqueId=\LNKYODNA\GTVAMXUE\SAWAFHVG|Kind=1|AlternatePart= 
 Variation33=Designator=R32BP-A|UniqueId=\JWCDCHPX\YAEBDDWS\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
 Variation34=Designator=R32BP-B|UniqueId=\JWCDCHPX\ACLWVJDA\FKFYBSSS\QCBKKTEE|Kind=1|AlternatePart= 
+Variation35=Designator=X3|UniqueId=\DAFFKOFX\ULWADWIQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]

@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev05Batch00
+CurrentVariant=Rev06Batch00
 
 [Preferences]
 PrefsVaultGUID=
@@ -1412,9 +1412,9 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=66209C20-0348-44FC-83B6-DDE234B19BC2
-Description=Rev05Batch00
-AllowFabrication=0
-ParameterCount=0
+Description=Rev06Batch00
+AllowFabrication=1
+ParameterCount=1
 VariationCount=30
 Variation1=Designator=D9|UniqueId=\ZWVYQITM\VBXFQHJR|Kind=1|AlternatePart= 
 Variation2=Designator=D13|UniqueId=\ZWVYQITM\BKEDBXJL|Kind=1|AlternatePart= 
@@ -1448,6 +1448,10 @@ Variation29=Designator=R32BP-B|UniqueId=\JWCDCHPX\ACLWVJDA\FKFYBSSS\QCBKKTEE|Kin
 Variation30=Designator=X3|UniqueId=\DAFFKOFX\ULWADWIQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[Parameter2_1]
+Name=ZC_vv
+Value=00
+
 [Parameter1]
 Name=AuthorParam
 Value=AG / EA / MG
@@ -1458,11 +1462,11 @@ Value=UZ_CarrierBoard
 
 [Parameter3]
 Name=ProjectDate
-Value=11/2024
+Value=07/2025
 
 [Parameter4]
 Name=ProjectRevision
-Value=05
+Value=06
 
 [Parameter5]
 Name=Website
@@ -1475,6 +1479,14 @@ Value=40
 [Parameter7]
 Name=Organization
 Value=UltraZohm
+
+[Parameter8]
+Name=ZC_GGG
+Value=00[12]
+
+[Parameter9]
+Name=ZC_PPP
+Value=001
 
 [Configuration1]
 Name=Default Configuration

@@ -1473,7 +1473,7 @@ Name=Website
 Value=www.ultrazohm.com
 
 [Parameter6]
-Name=SubSheets_SheetTotal
+Name=SheetTotal
 Value=40
 
 [Parameter7]

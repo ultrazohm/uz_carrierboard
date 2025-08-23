@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_CarrierBoard.PcbDoc   24/07/2025  12:12:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_CarrierBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             2616      PTH        254.62inch (6467.33mm)
+T2      12mil (0.3mm)                                             Round             901       PTH        147.43inch (3744.75mm)
+T3      40mil (1.02mm)                                            Round             8         PTH        0.73inch (18.62mm)
+T4      55mil (1.4mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T5      114mil (2.9mm)                                            Round             12        PTH        29.62inch (752.42mm)
+T6      126mil (3.2mm)                                            Round             2         PTH        3.21inch (81.55mm)
+T7      39mil (1mm)                                               Round             1         NPTH       0.00inch (0.00mm)
+T8      50mil (1.27mm)                                            Round             22        NPTH       49.79inch (1264.77mm)
+T9      51mil (1.3mm)                                             Round             3         NPTH       3.55inch (90.13mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3567
+
+Total Processing Time (hh:mm:ss) : 00:00:03
